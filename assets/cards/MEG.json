@@ -1,0 +1,1234 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/BulbasaurMegaevoluzione1.png"
+    },  
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Takumi Wada",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/IvysaurMegaevoluzione2.png"
+    },
+    {
+        "id": "003",
+        "name": "Mega Venusaur ex",
+        "type": "grass",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/MegaVenusaur-exMegaevoluzione3.png"
+    },
+    {
+        "id": "004",
+        "name": "Exeggcute",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "aspara",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/ExeggcuteMegaevoluzione4.png"
+    },
+    {
+        "id": "005",
+        "name": "Exeggutor",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/ExeggutorMegaevoluzione5.png"
+    },
+    {
+        "id": "006",
+        "name": "Tangela",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuriko Akase",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/TangelaMegaevoluzione6.png"
+    },
+    {
+        "id": "007",
+        "name": "Tangrowth",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "REND",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/TangrowthMegaevoluzione7.png"
+    },
+    {
+        "id": "008",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "kamonabe",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/ChikoritaMegaevoluzione8.png"
+    },
+    {
+        "id": "009",
+        "name": "Bayleef",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "nisimono",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/BayleefMegaevoluzione9.png"
+    },
+    {
+        "id": "010",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://media.pokemoncentral.it/wiki/3/3a/MeganiumMegaevoluzione10.png"
+    },
+    {
+        "id": "011",
+        "name": "Shuckle",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/ShuckleMegaevoluzione11.png"
+    },
+    {
+        "id": "012",
+        "name": "Celebi",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Naoki Saito",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/CelebiMegaevoluzione12.png"
+    },
+    {
+        "id": "013",
+        "name": "Seedot",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/SeedotMegaevoluzione13.png"
+    },
+    {
+        "id": "014",
+        "name": "Nuzleaf",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "takashi shiraishi",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/NuzleafMegaevoluzione14.png"
+    },
+    {
+        "id": "015",
+        "name": "Shiftry",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Uninori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/ShiftryMegaevoluzione15.png"
+    },
+    {
+        "id": "016",
+        "name": "Nincada",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kuroimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/NincadaMegaevoluzione16.png"
+    },
+    {
+        "id": "017",
+        "name": "Ninjask",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Apios",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/NinjaskMegaevoluzione17.png"
+    },
+    {
+        "id": "018",
+        "name": "Dhelmise",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Haru Akasaka",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/DhelmiseMegaevoluzione18.png"
+    },
+    {
+        "id": "019",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/VulpixMegaevoluzione19.png"
+    },
+    {
+        "id": "020",
+        "name": "Ninetales",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "satoma",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/NinetalesMegaevoluzione20.png"
+    },
+    {
+        "id": "021",
+        "name": "Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Wintr Wandr",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/NumelMegaevoluzione21.png"
+    },
+    {
+        "id": "022",
+        "name": "Mega Camerupt ex",
+        "type": "fire",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/3/36/MegaCamerupt-exMegaevoluzione22.png"
+    },
+    {
+        "id": "023",
+        "name": "Litleo",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kurata So",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/LitleoMegaevoluzione23.png"
+    },
+    {
+        "id": "024",
+        "name": "Pyroar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/PyroarMegaevoluzione24.png"
+    },
+    {
+        "id": "025",
+        "name": "Volcanion",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "GIDORA",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/VolcanionMegaevoluzione25.png"
+    },
+    {
+        "id": "026",
+        "name": "Scorbunny",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "svlt",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/b/b7/ScorbunnyMegaevoluzione26.png/172px-ScorbunnyMegaevoluzione26.png"
+    },
+    {
+        "id": "027",
+        "name": "Raboot",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Narumi Sato",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/RabootMegaevoluzione27.png"
+    },
+    {
+        "id": "028",
+        "name": "Cinderace",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "REND",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/CinderaceMegaevoluzione28.png"
+    },
+    {
+        "id": "029",
+        "name": "Sizzlipede",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "GIDORA",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/SizzlipedeMegaevoluzione29.png"
+    },
+    {
+        "id": "030",
+        "name": "Centiskorch",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Shiburingaru",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/CentiskorchMegaevoluzione30.png"
+    },
+    {
+        "id": "031",
+        "name": "Chi-Yu",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Gemi",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/Chi-YuMegaevoluzione31.png"
+    },
+    {
+        "id": "032",
+        "name": "Mantine",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/MantineMegaevoluzione32.png"
+    },
+    {
+        "id": "033",
+        "name": "Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Sanosuke Sakuma",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/CorphishMegaevoluzione33.png"
+    },
+    {
+        "id": "034",
+        "name": "Kyogre",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Nisota Niso",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/KyogreMegaevoluzione34.png"
+    },
+    {
+        "id": "035",
+        "name": "Snover",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Pani Kobayashi",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/SnoverMegaevoluzione35.png"
+    },
+    {
+        "id": "036",
+        "name": "Mega Abomasnow ex",
+        "type": "water",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/MegaAbomasnow-exMegaevoluzione36.png"
+    },
+    {
+        "id": "037",
+        "name": "Clauncher",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomakazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/ClauncherMegaevoluzione37.png"
+    },
+    {
+        "id": "038",
+        "name": "Clawitzer",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/ClawitzerMegaevoluzione38.png"
+    },
+    {
+        "id": "039",
+        "name": "Sobble",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Taira Akitsu",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/SobbleMegaevoluzione39.png"
+    },
+    {
+        "id": "040",
+        "name": "Drizzile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/DrizzileMegaevoluzione40.png"
+    },
+    {
+        "id": "041",
+        "name": "Inteleon",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "akagi",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/InteleonMegaevoluzione41.png"
+    },
+    {
+        "id": "042",
+        "name": "Snom",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/SnomMegaevoluzione42.png"
+    },
+    {
+        "id": "043",
+        "name": "Frosmoth",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "miki kudo",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/FrosmothMegaevoluzione43.png"
+    },
+    {
+        "id": "044",
+        "name": "Eiscue",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Akira Komayama",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/EiscueMegaevoluzione44.png"
+    },
+    {
+        "id": "045",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Krgc",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/MagnemiteMegaevoluzione45.png"
+    },
+    {
+        "id": "046",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Saboteri",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/MagnetonMegaevoluzione46.png"
+    },
+    {
+        "id": "047",
+        "name": "Magnezone",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "nagimiso",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/MagnezoneMegaevoluzione47.png"
+    },
+    {
+        "id": "048",
+        "name": "Raikou",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Takumi Wada",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/RaikouMegaevoluzione48.png"
+    },
+    {
+        "id": "049",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Naoki Saito",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/ElectrikeMegaevoluzione49.png"
+    },
+    {
+        "id": "050",
+        "name": "Mega Magnetric ex",
+        "type": "electric",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/MegaManectric-exMegaevoluzione50.png"
+    },
+    {
+        "id": "051",
+        "name": "Pachirisu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "tono",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/PachirisuMegaevoluzione51.png"
+    },
+    {
+        "id": "052",
+        "name": "Helioptile",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/HelioptileMegaevoluzione52.png"
+    },
+    {
+        "id": "053",
+        "name": "Heliolisk",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Nakamura Ippan",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/HelioliskMegaevoluzione53.png"
+    },
+    {
+        "id": "054",
+        "name": "Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Orca",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/AbraMegaevoluzione54.png"
+    },
+    {
+        "id": "055",
+        "name": "Kadabra",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Saboteri",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/KadabraMegaevoluzione55.png"
+    },
+    {
+        "id": "056",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Bun Toujo",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/AlakazamMegaevoluzione56.png"
+    },
+    {
+        "id": "057",
+        "name": "Jynx",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Minahamu",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/JynxMegaevoluzione57.png"
+    },
+    {
+        "id": "058",
+        "name": "Ralts",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Terada Tera",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/RaltsMegaevoluzione58.png"
+    },
+    {
+        "id": "059",
+        "name": "Kirlia",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "satoma",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/KirliaMegaevoluzione59.png"
+    },
+    {
+        "id": "060",
+        "name": "Mega Gardevoir ex",
+        "type": "psychic",
+        "rarity": "RR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/MegaGardevoir-exMegaevoluzione60.png"
+    },
+    {
+        "id": "061",
+        "name": "Shedinja",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "IKEDA Saki",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/ShedinjaMegaevoluzione61.png"
+    },
+    {
+        "id": "062",
+        "name": "Spoink",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "toi8",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/SpoinkMegaevoluzione62.png"
+    },
+    {
+        "id": "063",
+        "name": "grumpig",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "cochi8i",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/GrumpigMegaevoluzione63.png"
+    },
+    {
+        "id": "064",
+        "name": "Xerneas",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/XerneasMegaevoluzione64.png"
+    },
+    {
+        "id": "065",
+        "name": "Greavard",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Narumi Sato",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/GreavardMegaevoluzione65.png"
+    },
+    {
+        "id": "066",
+        "name": "Houndstone",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "matazo",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/HoundstoneMegaevoluzione66.png"
+    },
+    {
+        "id": "067",
+        "name": "Gimmighoul",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/GimmighoulMegaevoluzione67.png"
+    },
+    {
+        "id": "068",
+        "name": "Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Shinji Kanda",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/SandshrewMegaevoluzione68.png"
+    },
+    {
+        "id": "069",
+        "name": "Sandslash",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "imoniii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/SandslashMegaevoluzione69.png"
+    },
+    {
+        "id": "070",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Uta",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/OnixMegaevoluzione70.png"
+    },
+    {
+        "id": "071",
+        "name": "Tyrogue",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "OKUBO",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/TyrogueMegaevoluzione71.png"
+    },
+    {
+        "id": "072",
+        "name": "Makuhita",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Jerky",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/MakuhitaMegaevoluzione72.png"
+    },
+    {
+        "id": "073",
+        "name": "Hariyama",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "GOSSAN",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/HariyamaMegaevoluzione73.png"
+    },
+    {
+        "id": "074",
+        "name": "Lunatone",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Whisker",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/LunatoneMegaevoluzione74.png"
+    },
+    {
+        "id": "075",
+        "name": "Solrock",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Whisker",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/b/bd/SolrockMegaevoluzione75.png/172px-SolrockMegaevoluzione75.png"
+    },
+    {
+        "id": "076",
+        "name": "Riolu",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "hncl",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/RioluMegaevoluzione76.png"
+    },
+    {
+        "id": "077",
+        "name": "Mega Lucario ex",
+        "type": "fighting",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/MegaLucario-exMegaevoluzione77.png"
+    },
+    {
+        "id": "078",
+        "name": "Croagunk",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "matazo",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/CroagunkMegaevoluzione78.png"
+    },
+    {
+        "id": "079",
+        "name": "Toxicroak",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hasuno",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/ToxicroakMegaevoluzione79.png"
+    },
+    {
+        "id": "080",
+        "name": "Marshadow",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Tomomi Ozaki",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/MarshadowMegaevoluzione80.png"
+    },
+    {
+        "id": "081",
+        "name": "Stonjourner",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/StonjournerMegaevoluzione81.png"
+    },
+    {
+        "id": "082",
+        "name": "Nacli",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "sowsow",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/b/be/NacliMegaevoluzione82.png/172px-NacliMegaevoluzione82.png"
+    },
+    {
+        "id": "083",
+        "name": "Naclstack",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "kodama",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/e/e4/NaclstackMegaevoluzione83.png/172px-NaclstackMegaevoluzione83.png"
+    },
+    {
+        "id": "084",
+        "name": "Garganacl",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "danciao",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/GarganaclMegaevoluzione84.png"
+    },
+    {
+        "id": "085",
+        "name": "Crawdaunt",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "kawayoo",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/CrawdauntMegaevoluzione85.png"
+    },
+    {
+        "id": "086",
+        "name": "Mega Absol ex",
+        "type": "dark",
+        "rarity": "RR",
+        "illustrator": "aky CG Works",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/MegaAbsol-exMegaevoluzione86.png"
+    },
+    {
+        "id": "087",
+        "name": "Spiritomb",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "mingo",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/SpiritombMegaevoluzione87.png"
+    },
+    {
+        "id": "088",
+        "name": "Yveltal",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "akagi",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/YveltalMegaevoluzione88.png"
+    },
+    {
+        "id": "089",
+        "name": "Nickit",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/NickitMegaevoluzione89.png"
+    },
+    {
+        "id": "090",
+        "name": "Thievul",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/ThievulMegaevoluzione90.png"
+    },
+    {
+        "id": "091",
+        "name": "Shroodle",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "osare",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/f6/ShroodleMegaevoluzione91.png/172px-ShroodleMegaevoluzione91.png"
+    },
+    {
+        "id": "092",
+        "name": "Grafaiai",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Dsuke",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/GrafaiaiMegaevoluzione92.png"
+    },
+    {
+        "id": "093",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/9/9a/SteelixMegaevoluzione93.png/172px-SteelixMegaevoluzione93.png"
+    },
+    {
+        "id": "094",
+        "name": "Mega Mawile ex",
+        "type": "steel",
+        "rarity": "RR",
+        "illustrator": "aky CG Works",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/MegaMawile-exMegaevoluzione94.png"
+    },
+    {
+        "id": "095",
+        "name": "Dialga",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Teeziro",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/DialgaMegaevoluzione95.png"
+    },
+    {
+        "id": "096",
+        "name": "Tinkatink",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "You Iribi",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/TinkatinkMegaevoluzione96.png"
+    },
+    {
+        "id": "097",
+        "name": "Tinkatuff",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/TinkatuffMegaevoluzione97.png"
+    },
+    {
+        "id": "098",
+        "name": "Tinkaton",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "toriyufu",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/TinkatonMegaevoluzione98.png"
+    },
+    {
+        "id": "099",
+        "name": "Gholdengo",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Yukihiro Tada",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/GholdengoMegaevoluzione99.png"
+    },
+    {
+        "id": "100",
+        "name": "Mega Latias ex",
+        "type": "dragon",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/MegaLatias-exMegaevoluzione100.png"
+    },
+    {
+        "id": "101",
+        "name": "Latios",
+        "type": "dragon",
+        "rarity": "U",
+        "illustrator": "Uninori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/LatiosMegaevoluzione101.png"
+    },
+    {
+        "id": "102",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Scav",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/SpearowMegaevoluzione102.png"
+    },
+    {
+        "id": "103",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Saboteri",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/FearowMegaevoluzione103.png"
+    },
+    {
+        "id": "104",
+        "name": "Mega Kanganskhan ex",
+        "type": "colorless",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/MegaKangaskhan-exMegaevoluzione104.png"
+    },
+    {
+        "id": "105",
+        "name": "Delibird",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/DelibirdMegaevoluzione105.png"
+    },
+    {
+        "id": "106",
+        "name": "Miltank",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/MiltankMegaevoluzione106.png"
+    },
+    {
+        "id": "107",
+        "name": "Buneary",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/BunearyMegaevoluzione107.png"
+    },
+    {
+        "id": "108",
+        "name": "Lopunny",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Oswaldo KATO",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/LopunnyMegaevoluzione108.png"
+    },
+    {
+        "id": "109",
+        "name": "Yungoos",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mékayu",
+        "image": "https://media.pokemoncentral.it/wiki/1/16/YungoosMegaevoluzione109.png"
+    },
+    {
+        "id": "110",
+        "name": "Gumshoos",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/GumshoosMegaevoluzione110.png"
+    },
+    {
+        "id": "111",
+        "name": "Stufful",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Shibuzoh",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/StuffulMegaevoluzione111.png"
+    },
+    {
+        "id": "112",
+        "name": "Bewear",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/BewearMegaevoluzione112.png"
+    },
+    {
+        "id": "113",
+        "name": "Birichinata di Malpi",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Yuu Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/BirichinatadiMalpiMegaevoluzione113.png"
+    },
+    {
+        "id": "114",
+        "name": "Ordini del Capo",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "NC Empire",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/OrdinidelCapoMegaevoluzione114.png"
+    },
+    {
+        "id": "115",
+        "name": "Scambio di Energia",
+        "type": "",
+        "rarity": "C",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/ScambiodiEnergiaMegaevoluzione115.png"
+    },
+    {
+        "id": "116",
+        "name": "Gong di Lotta",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/GongdiLottaMegaevoluzione116.png"
+    },
+    {
+        "id": "117",
+        "name": "Bosco della Vitalità",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/7/70/BoscodellaVitalit%C3%A0Megaevoluzione117.png"
+    },
+    {
+        "id": "118",
+        "name": "Difensore Ferreo",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/DifensoreFerreoMegaevoluzione118.png"
+    },
+    {
+        "id": "119",
+        "name": "Determinazione di Lylia",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/DeterminazionediLyliaMegaevoluzione119.png"
+    },
+    {
+        "id": "120",
+        "name": "Affare di Lt. Surge",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/AffarediLtSurgeMegaevoluzione120.png"
+    },
+    {
+        "id": "121",
+        "name": "Megasegnale",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "inose yukie",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/MegasegnaleMegaevoluzione121.png"
+    },
+    {
+        "id": "122",
+        "name": "Giardino dei Misteri",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/1/16/GiardinodeiMisteriMegaevoluzione122.png"
+    },
+    {
+        "id": "123",
+        "name": "Addetta del Centro Pokémon",
+        "type": "",
+        "rarity": "C",
+        "illustrator": "Tomowaka",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/AddettadelCentroPok%C3%A9monMegaevoluzione123.png"
+    },
+    {
+        "id": "124",
+        "name": "Potenza Premium Pro",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/PotenzaPremiumProMegaevoluzione124.png"
+    },
+    {
+        "id": "125",
+        "name": "Caramella Rara",
+        "type": "",
+        "rarity": "C",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/CaramellararaMegaevoluzione125.png"
+    },
+    {
+        "id": "126",
+        "name": "Repellente",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/RepellenteMegaevoluzione126.png"
+    },
+    {
+        "id": "127",
+        "name": "Rovine Insidiose",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "imoniii",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/RovineInsidioseMegaevoluzione127.png"
+    },
+    {
+        "id": "128",
+        "name": "Orologio Sospetto",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/OrologioSospettoMegaevoluzione128.png"
+    },
+    {
+        "id": "129",
+        "name": "Spiaggia dei Surfisti",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/SpiaggiadeiSurfistiMegaevoluzione129.png"
+    },
+    {
+        "id": "130",
+        "name": "Scambio",
+        "type": "",
+        "rarity": "C",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/ScambioMegaevoluzione130.png"
+    },
+    {
+        "id": "131",
+        "name": "Ultra Ball",
+        "type": "",
+        "rarity": "C",
+        "illustrator": "Ayaka Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/UltraBallMegaevoluzione131.png"
+    },
+    {
+        "id": "132",
+        "name": "Compassione di Lino",
+        "type": "",
+        "rarity": "U",
+        "illustrator": "Iori Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/CompassionediLinoMegaevoluzione132.png"
+    },
+    {
+        "id": "133",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "Iori Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/BulbasaurMegaevoluzione133.png"
+    },
+    {
+        "id": "134",
+        "name": "Ivysaur",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "mashu",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/IvysaurMegaevoluzione134.png"
+    },
+    {
+        "id": "135",
+        "name": "Exeggutor",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "Yukihiro Tada",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/ExeggutorMegaevoluzione135.png"
+    },
+    {
+        "id": "136",
+        "name": "Shuckle",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "OKUBO",
+        "image": "https://media.pokemoncentral.it/wiki/f/fa/ShuckleMegaevoluzione136.png"
+    },
+    {
+        "id": "137",
+        "name": "Ninjask",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/NinjaskMegaevoluzione137.png"
+    },
+    {
+        "id": "138",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "IR",
+        "illustrator": "saino misaki",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/VulpixMegaevoluzione138.png"
+    },
+    {
+        "id": "139",
+        "name": "Litleo",
+        "type": "fire",
+        "rarity": "IR",
+        "illustrator": "Teeziro",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/LitleoMegaevoluzione139.png"
+    },
+    {
+        "id": "140",
+        "name": "Snover",
+        "type": "water",
+        "rarity": "IR",
+        "illustrator": "Nurikabe",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/SnoverMegaevoluzione140.png"
+    },
+    {
+        "id": "141",
+        "name": "Clawitzer",
+        "type": "water",
+        "rarity": "IR",
+        "illustrator": "Mori Yuu",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/ClawitzerMegaevoluzione141.png"
+    },
+    {
+        "id": "142",
+        "name": "Inteleon",
+        "type": "water",
+        "rarity": "IR",
+        "illustrator": "Ligton",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/InteleonMegaevoluzione142.png"
+    },
+    {
+        "id": "143",
+        "name": "Helioptile",
+        "type": "electric",
+        "rarity": "IR",
+        "illustrator": "Akira Komayama",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/HelioptileMegaevoluzione143.png"
+    },
+    {
+        "id": "144",
+        "name": "Shedinja",
+        "type": "psychic",
+        "rarity": "IR",
+        "illustrator": "Tetsu Kayama",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/ShedinjaMegaevoluzione144.png"
+    },
+    {
+        "id": "145",
+        "name": "Houndstone",
+        "type": "psychic",
+        "rarity": "IR",
+        "illustrator": "Arai Kiriko",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/HoundstoneMegaevoluzione145.png"
+    },
+    {
+        "id": "146",
+        "name": "Marshadow",
+        "type": "fighting",
+        "rarity": "IR",
+        "illustrator": "0313",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/MarshadowMegaevoluzione146.png"
+    },
+    {
+        "id": "147",
+        "name": "Garganacl",
+        "type": "fighting",
+        "rarity": "IR",
+        "illustrator": "Yano Keiji",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/GarganaclMegaevoluzione147.png"
+    },
+    {
+        "id": "148",
+        "name": "Spiritomb",
+        "type": "dark",
+        "rarity": "IR",
+        "illustrator": "IKEDA Saki",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/SpiritombMegaevoluzione148.png"
+    },
+    {
+        "id": "149",
+        "name": "Shroodle",
+        "type": "dark",
+        "rarity": "IR",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/ShroodleMegaevoluzione149.png"
+    },
+    {
+        "id": "150",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "IR",
+        "illustrator": "Tonji Matsuno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/SteelixMegaevoluzione150.png"
+    },
+    {
+        "id": "151",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/SpearowMegaevoluzione151.png"
+    },
+    {
+        "id": "152",
+        "name": "Delibird",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/DelibirdMegaevoluzione152.png"
+    },
+    {
+        "id": "153",
+        "name": "Gumshoos",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "Mina Nakai",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/GumshoosMegaevoluzione153.png"
+    },
+    {
+        "id": "154",
+        "name": "Stufful",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "OKACHEKE",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/StuffulMegaevoluzione154.png"
+    }
+]

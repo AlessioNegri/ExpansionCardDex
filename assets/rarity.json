@@ -1,0 +1,16 @@
+{
+    "C": "Common",
+    "U": "Uncommon",
+    "R": "Rare",
+    "RR": "Double Rare",
+    "IR": "Illustration Rare",
+    "UR": "Ultra Rare",
+
+    "AR": "Art Rare",
+    "SR": "Super Rare",
+    "SAR": "Special Art Rare",
+    "IM": "Immersive Rare",
+    "URa": "aaCrown Rare",
+    "S": "Shiny",
+    "SSR": "Shiny Super Rare"
+}

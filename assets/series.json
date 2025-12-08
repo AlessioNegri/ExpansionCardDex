@@ -1,0 +1,232 @@
+{
+    "series":
+    [
+        {
+            "name": "Scarlatto e Violetto",
+            "expansions":
+            [
+                {
+                    "name": "Scarlatto e Violetto",
+                    "code": "SVI",
+                    "type": "M",
+                    "releaseDate": "2023-03-31",
+                    "totalCards": 258,
+                    "regularCards": 198,
+                    "secretCards": 60,
+                    "image": "https://media.pokemoncentral.it/wiki/1/10/Logo_Scarlatto_e_Violetto.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Evoluzioni a Paldea",
+                    "code": "PAL",
+                    "type": "M",
+                    "releaseDate": "2023-06-09",
+                    "totalCards": 279,
+                    "regularCards": 193,
+                    "secretCards": 86,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/9/9f/Logo_Evoluzioni_a_Paldea.png/800px-Logo_Evoluzioni_a_Paldea.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Ossidiana Infuocata",
+                    "code": "OBF",
+                    "type": "M",
+                    "releaseDate": "2023-08-11",
+                    "totalCards": 230,
+                    "regularCards": 197,
+                    "secretCards": 33,
+                    "image": "https://media.pokemoncentral.it/wiki/c/c6/Logo_Ossidiana_Infuocata.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - 151",
+                    "code": "MEW",
+                    "type": "S",
+                    "releaseDate": "2023-09-22",
+                    "totalCards": 210,
+                    "regularCards": 165,
+                    "secretCards": 45,
+                    "image": "https://media.pokemoncentral.it/wiki/9/92/Logo_151.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Paradosso Temporale",
+                    "code": "PAR",
+                    "type": "M",
+                    "releaseDate": "2023-11-03",
+                    "totalCards": 266,
+                    "regularCards": 182,
+                    "secretCards": 84,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/1/12/Logo_Paradosso_Temporale.png/800px-Logo_Paradosso_Temporale.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Destino di Paldea",
+                    "code": "PAF",
+                    "type": "S",
+                    "releaseDate": "2024-01-26",
+                    "totalCards": 245,
+                    "regularCards": 91,
+                    "secretCards": 154,
+                    "image": "https://media.pokemoncentral.it/wiki/2/28/Logo_Destino_di_Paldea.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Cronoforze",
+                    "code": "TEF",
+                    "type": "M",
+                    "releaseDate": "2024-03-22",
+                    "totalCards": 218,
+                    "regularCards": 162,
+                    "secretCards": 56,
+                    "image": "https://media.pokemoncentral.it/wiki/2/2e/Logo_Cronoforze.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Crepuscolo Mascherato",
+                    "code": "TWM",
+                    "type": "M",
+                    "releaseDate": "2024-05-24",
+                    "totalCards": 226,
+                    "regularCards": 167,
+                    "secretCards": 59,
+                    "image": "https://media.pokemoncentral.it/wiki/c/ce/Logo_Crepuscolo_Mascherato.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Segreto Fiabesco",
+                    "code": "SFA",
+                    "type": "S",
+                    "releaseDate": "2024-08-02",
+                    "totalCards": 99,
+                    "regularCards": 64,
+                    "secretCards": 35,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/3/37/Logo_Segreto_Fiabesco.png/800px-Logo_Segreto_Fiabesco.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Corona Astrale",
+                    "code": "SCR",
+                    "type": "M",
+                    "releaseDate": "2024-09-13",
+                    "totalCards": 175,
+                    "regularCards": 142,
+                    "secretCards": 33,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/e/ed/Logo_Corona_Astrale.png/800px-Logo_Corona_Astrale.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Scintille Folgoranti",
+                    "code": "SSP",
+                    "type": "M",
+                    "releaseDate": "2024-11-28",
+                    "totalCards": 252,
+                    "regularCards": 191,
+                    "secretCards": 61,
+                    "image": "https://media.pokemoncentral.it/wiki/1/14/Logo_Scintille_Folgoranti.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Evoluzioni Prismatiche",
+                    "code": "PRE",
+                    "type": "S",
+                    "releaseDate": "2025-01-17",
+                    "totalCards": 180,
+                    "regularCards": 131,
+                    "secretCards": 49,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/1/1d/Logo_Evoluzioni_Prismatiche.png/800px-Logo_Evoluzioni_Prismatiche.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Avventure Insieme",
+                    "code": "JTG",
+                    "type": "M",
+                    "releaseDate": "2025-03-28",
+                    "totalCards": 190,
+                    "regularCards": 159,
+                    "secretCards": 31,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/a/af/Logo_Avventure_Insieme.png/800px-Logo_Avventure_Insieme.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Rivali Predestinati",
+                    "code": "DRI",
+                    "type": "M",
+                    "releaseDate": "2025-05-30",
+                    "totalCards": 244,
+                    "regularCards": 182,
+                    "secretCards": 62,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/0/0e/Logo_Rivali_Predestinati.png/800px-Logo_Rivali_Predestinati.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Luce Nera",
+                    "code": "BLK",
+                    "type": "S",
+                    "releaseDate": "2025-07-18",
+                    "totalCards": 172,
+                    "regularCards": 86,
+                    "secretCards": 86,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/b/bb/Logo_Luce_Nera_e_Fuoco_Bianco.png/800px-Logo_Luce_Nera_e_Fuoco_Bianco.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Scarlatto e Violetto - Fuoco Bianco",
+                    "code": "WHT",
+                    "type": "S",
+                    "releaseDate": "2025-07-18",
+                    "totalCards": 173,
+                    "regularCards": 86,
+                    "secretCards": 87,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/b/bb/Logo_Luce_Nera_e_Fuoco_Bianco.png/800px-Logo_Luce_Nera_e_Fuoco_Bianco.png",
+                    "packImages": []
+                }
+            ]
+        },
+        {
+            "name": "Megaevoluzione",
+            "expansions":
+            [
+                {
+                    "name": "Megaevoluzione",
+                    "code": "MEG",
+                    "type": "M",
+                    "releaseDate": "2025-10-10",
+                    "totalCards": 188,
+                    "regularCards": 132,
+                    "secretCards": 56,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/e/ef/Logo_Megaevoluzione.png/800px-Logo_Megaevoluzione.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/d/d0/Busta_di_espansione_Megaevoluzione_MegaGardevoir.png",
+                        "https://media.pokemoncentral.it/wiki/b/b4/Busta_di_espansione_Megaevoluzione_MegaKangaskhan.png",
+                        "https://media.pokemoncentral.it/wiki/0/05/Busta_di_espansione_Megaevoluzione_MegaLucario.png",
+                        "https://media.pokemoncentral.it/wiki/c/ca/Busta_di_espansione_Megaevoluzione_MegaVenusaur.png"
+                    ]
+                },
+                {
+                    "name": "Megaevoluzione - Fiamme Spettrali",
+                    "code": "PFL",
+                    "type": "M",
+                    "releaseDate": "2025-11-14",
+                    "totalCards": 120,
+                    "regularCards": 94,
+                    "secretCards": 36,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/1/15/Logo_Fiamme_Spettrali.png/800px-Logo_Fiamme_Spettrali.png",
+                    "packImages": []
+                },
+                {
+                    "name": "Megaevoluzione - Ascesa Eroica",
+                    "code": "ASC",
+                    "type": "S",
+                    "releaseDate": "2026-01-30",
+                    "totalCards": 290,
+                    "regularCards": 290,
+                    "secretCards": 0,
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/2/2c/Logo_Ascesa_Eroica.png/800px-Logo_Ascesa_Eroica.png",
+                    "packImages": []
+                }
+            ]
+        }
+    ]
+}
