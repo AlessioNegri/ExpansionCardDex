@@ -209,11 +209,17 @@
                     "code": "PFL",
                     "type": "M",
                     "releaseDate": "2025-11-14",
-                    "totalCards": 120,
+                    "totalCards": 130,
                     "regularCards": 94,
                     "secretCards": 36,
                     "image": "https://media.pokemoncentral.it/wiki/thumb/1/15/Logo_Fiamme_Spettrali.png/800px-Logo_Fiamme_Spettrali.png",
-                    "packImages": []
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/7/73/Busta_di_espansione_Fiamme_Spettrali_MegaCharizard_X.png",
+                        "https://media.pokemoncentral.it/wiki/d/d2/Busta_di_espansione_Fiamme_Spettrali_MegaGengar.png",
+                        "https://media.pokemoncentral.it/wiki/6/65/Busta_di_espansione_Fiamme_Spettrali_MegaHeracross.png",
+                        "https://media.pokemoncentral.it/wiki/3/3d/Busta_di_espansione_Fiamme_Spettrali_MegaLopunny.png"
+                    ]
                 },
                 {
                     "name": "Megaevoluzione - Ascesa Eroica",
@@ -224,6 +230,26 @@
                     "regularCards": 290,
                     "secretCards": 0,
                     "image": "https://media.pokemoncentral.it/wiki/thumb/2/2c/Logo_Ascesa_Eroica.png/800px-Logo_Ascesa_Eroica.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/d/d8/Busta_di_espansione_Ascesa_Eroica.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Energie",
+            "expansions":
+            [
+                {
+                    "name": "Energia base",
+                    "code": "SVE",
+                    "type": "M",
+                    "releaseDate": "2023-03-31",
+                    "totalCards": 24,
+                    "regularCards": 24,
+                    "secretCards": 0,
+                    "image": "",
                     "packImages": []
                 }
             ]

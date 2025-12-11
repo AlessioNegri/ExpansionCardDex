@@ -14,11 +14,7 @@ export default function ItemExpansion(props: ItemExpansionProps)
             
             <TouchableOpacity onPress={() => setOpenSeries(!openSeries)}>
 
-                <Text className='bg-blue-500 uppercase text-lg font-robotmono \
-                                text-white p-3 border-4 border-yellow-500 \
-                                rounded-md text-center'>
-                    {item.name}
-                </Text>
+                <Text className='bg-blue-500/80 uppercase text-lg font-robotmono text-white p-3 rounded-md text-center'>{item.name}</Text>
 
             </TouchableOpacity>
 

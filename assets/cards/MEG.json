@@ -6,7 +6,7 @@
         "rarity": "C",
         "illustrator": "HYOGONOSUKE",
         "image": "https://media.pokemoncentral.it/wiki/9/94/BulbasaurMegaevoluzione1.png"
-    },  
+    },
     {
         "id": "002",
         "name": "Ivysaur",
@@ -898,7 +898,7 @@
     {
         "id": "113",
         "name": "Birichinata di Malpi",
-        "type": "",
+        "type": "support",
         "rarity": "U",
         "illustrator": "Yuu Nishida",
         "image": "https://media.pokemoncentral.it/wiki/1/13/BirichinatadiMalpiMegaevoluzione113.png"
@@ -906,7 +906,7 @@
     {
         "id": "114",
         "name": "Ordini del Capo",
-        "type": "",
+        "type": "support",
         "rarity": "U",
         "illustrator": "NC Empire",
         "image": "https://media.pokemoncentral.it/wiki/f/f7/OrdinidelCapoMegaevoluzione114.png"
@@ -914,7 +914,7 @@
     {
         "id": "115",
         "name": "Scambio di Energia",
-        "type": "",
+        "type": "instrument",
         "rarity": "C",
         "illustrator": "Studio Bora Inc.",
         "image": "https://media.pokemoncentral.it/wiki/8/8b/ScambiodiEnergiaMegaevoluzione115.png"
@@ -922,7 +922,7 @@
     {
         "id": "116",
         "name": "Gong di Lotta",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "Toyste Beach",
         "image": "https://media.pokemoncentral.it/wiki/a/ac/GongdiLottaMegaevoluzione116.png"
@@ -930,7 +930,7 @@
     {
         "id": "117",
         "name": "Bosco della Vitalità",
-        "type": "",
+        "type": "stadium",
         "rarity": "U",
         "illustrator": "AYUMI ODASHIMA",
         "image": "https://media.pokemoncentral.it/wiki/7/70/BoscodellaVitalit%C3%A0Megaevoluzione117.png"
@@ -938,7 +938,7 @@
     {
         "id": "118",
         "name": "Difensore Ferreo",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "Studio Bora Inc.",
         "image": "https://media.pokemoncentral.it/wiki/9/90/DifensoreFerreoMegaevoluzione118.png"
@@ -946,7 +946,7 @@
     {
         "id": "119",
         "name": "Determinazione di Lylia",
-        "type": "",
+        "type": "support",
         "rarity": "U",
         "illustrator": "Atsushi Furusawa",
         "image": "https://media.pokemoncentral.it/wiki/6/6a/DeterminazionediLyliaMegaevoluzione119.png"
@@ -954,7 +954,7 @@
     {
         "id": "120",
         "name": "Affare di Lt. Surge",
-        "type": "",
+        "type": "support",
         "rarity": "U",
         "illustrator": "Hideki Ishikawa",
         "image": "https://media.pokemoncentral.it/wiki/9/9a/AffarediLtSurgeMegaevoluzione120.png"
@@ -962,7 +962,7 @@
     {
         "id": "121",
         "name": "Megasegnale",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "inose yukie",
         "image": "https://media.pokemoncentral.it/wiki/a/ac/MegasegnaleMegaevoluzione121.png"
@@ -970,7 +970,7 @@
     {
         "id": "122",
         "name": "Giardino dei Misteri",
-        "type": "",
+        "type": "stadium",
         "rarity": "U",
         "illustrator": "AYUMI ODASHIMA",
         "image": "https://media.pokemoncentral.it/wiki/1/16/GiardinodeiMisteriMegaevoluzione122.png"
@@ -978,7 +978,7 @@
     {
         "id": "123",
         "name": "Addetta del Centro Pokémon",
-        "type": "",
+        "type": "support",
         "rarity": "C",
         "illustrator": "Tomowaka",
         "image": "https://media.pokemoncentral.it/wiki/b/b1/AddettadelCentroPok%C3%A9monMegaevoluzione123.png"
@@ -986,7 +986,7 @@
     {
         "id": "124",
         "name": "Potenza Premium Pro",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "Toyste Beach",
         "image": "https://media.pokemoncentral.it/wiki/7/7f/PotenzaPremiumProMegaevoluzione124.png"
@@ -994,7 +994,7 @@
     {
         "id": "125",
         "name": "Caramella Rara",
-        "type": "",
+        "type": "instrument",
         "rarity": "C",
         "illustrator": "Studio Bora Inc.",
         "image": "https://media.pokemoncentral.it/wiki/6/6c/CaramellararaMegaevoluzione125.png"
@@ -1002,7 +1002,7 @@
     {
         "id": "126",
         "name": "Repellente",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "Studio Bora Inc.",
         "image": "https://media.pokemoncentral.it/wiki/d/d8/RepellenteMegaevoluzione126.png"
@@ -1010,7 +1010,7 @@
     {
         "id": "127",
         "name": "Rovine Insidiose",
-        "type": "",
+        "type": "stadium",
         "rarity": "U",
         "illustrator": "imoniii",
         "image": "https://media.pokemoncentral.it/wiki/0/00/RovineInsidioseMegaevoluzione127.png"
@@ -1018,7 +1018,7 @@
     {
         "id": "128",
         "name": "Orologio Sospetto",
-        "type": "",
+        "type": "instrument",
         "rarity": "U",
         "illustrator": "Toyste Beach",
         "image": "https://media.pokemoncentral.it/wiki/f/fd/OrologioSospettoMegaevoluzione128.png"
@@ -1026,7 +1026,7 @@
     {
         "id": "129",
         "name": "Spiaggia dei Surfisti",
-        "type": "",
+        "type": "stadium",
         "rarity": "U",
         "illustrator": "AYUMI ODASHIMA",
         "image": "https://media.pokemoncentral.it/wiki/c/c3/SpiaggiadeiSurfistiMegaevoluzione129.png"
@@ -1034,7 +1034,7 @@
     {
         "id": "130",
         "name": "Scambio",
-        "type": "",
+        "type": "instrument",
         "rarity": "C",
         "illustrator": "Studio Bora Inc.",
         "image": "https://media.pokemoncentral.it/wiki/8/81/ScambioMegaevoluzione130.png"
@@ -1042,7 +1042,7 @@
     {
         "id": "131",
         "name": "Ultra Ball",
-        "type": "",
+        "type": "instrument",
         "rarity": "C",
         "illustrator": "Ayaka Yoshida",
         "image": "https://media.pokemoncentral.it/wiki/1/19/UltraBallMegaevoluzione131.png"
@@ -1050,7 +1050,7 @@
     {
         "id": "132",
         "name": "Compassione di Lino",
-        "type": "",
+        "type": "support",
         "rarity": "U",
         "illustrator": "Iori Suzuki",
         "image": "https://media.pokemoncentral.it/wiki/3/3c/CompassionediLinoMegaevoluzione132.png"
@@ -1230,5 +1230,277 @@
         "rarity": "IR",
         "illustrator": "OKACHEKE",
         "image": "https://media.pokemoncentral.it/wiki/b/b8/StuffulMegaevoluzione154.png"
+    },
+    {
+        "id": "155",
+        "name": "Mega Venusaur ex",
+        "type": "grass",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/MegaVenusaur-exMegaevoluzione155.png"
+    },
+    {
+        "id": "156",
+        "name": "Mega Camerupt ex",
+        "type": "fire",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/MegaCamerupt-exMegaevoluzione156.png"
+    },
+    {
+        "id": "157",
+        "name": "Mega Abomasnow ex",
+        "type": "water",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/MegaAbomasnow-exMegaevoluzione157.png"
+    },
+    {
+        "id": "158",
+        "name": "Mega Magnetric ex",
+        "type": "electric",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/MegaManectric-exMegaevoluzione158.png"
+    },
+    {
+        "id": "159",
+        "name": "Mega Gardevoir ex",
+        "type": "psychic",
+        "rarity": "UR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/MegaGardevoir-exMegaevoluzione159.png"
+    },
+    {
+        "id": "160",
+        "name": "Mega Lucario ex",
+        "type": "fighting",
+        "rarity": "UR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/MegaLucario-exMegaevoluzione160.png"
+    },
+    {
+        "id": "161",
+        "name": "Mega Absol ex",
+        "type": "dark",
+        "rarity": "UR",
+        "illustrator": "aky CG Works",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/MegaAbsol-exMegaevoluzione161.png"
+    },
+    {
+        "id": "162",
+        "name": "Mega Mawile ex",
+        "type": "steel",
+        "rarity": "UR",
+        "illustrator": "aky CG Works",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/MegaMawile-exMegaevoluzione162.png"
+    },
+    {
+        "id": "163",
+        "name": "Mega Latias ex",
+        "type": "dragon",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/MegaLatias-exMegaevoluzione163.png"
+    },
+    {
+        "id": "164",
+        "name": "Mega Kanganskhan ex",
+        "type": "colorless",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/MegaKangaskhan-exMegaevoluzione164.png"
+    },
+    {
+        "id": "165",
+        "name": "Birichinata di Malpi",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Yuu Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/BirichinatadiMalpiMegaevoluzione165.png"
+    },
+    {
+        "id": "166",
+        "name": "Palloncino",
+        "type": "pokémon item",
+        "rarity": "UR",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/PalloncinoMegaevoluzione166.png"
+    },
+    {
+        "id": "167",
+        "name": "Poffin del Cuore",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/PoffindelCuoreMegaevoluzione167.png"
+    },
+    {
+        "id": "168",
+        "name": "Gong di Lotta",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/GongdiLottaMegaevoluzione168.png"
+    },
+    {
+        "id": "169",
+        "name": "Determinazione di Lylia",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/DeterminazionediLyliaMegaevoluzione169.png"
+    },
+    {
+        "id": "170",
+        "name": "Affare di Lt. Surge",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/AffarediLtSurgeMegaevoluzione170.png"
+    },
+    {
+        "id": "171",
+        "name": "Megasegnale",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "inose yukie",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/MegasegnaleMegaevoluzione171.png"
+    },
+    {
+        "id": "172",
+        "name": "Giardino dei Misteri",
+        "type": "stadium",
+        "rarity": "UR",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/GiardinodeiMisteriMegaevoluzione172.png"
+    },
+    {
+        "id": "173",
+        "name": "Barella Notturna",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/BarellaNotturnaMegaevoluzione173.png"
+    },
+    {
+        "id": "174",
+        "name": "Potenza Premium Pro",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/PotenzaPremiumProMegaevoluzione174.png"
+    },
+    {
+        "id": "175",
+        "name": "Caramella Rara",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/CaramellararaMegaevoluzione175.png"
+    },
+    {
+        "id": "176",
+        "name": "Compassione di Lino",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Iori Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/CompassionediLinoMegaevoluzione176.png"
+    },
+    {
+        "id": "177",
+        "name": "Mega Venusaur ex",
+        "type": "grass",
+        "rarity": "SIR",
+        "illustrator": "mashu",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/MegaVenusaur-exMegaevoluzione177.png"
+    },
+    {
+        "id": "178",
+        "name": "Mega Gardevoir ex",
+        "type": "psychic",
+        "rarity": "SIR",
+        "illustrator": "Raita Kazama",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/MegaGardevoir-exMegaevoluzione178.png"
+    },
+    {
+        "id": "179",
+        "name": "Mega Lucario ex",
+        "type": "fighting",
+        "rarity": "SIR",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/MegaLucario-exMegaevoluzione179.png"
+    },
+    {
+        "id": "180",
+        "name": "Mega Absol ex",
+        "type": "dark",
+        "rarity": "SIR",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/MegaAbsol-exMegaevoluzione180.png"
+    },
+    {
+        "id": "181",
+        "name": "Mega Latias ex",
+        "type": "dragon",
+        "rarity": "SIR",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/MegaLatias-exMegaevoluzione181.png"
+    },
+    {
+        "id": "182",
+        "name": "Mega Kanganskhan ex",
+        "type": "colorless",
+        "rarity": "SIR",
+        "illustrator": "GOTO minori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/MegaKangaskhan-exMegaevoluzione182.png"
+    },
+    {
+        "id": "183",
+        "name": "Birichinata di Malpi",
+        "type": "support",
+        "rarity": "SIR",
+        "illustrator": "sui",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/BirichinatadiMalpiMegaevoluzione183.png"
+    },
+    {
+        "id": "184",
+        "name": "Determinazione di Lylia",
+        "type": "support",
+        "rarity": "SIR",
+        "illustrator": "satoma",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/DeterminazionediLyliaMegaevoluzione184.png"
+    },
+    {
+        "id": "185",
+        "name": "Affare di Lt. Surge",
+        "type": "support",
+        "rarity": "SIR",
+        "illustrator": "osare",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/AffarediLtSurgeMegaevoluzione185.png"
+    },
+    {
+        "id": "186",
+        "name": "Compassione di Lino",
+        "type": "support",
+        "rarity": "SIR",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/CompassionediLinoMegaevoluzione186.png"
+    },
+    {
+        "id": "187",
+        "name": "Mega Gardevoir ex",
+        "type": "psychic",
+        "rarity": "MHR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/MegaGardevoir-exMegaevoluzione187.png"
+    },
+    {
+        "id": "188",
+        "name": "Mega Lucario ex",
+        "type": "fighting",
+        "rarity": "MHR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/MegaLucario-exMegaevoluzione188.png"
     }
 ]

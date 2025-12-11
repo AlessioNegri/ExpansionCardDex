@@ -1,0 +1,1042 @@
+[
+    {
+        "id": "001",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/OddishFiammeSpettrali1.png"
+    },
+    {
+        "id": "002",
+        "name": "Gloom",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://media.pokemoncentral.it/wiki/a/a8/GloomFiammeSpettrali2.png"
+    },
+    {
+        "id": "003",
+        "name": "Vileplume",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Shibuzoh",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/VileplumeFiammeSpettrali3.png"
+    },
+    {
+        "id": "004",
+        "name": "Mega Heracross ex",
+        "type": "grass",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/MegaHeracross-exFiammeSpettrali4.png"
+    },
+    {
+        "id": "005",
+        "name": "Lotad",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Wintr Wandr",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/LotadFiammeSpettrali5.png"
+    },
+    {
+        "id": "006",
+        "name": "Lombre",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/LombreFiammeSpettrali6.png"
+    },
+    {
+        "id": "007",
+        "name": "Ludicolo",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/LudicoloFiammeSpettrali7.png"
+    },
+    {
+        "id": "008",
+        "name": "Genesect",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/GenesectFiammeSpettrali8.png"
+    },
+    {
+        "id": "009",
+        "name": "Nymble",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Marii",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/NymbleFiammeSpettrali9.png"
+    },
+    {
+        "id": "010",
+        "name": "Lokix",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Taiga Kasai",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/LokixFiammeSpettrali10.png"
+    },
+    {
+        "id": "011",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "HYOGONOSUKE",
+        "image": "https://media.pokemoncentral.it/wiki/f/f1/CharmanderFiammeSpettrali11.png"
+    },
+    {
+        "id": "012",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Uninori",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/CharmeleonFiammeSpettrali12.png"
+    },
+    {
+        "id": "013",
+        "name": "Mega Charizard ex",
+        "type": "fire",
+        "rarity": "RR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/MegaCharizardX-exFiammeSpettrali13.png"
+    },
+    {
+        "id": "014",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/MoltresFiammeSpettrali14.png"
+    },
+    {
+        "id": "015",
+        "name": "Darumaka",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "NC Empire",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/DarumakaFiammeSpettrali15.png"
+    },
+    {
+        "id": "016",
+        "name": "Darmanitan",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Uta",
+        "image": "https://media.pokemoncentral.it/wiki/7/79/DarmanitanFiammeSpettrali16.png"
+    },
+    {
+        "id": "017",
+        "name": "Reshiram",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "AKIRA EGAWA",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/ReshiramFiammeSpettrali17.png"
+    },
+    {
+        "id": "018",
+        "name": "Oricorio ex",
+        "type": "fire",
+        "rarity": "RR",
+        "illustrator": "akagi",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/Oricorio-exFiammeSpettrali18.png"
+    },
+    {
+        "id": "019",
+        "name": "Charcadet",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/CharcadetFiammeSpettrali19.png"
+    },
+    {
+        "id": "020",
+        "name": "Ceruledge",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Gemi",
+        "image": "https://media.pokemoncentral.it/wiki/d/da/CeruledgeFiammeSpettrali20.png"
+    },
+    {
+        "id": "021",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "svlt",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/SeelFiammeSpettrali21.png"
+    },
+    {
+        "id": "022",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Taira Akitsu",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/DewgongFiammeSpettrali22.png"
+    },
+    {
+        "id": "023",
+        "name": "Swinub",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "imoniii",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/SwinubFiammeSpettrali23.png"
+    },
+    {
+        "id": "024",
+        "name": "Piloswine",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Shinya Komatsu",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/PiloswineFiammeSpettrali24.png"
+    },
+    {
+        "id": "025",
+        "name": "Mamoswine",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Takumi Wada",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/MamoswineFiammeSpettrali25.png"
+    },
+    {
+        "id": "026",
+        "name": "Suicune",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/SuicuneFiammeSpettrali26.png"
+    },
+    {
+        "id": "027",
+        "name": "Piplup",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hideki Ishikawa",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/PiplupFiammeSpettrali27.png"
+    },
+    {
+        "id": "028",
+        "name": "Prinplup",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuya Uki",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/PrinplupFiammeSpettrali28.png"
+    },
+    {
+        "id": "029",
+        "name": "Rotom ex",
+        "type": "electric",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/Rotom-exFiammeSpettrali29.png"
+    },
+    {
+        "id": "030",
+        "name": "Yamper",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ayako Ozaki",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/YamperFiammeSpettrali30.png"
+    },
+    {
+        "id": "031",
+        "name": "Boltund",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Orca",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/BoltundFiammeSpettrali31.png"
+    },
+    {
+        "id": "032",
+        "name": "Pawmi",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Shimaris Yukichi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/PawmiFiammeSpettrali32.png"
+    },
+    {
+        "id": "033",
+        "name": "Pawmo",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Taiga Kayama",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/PawmoFiammeSpettrali33.png"
+    },
+    {
+        "id": "034",
+        "name": "Pawmot",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "satoma",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/PawmotFiammeSpettrali34.png"
+    },
+    {
+        "id": "035",
+        "name": "Misdreavus",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Mousho",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/MisdreavusFiammeSpettrali35.png"
+    },
+    {
+        "id": "036",
+        "name": "Mismagius ex",
+        "type": "psychic",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/Mismagius-exFiammeSpettrali36.png"
+    },
+    {
+        "id": "037",
+        "name": "Snubbull",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Gapao",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/SnubbullFiammeSpettrali37.png"
+    },
+    {
+        "id": "038",
+        "name": "Granbull",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/GranbullFiammeSpettrali38.png"
+    },
+    {
+        "id": "039",
+        "name": "Cresselia",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Raita Kazama",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/CresseliaFiammeSpettrali39.png"
+    },
+    {
+        "id": "040",
+        "name": "Meloetta",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "MINAMINAMI Take",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/MeloettaFiammeSpettrali40.png"
+    },
+    {
+        "id": "041",
+        "name": "Mega Diancie ex",
+        "type": "psychic",
+        "rarity": "RR",
+        "illustrator": "aky CG Works",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/MegaDiancie-exFiammeSpettrali41.png"
+    },
+    {
+        "id": "042",
+        "name": "Mimikyu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "miki kudo",
+        "image": "https://media.pokemoncentral.it/wiki/e/ed/MimikyuFiammeSpettrali42.png"
+    },
+    {
+        "id": "043",
+        "name": "Milcery",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Taiga Kayama",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/MilceryFiammeSpettrali43.png"
+    },
+    {
+        "id": "044",
+        "name": "Alcremie",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Narumi Sato",
+        "image": "https://media.pokemoncentral.it/wiki/2/2a/AlcremieFiammeSpettrali44.png"
+    },
+    {
+        "id": "045",
+        "name": "Zacian",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "kawayoo",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/ZacianFiammeSpettrali45.png"
+    },
+    {
+        "id": "046",
+        "name": "Bramblin",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Takeshi Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/BramblinFiammeSpettrali46.png"
+    },
+    {
+        "id": "047",
+        "name": "Brambleghast",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Testu Kayama",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/BrambleghastFiammeSpettrali47.png"
+    },
+    {
+        "id": "048",
+        "name": "Tauros di Paldea",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Souichirou Gunjima",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/TaurosdiPaldeaFiammeSpettrali48.png"
+    },
+    {
+        "id": "049",
+        "name": "Gligar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kazumasa Yasukuni",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/GligarFiammeSpettrali49.png"
+    },
+    {
+        "id": "050",
+        "name": "Gliscor",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Dsuke",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/GliscorFiammeSpettrali50.png"
+    },
+    {
+        "id": "051",
+        "name": "Trapinch",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Uta",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/TrapinchFiammeSpettrali51.png"
+    },
+    {
+        "id": "052",
+        "name": "Vibrava",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/VibravaFiammeSpettrali52.png"
+    },
+    {
+        "id": "053",
+        "name": "Flygon",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Jerky",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/FlygonFiammeSpettrali53.png"
+    },
+    {
+        "id": "054",
+        "name": "Gastly",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Saboteri",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/GastlyFiammeSpettrali54.png"
+    },
+    {
+        "id": "055",
+        "name": "Haunter",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Rianti Hidayat",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/HaunterFiammeSpettrali55.png"
+    },
+    {
+        "id": "056",
+        "name": "Mega Gengar ex",
+        "type": "dark",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/MegaGengar-exFiammeSpettrali56.png"
+    },
+    {
+        "id": "057",
+        "name": "Murkrow",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/MurkrowFiammeSpettrali57.png"
+    },
+    {
+        "id": "058",
+        "name": "Honchkrow",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Anesaki Dynamic",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/HonchkrowFiammeSpettrali58.png"
+    },
+    {
+        "id": "059",
+        "name": "Sableye",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "osare",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/SableyeFiammeSpettrali59.png"
+    },
+    {
+        "id": "060",
+        "name": "Carvanha",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Shin Nagasawa",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/CarvanhaFiammeSpettrali60.png"
+    },
+    {
+        "id": "061",
+        "name": "Mega Sharpedo ex",
+        "type": "dark",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/MegaSharpedo-exFiammeSpettrali61.png"
+    },
+    {
+        "id": "062",
+        "name": "Seviper",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "hncl",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/SeviperFiammeSpettrali62.png"
+    },
+    {
+        "id": "063",
+        "name": "Absol",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Takumi Wada",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/AbsolFiammeSpettrali63.png"
+    },
+    {
+        "id": "064",
+        "name": "Sandile",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Taiga Kasai",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/SandileFiammeSpettrali64.png"
+    },
+    {
+        "id": "065",
+        "name": "Krokorok",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Uninori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/KrokorokFiammeSpettrali65.png"
+    },
+    {
+        "id": "066",
+        "name": "Krookodile",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Ryuta Fuse",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/KrookodileFiammeSpettrali66.png"
+    },
+    {
+        "id": "067",
+        "name": "Toxel",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "OKACHEKE",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/ToxelFiammeSpettrali67.png"
+    },
+    {
+        "id": "068",
+        "name": "Toxtricity",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "DOM",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/ToxtricityFiammeSpettrali68.png"
+    },
+    {
+        "id": "069",
+        "name": "Eternatus",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "akagi",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/EternatusFiammeSpettrali69.png"
+    },
+    {
+        "id": "070",
+        "name": "Empoleon ex",
+        "type": "steel",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/Empoleon-exFiammeSpettrali70.png"
+    },
+    {
+        "id": "071",
+        "name": "Bronzor",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "OKUBO",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/BronzorFiammeSpettrali71.png"
+    },
+    {
+        "id": "072",
+        "name": "Bronzong",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Masako Tomii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/BronzongFiammeSpettrali72.png"
+    },
+    {
+        "id": "073",
+        "name": "Togedemaru",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Bun Toujo",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/TogedemaruFiammeSpettrali73.png"
+    },
+    {
+        "id": "074",
+        "name": "Duraludon",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Shinji Kanda",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/DuraludonFiammeSpettrali74.png"
+    },
+    {
+        "id": "075",
+        "name": "Archaludon",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "toriyufu",
+        "image": "https://media.pokemoncentral.it/wiki/e/e6/ArchaludonFiammeSpettrali75.png"
+    },
+    {
+        "id": "076",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/JigglypuffFiammeSpettrali76.png"
+    },
+    {
+        "id": "077",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "En Morikura",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/WigglytuffFiammeSpettrali77.png"
+    },
+    {
+        "id": "078",
+        "name": "Aipom",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Saboteri",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/AipomFiammeSpettrali78.png"
+    },
+    {
+        "id": "079",
+        "name": "Ambipom",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "hncl",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/AmbipomFiammeSpettrali79.png"
+    },
+    {
+        "id": "080",
+        "name": "Smeargle",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "REND",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/SmeargleFiammeSpettrali80.png"
+    },
+    {
+        "id": "081",
+        "name": "Zigzagoon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Dsuke",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/ZigzagoonFiammeSpettrali81.png"
+    },
+    {
+        "id": "082",
+        "name": "Linoone",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "nagimiso",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/LinooneFiammeSpettrali82.png"
+    },
+    {
+        "id": "083",
+        "name": "Buneary",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "tono",
+        "image": "https://media.pokemoncentral.it/wiki/d/da/BunearyFiammeSpettrali83.png"
+    },
+    {
+        "id": "084",
+        "name": "Mega Lopunny ex",
+        "type": "colorless",
+        "rarity": "RR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/MegaLopunny-exFiammeSpettrali84.png"
+    },
+    {
+        "id": "085",
+        "name": "Gabbia di Lotta",
+        "type": "stadium",
+        "rarity": "U",
+        "illustrator": "MARINA Chikazawa",
+        "image": "https://media.pokemoncentral.it/wiki/2/20/GabbiadiLottaFiammeSpettrali85.png"
+    },
+    {
+        "id": "086",
+        "name": "Fiamma Ossidrica",
+        "type": "instrument",
+        "rarity": "U",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/FiammaOssidricaFiammeSpettrali86.png"
+    },
+    {
+        "id": "087",
+        "name": "Lucinda",
+        "type": "support",
+        "rarity": "U",
+        "illustrator": "Yuu Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/LucindaFiammeSpettrali87.png"
+    },
+    {
+        "id": "088",
+        "name": "Valle Disorientante",
+        "type": "stadium",
+        "rarity": "U",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/a/a0/ValleDisorientanteFiammeSpettrali88.png"
+    },
+    {
+        "id": "089",
+        "name": "Mangiafuoco",
+        "type": "support",
+        "rarity": "U",
+        "illustrator": "Naoki Saito",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/MangiafuocoFiammeSpettrali89.png"
+    },
+    {
+        "id": "090",
+        "name": "Mossa di Mirton",
+        "type": "support",
+        "rarity": "U",
+        "illustrator": "GIDORA",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/MossadiMirtonFiammeSpettrali90.png"
+    },
+    {
+        "id": "091",
+        "name": "Gelato Gigante",
+        "type": "instrument",
+        "rarity": "U",
+        "illustrator": "AYUMI ODASHIMA",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/GelatoGiganteFiammeSpettrali91.png"
+    },
+    {
+        "id": "092",
+        "name": "Elmo Punk",
+        "type": "pokémon item",
+        "rarity": "U",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/3/3a/ElmoPunkFiammeSpettrali92.png"
+    },
+    {
+        "id": "093",
+        "name": "Amuleto Magico",
+        "type": "pokémon item",
+        "rarity": "U",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/AmuletoMagicoFiammeSpettrali93.png"
+    },
+    {
+        "id": "094",
+        "name": "Distintivo Meraviglioso",
+        "type": "instrument",
+        "rarity": "U",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/DistintivoMeravigliosoFiammeSpettrali94.png"
+    },
+    {
+        "id": "095",
+        "name": "Ludicolo",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "Jerky",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/LudicoloFiammeSpettrali95.png"
+    },
+    {
+        "id": "096",
+        "name": "Nymble",
+        "type": "grass",
+        "rarity": "IR",
+        "illustrator": "Nakamura Ippan",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/NymbleFiammeSpettrali96.png"
+    },
+    {
+        "id": "097",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "IR",
+        "illustrator": "satoma",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/DewgongFiammeSpettrali97.png"
+    },
+    {
+        "id": "098",
+        "name": "Piplup",
+        "type": "water",
+        "rarity": "IR",
+        "illustrator": "Jiro Sasumo",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/PiplupFiammeSpettrali98.png"
+    },
+    {
+        "id": "099",
+        "name": "Yamper",
+        "type": "electric",
+        "rarity": "IR",
+        "illustrator": "tono",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/YamperFiammeSpettrali99.png"
+    },
+    {
+        "id": "100",
+        "name": "Zacian",
+        "type": "psychic",
+        "rarity": "IR",
+        "illustrator": "Yoriyuki Ikegami",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/ZacianFiammeSpettrali100.png"
+    },
+    {
+        "id": "101",
+        "name": "Flygon",
+        "type": "fighting",
+        "rarity": "IR",
+        "illustrator": "Ryota Murayama",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/FlygonFiammeSpettrali101.png"
+    },
+    {
+        "id": "102",
+        "name": "Wooper di Paldea",
+        "type": "dark",
+        "rarity": "IR",
+        "illustrator": "OKACHEKE",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/WooperdiPaldeaFiammeSpettrali102.png"
+    },
+    {
+        "id": "103",
+        "name": "Toxtricity",
+        "type": "dark",
+        "rarity": "IR",
+        "illustrator": "Terada Tera",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/ToxtricityFiammeSpettrali103.png"
+    },
+    {
+        "id": "104",
+        "name": "Togedemaru",
+        "type": "steel",
+        "rarity": "IR",
+        "illustrator": "Orca",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/TogedemaruFiammeSpettrali104.png"
+    },
+    {
+        "id": "105",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "REND",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/WigglytuffFiammeSpettrali105.png"
+    },
+    {
+        "id": "106",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "Uninori",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/MeowthFiammeSpettrali106.png"
+    },
+    {
+        "id": "107",
+        "name": "Ambipom",
+        "type": "colorless",
+        "rarity": "IR",
+        "illustrator": "Shigenori Negishi",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/AmbipomFiammeSpettrali107.png"
+    },
+    {
+        "id": "108",
+        "name": "Mega Heracross ex",
+        "type": "grass",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/MegaHeracross-exFiammeSpettrali108.png"
+    },
+    {
+        "id": "109",
+        "name": "Mega Charizard X ex",
+        "type": "fire",
+        "rarity": "UR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/MegaCharizardX-exFiammeSpettrali109.png"
+    },
+    {
+        "id": "110",
+        "name": "Oricorio ex",
+        "type": "fire",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/Oricorio-exFiammeSpettrali110.png"
+    },
+    {
+        "id": "111",
+        "name": "Rotom ex",
+        "type": "electric",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/Rotom-exFiammeSpettrali111.png"
+    },
+    {
+        "id": "112",
+        "name": "Mismagius ex",
+        "type": "psychic",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/Mismagius-exFiammeSpettrali112.png"
+    },
+    {
+        "id": "113",
+        "name": "Mega Sharpedo ex",
+        "type": "dark",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/MegaSharpedo-exFiammeSpettrali113.png"
+    },
+    {
+        "id": "114",
+        "name": "Empoleon ex",
+        "type": "steel",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/Empoleon-exFiammeSpettrali114.png"
+    },
+    {
+        "id": "115",
+        "name": "Mega Lopunny ex",
+        "type": "colorless",
+        "rarity": "UR",
+        "illustrator": "5ban Graphics",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/MegaLopunny-exFiammeSpettrali115.png"
+    },
+    {
+        "id": "116",
+        "name": "Gabbia di Lotta",
+        "type": "stadium",
+        "rarity": "UR",
+        "illustrator": "MARINA Chikazawa",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/GabbiadiLottaFiammeSpettrali116.png"
+    },
+    {
+        "id": "117",
+        "name": "Fiamma Ossidrica",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/FiammaOssidricaFiammeSpettrali117.png"
+    },
+    {
+        "id": "118",
+        "name": "Lucinda",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Yuu Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/LucindaFiammeSpettrali118.png"
+    },
+    {
+        "id": "119",
+        "name": "Mangiafuoco",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "Naoki Saito",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/MangiafuocoFiammeSpettrali119.png"
+    },
+    {
+        "id": "120",
+        "name": "Mossa di Mirton",
+        "type": "support",
+        "rarity": "UR",
+        "illustrator": "GIDORA",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/MossadiMirtonFiammeSpettrali120.png"
+    },
+    {
+        "id": "121",
+        "name": "Elmo Punk",
+        "type": "pokémon item",
+        "rarity": "UR",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/ElmoPunkFiammeSpettrali121.png"
+    },
+    {
+        "id": "122",
+        "name": "Amuleto Magico",
+        "type": "pokémon item",
+        "rarity": "UR",
+        "illustrator": "Toyste Beach",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/AmuletoMagicoFiammeSpettrali122.png"
+    },
+    {
+        "id": "123",
+        "name": "Scambio",
+        "type": "instrument",
+        "rarity": "UR",
+        "illustrator": "Studio Bora Inc.",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/ScambioFiammeSpettrali123.png"
+    },
+    {
+        "id": "124",
+        "name": "Energia Deflagrazione",
+        "type": "",
+        "rarity": "UR",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/EnergiaDeflagrazioneFiammeSpettrali124.png"
+    },
+    {
+        "id": "125",
+        "name": "Mega Charizard X ex",
+        "type": "fire",
+        "rarity": "SIR",
+        "illustrator": "danciao",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/MegaCharizardX-exFiammeSpettrali125.png"
+    },
+    {
+        "id": "126",
+        "name": "Rotom ex",
+        "type": "electric",
+        "rarity": "SIR",
+        "illustrator": "Yoshimi Miyoshi",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/Rotom-exFiammeSpettrali126.png"
+    },
+    {
+        "id": "127",
+        "name": "Mega Sharpedo ex",
+        "type": "dark",
+        "rarity": "SIR",
+        "illustrator": "nagimiso",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/MegaSharpedo-exFiammeSpettrali127.png"
+    },
+    {
+        "id": "128",
+        "name": "Mega Lopunny ex",
+        "type": "colorless",
+        "rarity": "SIR",
+        "illustrator": "Kinu Nishimura",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/MegaLopunny-exFiammeSpettrali128.png"
+    },
+    {
+        "id": "129",
+        "name": "Lucinda",
+        "type": "support",
+        "rarity": "SIR",
+        "illustrator": "Atsushi Furusawa",
+        "image": "https://media.pokemoncentral.it/wiki/e/e6/LucindaFiammeSpettrali129.png"
+    },
+    {
+        "id": "130",
+        "name": "Mega Charizard X",
+        "type": "fire",
+        "rarity": "MHR",
+        "illustrator": "takuyoa",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/MegaCharizardX-exFiammeSpettrali130.png"
+    }
+]

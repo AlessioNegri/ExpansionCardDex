@@ -1,22 +1,20 @@
 {
-    "profiles":
-    {
-        "PowerShell":
+    "autorun": true,
+    "autorunOnStartup": true,
+    "terminals": [
         {
-            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-            "icon": "terminal-powershell",
-            "color": "terminal.ansiBlue"
+            "name": "npm",
+            "icon": "cloud",
+            "color": "terminal.ansiBlue",
+            "cwd": ".",
+            "shellPath": "C:/Windows/System32/cmd.exe"
         },
-        "Git Bash": {
-            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
-            "icon": "github",
-            "color": "terminal.ansiGreen"
-        },
-        "CMD": {
-            "path": "C:\\Windows\\System32\\cmd.exe",
-            "icon": "terminal-cmd",
-            "color": "terminal.ansiYellow"
+        {
+            "name": "android",
+            "icon": "device-mobile",
+            "color": "terminal.ansiGreen",
+            "cwd": ".",
+            "shellPath": "C:/Windows/System32/cmd.exe"
         }
-    },
-    "defaultProfile": "PowerShell"
+    ]
 }

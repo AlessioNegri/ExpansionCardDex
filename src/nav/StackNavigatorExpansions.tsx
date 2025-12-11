@@ -49,7 +49,7 @@ export default function StackNavigatorExpansions()
                 {
                     ({ route } : { route : RouteScreenCards }) => (
                     {
-                        title: (String(route.params.data.name).split(' - ')[1] ?? String(route.params.data.name)) + ' - Carte',
+                        title: 'Carte',
                     })
                 }
             />

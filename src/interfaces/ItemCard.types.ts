@@ -7,14 +7,13 @@ interface CardData
     type: string;
     rarity: string;
     illustrator: string;
-    image?: string;
+    image: string;
 }
 
 interface ItemCardProps
 {
     item: CardData;
     index: number;
-    gridView: boolean;
     expansion: ExpansionData;
     onSelectCard: (index : number, card: CardData) => void;
 }

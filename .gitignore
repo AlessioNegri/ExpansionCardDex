@@ -39,13 +39,3 @@ yarn-error.*
 # generated native folders
 /ios
 /android
-
-# images
-/assets/cards/**/*.png
-/assets/cards/**/*.jpg
-/assets/cards/**/*.jpeg
-/assets/cards/**/*.webp
-assets/energies
-assets/expansions
-assets/packs
-assets/types
