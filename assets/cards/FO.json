@@ -1,0 +1,498 @@
+[
+    {
+        "id": "001",
+        "name": "Aerodactyl",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/AerodactylFossil1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Articuno",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/ArticunoFossil2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Ditto",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/DittoFossil3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dragonite",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/DragoniteFossil4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/GengarFossil5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/HaunterFossil6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Hitmonlee",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/HitmonleeFossil7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Hypno",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/HypnoFossil8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Kabutops",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/KabutopsFossil9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Lapras",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/LaprasFossil10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/MagnetonFossil11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/MoltresFossil12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Muk",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/MukFossil13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/RaichuFossil14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Zapdos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/ZapdosFossil15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Aerodactyl",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/AerodactylFossil1.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Articuno",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/ArticunoFossil2.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Ditto",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/d/d4/DittoFossil3.jpg/800px-DittoFossil3.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Dragonite",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/d/d5/DragoniteFossil4.jpg/800px-DragoniteFossil4.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/GengarFossil5.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/af/HaunterFossil6.jpg/800px-HaunterFossil6.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Hitmonlee",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/HitmonleeFossil7.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Hypno",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/HypnoFossil8.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Kabutops",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/KabutopsFossil9.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Lapras",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/LaprasFossil10.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/MagnetonFossil11.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/MoltresFossil12.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Muk",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/MukFossil13.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/RaichuFossil14.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Zapdos",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/ZapdosFossil15.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Arbok",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/ArbokFossil31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Cloyster",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/CloysterFossil32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/GastlyFossil33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/GolbatFossil34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Golduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/GolduckFossil35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Golem",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/GolemFossil36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/GravelerFossil37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Kingler",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/KinglerFossil38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Magmar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/MagmarFossil39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Omastar",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/OmastarFossil40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Sandslash",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/SandslashFossil41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/SeadraFossil42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Slowbro",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/SlowbroFossil43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Tentacruel",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/TentacruelFossil44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Weezing",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/WeezingFossil45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Ekans",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/EkansFossil46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/57/GeodudeFossil47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Grimer",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/GrimerFossil48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Horsea",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/HorseaFossil49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Kabuto",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/KabutoFossil50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Krabby",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/KrabbyFossil51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Omanyte",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/OmanyteFossil52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/PsyduckFossil53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Shellder",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/ShellderFossil54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/SlowpokeFossil55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Tentacool",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/TentacoolFossil56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/ZubatFossil57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Mr. Fuji",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/MrFujiFossil58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Ricerca di Energia",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/RicercadiEnergiaFossil59.png"
+    },
+    {
+        "id": "060",
+        "name": "Gioco d'Azzardo",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/2/22/GiocodAzzardoFossil60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Riciclo",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/RicicloFossil61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Fossile Misterioso",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/FossileMisteriosoFossil62.jpg"
+    }
+]

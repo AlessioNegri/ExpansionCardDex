@@ -1,0 +1,514 @@
+[
+    {
+        "id": "001",
+        "name": "Clefable",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/fa/ClefableJungle1.jpg/800px-ClefableJungle1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Electrode",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/ElectrodeJungle2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/FlareonJungle3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/JolteonJungle4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Kangaskhan",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/c/c8/KangaskhanJungle5.jpg/800px-KangaskhanJungle5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Mr. Mime",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/MrMimeJungle6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Nidoqueen",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/NidoqueenJungle7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/PidgeotJungle8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Pinsir",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/PinsirJungle9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Scyther",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/ScytherJungle10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Snorlax",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/SnorlaxJungle11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Vaporeon",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/VaporeonJungle12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Venomoth",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/VenomothJungle13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Victreebel",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/VictreebelJungle14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Vileplume",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/VileplumeJungle15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/WigglytuffJungle16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Clefable",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/fa/ClefableJungle1.jpg/800px-ClefableJungle1.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Electrode",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/ElectrodeJungle2.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/FlareonJungle3.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/JolteonJungle4.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Kangaskhan",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/c/c8/KangaskhanJungle5.jpg/800px-KangaskhanJungle5.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Mr. Mime",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/MrMimeJungle6.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Nidoqueen",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/NidoqueenJungle7.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/PidgeotJungle8.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Pinsir",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/PinsirJungle9.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Scyther",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/ScytherJungle10.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Snorlax",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/SnorlaxJungle11.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Vaporeon",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/VaporeonJungle12.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Venomoth",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/VenomothJungle13.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Victreebel",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/VictreebelJungle14.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Vileplume",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/VileplumeJungle15.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/WigglytuffJungle16.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/9/94/ButterfreeJungle33.jpg/800px-ButterfreeJungle33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Dodrio",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/0/00/DodrioJungle34.jpg/800px-DodrioJungle34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Exeggutor",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/a5/ExeggutorJungle35.jpg/800px-ExeggutorJungle35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/2/2d/FearowJungle36.jpg/800px-FearowJungle36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/d/de/GloomJungle37.jpg/800px-GloomJungle37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Lickitung",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/8/8f/LickitungJungle38.jpg/800px-LickitungJungle38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Marowak",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/a0/MarowakJungle39.jpg/800px-MarowakJungle39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Nidorina",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/e/ec/NidorinaJungle40.jpg/800px-NidorinaJungle40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Parasect",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/7/70/ParasectJungle41.jpg/800px-ParasectJungle41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Persian",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/f8/PersianJungle42.jpg/800px-PersianJungle42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Primeape",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/e/e1/PrimeapeJungle43.jpg/800px-PrimeapeJungle43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Rapidash",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/1/13/RapidashJungle44.jpg/800px-RapidashJungle44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Rhydon",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/c/cd/RhydonJungle45.jpg/800px-RhydonJungle45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Seaking",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/4/47/SeakingJungle46.jpg/800px-SeakingJungle46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Tauros",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/aa/TaurosJungle47.jpg/800px-TaurosJungle47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Weepinbell",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/b/bb/WeepinbellJungle48.jpg/800px-WeepinbellJungle48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Bellsprout",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/c/cf/BellsproutJungle49.jpg/800px-BellsproutJungle49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Cubone",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/a6/CuboneJungle50.jpg/800px-CuboneJungle50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/b/b3/EeveeJungle51.jpg/800px-EeveeJungle51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Exeggcute",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/2/2b/ExeggcuteJungle52.jpg/800px-ExeggcuteJungle52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/5/54/GoldeenJungle53.jpg/800px-GoldeenJungle53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/0/07/JigglypuffJungle54.jpg/800px-JigglypuffJungle54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Mankey",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/a/a8/MankeyJungle55.jpg/800px-MankeyJungle55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/fb/MeowthJungle56.jpg/800px-MeowthJungle56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Nidoran ♀",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/9/90/NidoranJungle57.jpg/800px-NidoranJungle57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/f/fd/OddishJungle58.jpg/800px-OddishJungle58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Paras",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/7/7c/ParasJungle59.jpg/800px-ParasJungle59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/PikachuJungle60.png"
+    },
+    {
+        "id": "061",
+        "name": "Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/0/06/RhyhornJungle61.jpg/800px-RhyhornJungle61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/9/90/SpearowJungle62.jpg/800px-SpearowJungle62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Venonat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/4/4c/VenonatJungle63.jpg/800px-VenonatJungle63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Poké Ball",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/thumb/0/0b/PkBallJungle64.jpg/800px-PkBallJungle64.jpg"
+    }
+]

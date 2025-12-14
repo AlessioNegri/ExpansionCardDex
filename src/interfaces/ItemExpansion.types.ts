@@ -1,12 +1,15 @@
 interface ExpansionData
 {
     name: string;
+    symbol: string;
     code: string;
     type: string;
     releaseDate: string;
     totalCards: number;
     regularCards: number;
-    secretCards: number,
+    secretCards: number;
+    fromColor: string;
+    toColor: string;
     image: string;
     packImages: string[];
 }
@@ -14,6 +17,8 @@ interface ExpansionData
 interface SeriesData
 {
     name: string;
+    fromColor: string;
+    toColor: string;
     expansions: ExpansionData[];
 }
 

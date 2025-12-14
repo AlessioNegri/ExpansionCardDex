@@ -1,0 +1,818 @@
+[
+  {
+    "id": "001",
+    "name": "Alakazam",
+    "type": "psychic",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/1/12/AlakazamSetBase1.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Blastoise",
+    "type": "water",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/3/39/BlastoiseSetBase2.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Chansey",
+    "type": "colorless",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/8/80/ChanseySetBase3.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Charizard",
+    "type": "fire",
+    "rarity": "RH",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/b/b4/CharizardSetBase4.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Clefairy",
+    "type": "colorless",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/9/9e/ClefairySetBase5.jpg"
+  },
+  {
+    "id": "006",
+    "name": "Gyarados",
+    "type": "water",
+    "rarity": "RH",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/8/8a/GyaradosSetBase6.jpg"
+  },
+  {
+    "id": "007",
+    "name": "Hitmonchan",
+    "type": "fighting",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/6/6b/HitmonchanSetBase7.jpg"
+  },
+  {
+    "id": "008",
+    "name": "Machamp",
+    "type": "fighting",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/7/71/MachampSetBase8.jpg"
+  },
+  {
+    "id": "009",
+    "name": "Magneton",
+    "type": "electric",
+    "rarity": "RH",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/c/c8/MagnetonSetBase9.jpg"
+  },
+  {
+    "id": "010",
+    "name": "Mewtwo",
+    "type": "psychic",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/2/29/MewtwoSetBase10.jpg"
+  },
+  {
+    "id": "011",
+    "name": "Nidoking",
+    "type": "grass",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/9/9c/NidokingSetBase11.jpg"
+  },
+  {
+    "id": "012",
+    "name": "Ninetales",
+    "type": "fire",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/b/b5/NinetalesSetBase12.jpg"
+  },
+  {
+    "id": "013",
+    "name": "Poliwrath",
+    "type": "water",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/d/d7/PoliwrathSetBase13.jpg"
+  },
+  {
+    "id": "014",
+    "name": "Raichu",
+    "type": "electric",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/9/9a/RaichuSetBase14.jpg"
+  },
+  {
+    "id": "015",
+    "name": "Venusaur",
+    "type": "grass",
+    "rarity": "RH",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/b/b8/VenusaurSetBase15.jpg"
+  },
+  {
+    "id": "016",
+    "name": "Zapdos",
+    "type": "electric",
+    "rarity": "RH",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/b/b0/ZapdosSetBase16.jpg"
+  },
+  {
+    "id": "017",
+    "name": "Beedrill",
+    "type": "grass",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/8/82/BeedrillSetBase17.jpg"
+  },
+  {
+    "id": "018",
+    "name": "Dragonair",
+    "type": "colorless",
+    "rarity": "R",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/9/9e/DragonairSetBase18.jpg"
+  },
+  {
+    "id": "019",
+    "name": "Dugtrio",
+    "type": "fighting",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/f/f7/DugtrioSetBase19.jpg"
+  },
+  {
+    "id": "020",
+    "name": "Electabuzz",
+    "type": "electric",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/0/00/ElectabuzzSetBase20.jpg"
+  },
+  {
+    "id": "021",
+    "name": "Electrode",
+    "type": "electric",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/c/c1/ElectrodeSetBase21.jpg"
+  },
+  {
+    "id": "022",
+    "name": "Pidgeotto",
+    "type": "colorless",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/b/b5/PidgeottoSetBase22.jpg"
+  },
+  {
+    "id": "023",
+    "name": "Arcanine",
+    "type": "fire",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/c/c3/ArcanineSetBase23.jpg"
+  },
+  {
+    "id": "024",
+    "name": "Charmeleon",
+    "type": "fire",
+    "rarity": "U",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/6/67/CharmeleonSetBase24.jpg"
+  },
+  {
+    "id": "025",
+    "name": "Dewgong",
+    "type": "water",
+    "rarity": "U",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/9/97/DewgongSetBase25.jpg/800px-DewgongSetBase25.jpg"
+  },
+  {
+    "id": "026",
+    "name": "Dratini",
+    "type": "colorless",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/9/91/DratiniSetBase26.jpg"
+  },
+  {
+    "id": "027",
+    "name": "Farfetch'd",
+    "type": "colorless",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/a/a9/FarfetchdSetBase27.jpg"
+  },
+  {
+    "id": "028",
+    "name": "Growlithe",
+    "type": "fire",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/d7/GrowlitheSetBase28.jpg/800px-GrowlitheSetBase28.jpg"
+  },
+  {
+    "id": "029",
+    "name": "Haunter",
+    "type": "psychic",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/2/2d/HaunterSetBase29.jpg/800px-HaunterSetBase29.jpg"
+  },
+  {
+    "id": "030",
+    "name": "Ivysaur",
+    "type": "grass",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/5/52/IvysaurSetBase30.jpg"
+  },
+  {
+    "id": "031",
+    "name": "Jynx",
+    "type": "psychic",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/0/0f/JynxSetBase31.jpg"
+  },
+  {
+    "id": "032",
+    "name": "Kadabra",
+    "type": "psychic",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/1/15/KadabraSetBase32.jpg/800px-KadabraSetBase32.jpg"
+  },
+  {
+    "id": "033",
+    "name": "Kakuna",
+    "type": "grass",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/7/76/KakunaSetBase33.png"
+  },
+  {
+    "id": "034",
+    "name": "Machoke",
+    "type": "fighting",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/bb/MachokeSetBase34.jpg/800px-MachokeSetBase34.jpg"
+  },
+  {
+    "id": "035",
+    "name": "Magikarp",
+    "type": "water",
+    "rarity": "U",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/0/0e/MagikarpSetBase35.jpg"
+  },
+  {
+    "id": "036",
+    "name": "Magmar",
+    "type": "fire",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/0/08/MagmarSetBase36.jpg"
+  },
+  {
+    "id": "037",
+    "name": "Nidorino",
+    "type": "grass",
+    "rarity": "U",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/6/63/NidorinoSetBase37.jpg/800px-NidorinoSetBase37.jpg"
+  },
+  {
+    "id": "038",
+    "name": "Poliwhirl",
+    "type": "water",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/7/7d/PoliwhirlSetBase38.jpg"
+  },
+  {
+    "id": "039",
+    "name": "Porygon",
+    "type": "colorless",
+    "rarity": "U",
+    "illustrator": "Tomoaki Imakuni",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/9/9b/PorygonSetBase39.jpg/800px-PorygonSetBase39.jpg"
+  },
+  {
+    "id": "040",
+    "name": "Raticate",
+    "type": "colorless",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/bc/RaticateSetBase40.jpg/800px-RaticateSetBase40.jpg"
+  },
+  {
+    "id": "041",
+    "name": "Seel",
+    "type": "water",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/a/ae/SeelSetBase41.jpg"
+  },
+  {
+    "id": "042",
+    "name": "Wartortle",
+    "type": "water",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/7/71/WartortleSetBase42.jpg"
+  },
+  {
+    "id": "043",
+    "name": "Abra",
+    "type": "psychic",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/6/67/AbraSetBase43.jpg"
+  },
+  {
+    "id": "044",
+    "name": "Bulbasaur",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/8/80/BulbasaurSetBase44.jpg"
+  },
+  {
+    "id": "045",
+    "name": "Caterpie",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/7/7b/CaterpieSetBase45.jpg/800px-CaterpieSetBase45.jpg"
+  },
+  {
+    "id": "046",
+    "name": "Charmander",
+    "type": "fire",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/f/f0/CharmanderSetBase46.jpg"
+  },
+  {
+    "id": "047",
+    "name": "Diglett",
+    "type": "fighting",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/cc/DiglettSetBase47.jpg/800px-DiglettSetBase47.jpg"
+  },
+  {
+    "id": "048",
+    "name": "Doduo",
+    "type": "colorless",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/bd/DoduoSetBase48.jpg/800px-DoduoSetBase48.jpg"
+  },
+  {
+    "id": "049",
+    "name": "Drowzee",
+    "type": "psychic",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/d6/DrowzeeSetBase49.jpg/800px-DrowzeeSetBase49.jpg"
+  },
+  {
+    "id": "050",
+    "name": "Gastly",
+    "type": "psychic",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/2/20/GastlySetBase50.jpg/800px-GastlySetBase50.jpg"
+  },
+  {
+    "id": "051",
+    "name": "Koffing",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/7/7c/KoffingSetBase51.jpg/800px-KoffingSetBase51.jpg"
+  },
+  {
+    "id": "052",
+    "name": "Machop",
+    "type": "fighting",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/c4/MachopSetBase52.jpg/800px-MachopSetBase52.jpg"
+  },
+  {
+    "id": "053",
+    "name": "Magnemite",
+    "type": "electric",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/dd/MagnemiteSetBase53.jpg/800px-MagnemiteSetBase53.jpg"
+  },
+  {
+    "id": "054",
+    "name": "Metapod",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/a/a6/MetapodSetBase54.jpg/800px-MetapodSetBase54.jpg"
+  },
+  {
+    "id": "055",
+    "name": "Nidoran ♂",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/c9/NidoranSetBase55.jpg/800px-NidoranSetBase55.jpg"
+  },
+  {
+    "id": "056",
+    "name": "Onix",
+    "type": "fighting",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/1/10/OnixSetBase56.jpg/800px-OnixSetBase56.jpg"
+  },
+  {
+    "id": "057",
+    "name": "Pidgey",
+    "type": "colorless",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/b3/PidgeySetBase57.jpg/800px-PidgeySetBase57.jpg"
+  },
+  {
+    "id": "058",
+    "name": "Pikachu",
+    "type": "electric",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/5/54/PikachuSetBase58.jpg/800px-PikachuSetBase58.jpg"
+  },
+  {
+    "id": "059",
+    "name": "Poliwag",
+    "type": "water",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/6/6f/PoliwagSetBase59.jpg/800px-PoliwagSetBase59.jpg"
+  },
+  {
+    "id": "060",
+    "name": "Ponyta",
+    "type": "fire",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/d5/PonytaSetBase60.jpg/800px-PonytaSetBase60.jpg"
+  },
+  {
+    "id": "061",
+    "name": "Rattata",
+    "type": "colorless",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/c/c3/RattataSetBase61.jpg"
+  },
+  {
+    "id": "062",
+    "name": "Sandshrew",
+    "type": "fighting",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/4/47/SandshrewSetBase62.jpg/800px-SandshrewSetBase62.jpg"
+  },
+  {
+    "id": "063",
+    "name": "Squirtle",
+    "type": "water",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/7/7a/SquirtleSetBase63.jpg/800px-SquirtleSetBase63.jpg"
+  },
+  {
+    "id": "064",
+    "name": "Starmie",
+    "type": "water",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/7/70/StarmieSetBase64.jpg/800px-StarmieSetBase64.jpg"
+  },
+  {
+    "id": "065",
+    "name": "Staryu",
+    "type": "water",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/b6/StaryuSetBase65.jpg/800px-StaryuSetBase65.jpg"
+  },
+  {
+    "id": "066",
+    "name": "Tangela",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/c2/TangelaSetBase66.jpg/800px-TangelaSetBase66.jpg"
+  },
+  {
+    "id": "067",
+    "name": "Voltorb",
+    "type": "electric",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/df/VoltorbSetBase67.jpg/800px-VoltorbSetBase67.jpg"
+  },
+  {
+    "id": "068",
+    "name": "Vulpix",
+    "type": "fire",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/1/15/VulpixSetBase68.jpg/800px-VulpixSetBase68.jpg"
+  },
+  {
+    "id": "069",
+    "name": "Weedle",
+    "type": "grass",
+    "rarity": "C",
+    "illustrator": "Mitsuhiro Arita",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/c6/WeedleSetBase69.jpg/800px-WeedleSetBase69.jpg"
+  },
+  {
+    "id": "070",
+    "name": "Clefairy Doll",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/4/47/ClefairyDollSetBase70.jpg"
+  },
+  {
+    "id": "071",
+    "name": "Ricerca Computerizzata",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/7/78/RicercaComputerizzataSetBase71.jpg"
+  },
+  {
+    "id": "072",
+    "name": "Getto di Involuzione",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/3/37/GettodiInvoluzioneSetBase72.jpg"
+  },
+  {
+    "id": "073",
+    "name": "Professor Oak, l'impostore",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/7/78/ProfessorOakLImpostoreSetBase73.jpg"
+  },
+  {
+    "id": "074",
+    "name": "Oggetti Smarriti",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/b/bc/OggettiSmarritiSetBase74.jpg"
+  },
+  {
+    "id": "075",
+    "name": "Pupa",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/3/3c/PupaSetBase75.jpg"
+  },
+  {
+    "id": "076",
+    "name": "Allevatore di Pokémon",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/b/b2/AllevatoreDiPok%C3%A9monSetBase76.jpg"
+  },
+  {
+    "id": "077",
+    "name": "Scambio di Pokémon",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/6/6a/ScambioDiPok%C3%A9monSetBase77.jpg"
+  },
+  {
+    "id": "078",
+    "name": "Recupero",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/d/d0/RecuperoSetBase78.jpg"
+  },
+  {
+    "id": "079",
+    "name": "Super-Rimozione di Energia",
+    "type": "trainer",
+    "rarity": "R",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/d/d1/SuperRimozioneDiEnergiaSetBase79.jpg"
+  },
+  {
+    "id": "080",
+    "name": "Difensore",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/8/84/DifensoreSetBase80.jpg/800px-DifensoreSetBase80.jpg"
+  },
+  {
+    "id": "081",
+    "name": "Recupero di Energia",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/cd/RecuperodiEnergiaSetBase81.jpg/800px-RecuperodiEnergiaSetBase81.jpg"
+  },
+  {
+    "id": "082",
+    "name": "Recupero Totale",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/1/19/RecuperoTotaleSetBase82.jpg/800px-RecuperoTotaleSetBase82.jpg"
+  },
+  {
+    "id": "083",
+    "name": "Manutenzione",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/c/c3/ManutenzioneSetBase83.jpg/800px-ManutenzioneSetBase83.jpg"
+  },
+  {
+    "id": "084",
+    "name": "PlusPotenza",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/df/PlusPotenzaSetBase84.jpg/800px-PlusPotenzaSetBase84.jpg"
+  },
+  {
+    "id": "085",
+    "name": "Centro Pokémon",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/2/27/CentroPok%C3%A9monSetBase85.jpg/800px-CentroPok%C3%A9monSetBase85.jpg"
+  },
+  {
+    "id": "086",
+    "name": "Poké Flauto",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/0/07/Pok%C3%A9FlautoSetBase86.jpg/800px-Pok%C3%A9FlautoSetBase86.jpg"
+  },
+  {
+    "id": "087",
+    "name": "Pokédex",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/4/4b/Pok%C3%A9dexSetBase87.jpg/800px-Pok%C3%A9dexSetBase87.jpg"
+  },
+  {
+    "id": "088",
+    "name": "Professor Oak",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/3/39/ProfessorOakSetBase88.jpg"
+  },
+  {
+    "id": "089",
+    "name": "Revitalizzazione",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/5/58/RevitalizzazioneSetBase89.jpg/800px-RevitalizzazioneSetBase89.jpg"
+  },
+  {
+    "id": "090",
+    "name": "Super Pozione Magica",
+    "type": "trainer",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/2/2a/SuperPozioneMagicaSetBase90.jpg/800px-SuperPozioneMagicaSetBase90.jpg"
+  },
+  {
+    "id": "091",
+    "name": "Bill",
+    "type": "trainer",
+    "rarity": "C",
+    "illustrator": "Ken Sugimori",
+    "image": "https://media.pokemoncentral.it/wiki/b/b9/BillSetBase91.jpg"
+  },
+  {
+    "id": "092",
+    "name": "Distruzione di Energia",
+    "type": "trainer",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/2/2e/DistruzionediEnergiaSetBase92.jpg"
+  },
+  {
+    "id": "093",
+    "name": "Ventata",
+    "type": "trainer",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/9/93/VentataSetBase93.jpg/800px-VentataSetBase93.jpg"
+  },
+  {
+    "id": "094",
+    "name": "Pozione Magica",
+    "type": "trainer",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/b/b8/PozioneMagicaSetBase94.jpg"
+  },
+  {
+    "id": "095",
+    "name": "Scambio",
+    "type": "trainer",
+    "rarity": "C",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/b/ba/ScambioSetBase95.jpg/800px-ScambioSetBase95.jpg"
+  },
+  {
+    "id": "096",
+    "name": "Energia Incolore Doppia",
+    "type": "colorless",
+    "rarity": "U",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/thumb/d/de/EnergiaIncoloreDoppiaSetBase96.png/800px-EnergiaIncoloreDoppiaSetBase96.png"
+  },
+  {
+    "id": "097",
+    "name": "Energia Combattimento",
+    "type": "fighting",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/7/71/EnergiaCombattimentoSetBase97.png"
+  },
+  {
+    "id": "098",
+    "name": "Energia Fuoco",
+    "type": "fire",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaFuocoSetBase98.jpg"
+  },
+  {
+    "id": "099",
+    "name": "Energia Erba",
+    "type": "grass",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/8/8e/EnergiaErbaSetBase99.jpg"
+  },
+  {
+    "id": "100",
+    "name": "Energia Lampo",
+    "type": "electric",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/7/76/EnergiaLampoSetBase100.jpg"
+  },
+  {
+    "id": "101",
+    "name": "Energia Psiche",
+    "type": "psychic",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaPsicheSetBase101.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Energia Acqua",
+    "type": "water",
+    "rarity": "",
+    "illustrator": "Keiji Kinebuchi",
+    "image": "https://media.pokemoncentral.it/wiki/9/9d/EnergiaAcquaSetBase102.jpg"
+  }
+]

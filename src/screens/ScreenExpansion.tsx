@@ -1,6 +1,7 @@
 import React from "react";
 import { Image, Modal, Pressable, Text, TouchableOpacity, View } from 'react-native';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { LinearGradient } from "expo-linear-gradient";
 
 import { StackParamExpansions } from '../interfaces/route-params';
 
@@ -52,7 +53,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
                 </View>
 
                 <TouchableOpacity
-                    onPress={() => navigation.navigate('ScreenCards', { data: data })}
+                    onPress={() => navigation.navigate('ScreenCards', { seriesData: route.params.seriesData, data: data })}
                     className="bg-blue-400 aria-pressed:bg-blue-100 p-4 rounded-lg m-4 text-center">
                     
                     <Text className="text-center text-white font-bold text-xl">Carte</Text>
@@ -83,8 +84,12 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
                 visible={selectedPack != null}
                 transparent={true}>
 
-                <Pressable
-                    className="flex-1 justify-center items-center bg-blue-900/80">
+                <LinearGradient
+                    colors={[route.params.data.fromColor + 'F0', route.params.data.toColor + 'F0']}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}
+                    className='flex-1 justify-center items-center'
+                >
 
                     <View className="w-[80%] h-[100%] justify-center items-center">
 
@@ -92,7 +97,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
                             source={{ uri: data.packImages[selectedPack! ] }}
                             style={{ width: '120%', height: '80%' }}
                             resizeMode='contain'
-                            className="border-2 border-yellow-400 rounded-lg bg-yellow-100"
+                            //className="border-2 border-yellow-400 rounded-lg bg-yellow-100"
                         />
 
                         <View className="flex-row gap-4 mt-4 justify-center items-center">
@@ -103,7 +108,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
                                 style={{ opacity: (selectedPack! > 0) ? 1 : 0 }}>
 
                                 <Image
-                                    source={require('../../assets/icons/wpf--previous.png')}
+                                    source={require('../../assets/icons/solar--map-arrow-left-bold-duotone.png')}
                                     style={{ width: 48, height: 48 }}
                                     tintColor={'#FFFFFF'}
                                     resizeMode='contain'
@@ -116,7 +121,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
 
                                 <Image
                                     source={require('../../assets/icons/carbon--close-filled.png')}
-                                    style={{ width: 56, height: 56 }}
+                                    style={{ width: 48, height: 48 }}
                                     tintColor={'#FFFFFF'}
                                     resizeMode='contain'
                                 />
@@ -129,7 +134,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
                                 style={{ opacity: (selectedPack! < data.packImages.length - 1) ? 1 : 0 }}>
                                 
                                 <Image
-                                    source={require('../../assets/icons/wpf--next.png')}
+                                    source={require('../../assets/icons/solar--map-arrow-right-bold-duotone.png')}
                                     style={{ width: 48, height: 48 }}
                                     tintColor={'#FFFFFF'}
                                     resizeMode='contain'
@@ -141,7 +146,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
 
                     </View>
 
-                </Pressable>
+                </LinearGradient>
 
             </Modal>
 

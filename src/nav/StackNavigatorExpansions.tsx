@@ -1,5 +1,7 @@
+import { Image, Text, TouchableOpacity, View } from 'react-native';
 import { RouteProp } from '@react-navigation/native'
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import { createNativeStackNavigator, NativeStackNavigationProp } from "@react-navigation/native-stack";
+import { LinearGradient } from "expo-linear-gradient";
 
 import ScreenExpansions from "../screens/ScreenExpansions";
 import ScreenExpansion from "../screens/ScreenExpansion";
@@ -35,9 +37,30 @@ export default function StackNavigatorExpansions()
                 component={ScreenExpansion}
                 options=
                 {
-                    ({ route } : { route : RouteScreenExpansion }) => (
+                    ({ route, navigation }: { route: RouteScreenExpansion, navigation: NativeStackNavigationProp<StackParamExpansions, "ScreenExpansion", undefined> }) => (
                     {
-                        title: String(route.params.data.name).split(' - ')[1] ?? String(route.params.data.name),
+                        header: () => (
+                            <LinearGradient
+                                colors={[route.params.data.fromColor + '50', route.params.data.toColor + '50']}
+                                start={{ x: 0, y: 0 }}
+                                end={{ x: 1, y: 0 }}
+                                className='flex justify-center p-4'
+                            >
+                            <View className='flex-row justify-start items-center gap-4 px-4'>
+                                <TouchableOpacity onPress={() => navigation.goBack()}>
+
+                                    <Image
+                                        source={require('../../assets/icons/solar--map-arrow-left-bold-duotone.png')}
+                                        style={{ width: 32, height: 32 }}
+                                        resizeMode='contain'
+                                        tintColor={'#1e3a8a'}
+                                    />
+                                
+                                </TouchableOpacity>
+                                <Text className='text-blue-900 font-bold text-3xl'>{String(route.params.data.name).split(' - ')[1] ?? String(route.params.data.name)}</Text>
+                            </View>
+                            </LinearGradient>
+                        )
                     })
                 }
             />
@@ -47,9 +70,30 @@ export default function StackNavigatorExpansions()
                 component={ScreenCards}
                 options=
                 {
-                    ({ route } : { route : RouteScreenCards }) => (
+                    ({ route, navigation } : { route : RouteScreenCards, navigation: NativeStackNavigationProp<StackParamExpansions, "ScreenCards", undefined> }) => (
                     {
-                        title: 'Carte',
+                        header: () => (
+                            <LinearGradient
+                                colors={[route.params.data.fromColor + '50', route.params.data.toColor + '50']}
+                                start={{ x: 0, y: 0 }}
+                                end={{ x: 1, y: 0 }}
+                                className='flex justify-center p-4'
+                            >
+                            <View className='flex-row justify-start items-center gap-4 px-4'>
+                                <TouchableOpacity onPress={() => navigation.goBack()}>
+
+                                    <Image
+                                        source={require('../../assets/icons/solar--map-arrow-left-bold-duotone.png')}
+                                        style={{ width: 32, height: 32 }}
+                                        resizeMode='contain'
+                                        tintColor={'#1e3a8a'}
+                                    />
+                                
+                                </TouchableOpacity>
+                                <Text className='text-blue-900 font-bold text-3xl'>Carte</Text>
+                            </View>
+                            </LinearGradient>
+                        )
                     })
                 }
             />

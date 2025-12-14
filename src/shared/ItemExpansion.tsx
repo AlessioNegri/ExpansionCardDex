@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Image, Text, TouchableOpacity, View } from 'react-native';
+import { LinearGradient } from "expo-linear-gradient";
 
 import { ExpansionData, ItemExpansionProps, SeriesData } from "../interfaces/ItemExpansion.types";
 
@@ -10,11 +11,20 @@ export default function ItemExpansion(props: ItemExpansionProps)
     var item : SeriesData = props.item;
 
     return (
-        <View className="m-5 border-2 border-blue-800 rounded-lg p-2 bg-green-100">
+        <View className="m-5 border-2 border-blue-800 rounded-lg p-2">
             
-            <TouchableOpacity onPress={() => setOpenSeries(!openSeries)}>
+            <TouchableOpacity onPress={() => setOpenSeries(!openSeries)} className="rounded-md">
 
-                <Text className='bg-blue-500/80 uppercase text-lg font-robotmono text-white p-3 rounded-md text-center'>{item.name}</Text>
+                <LinearGradient
+                    colors={[item.fromColor + '50', item.toColor + '50']}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}
+                    style={{ borderRadius: 8 }}
+                >
+                    
+                    <Text className='uppercase text-xl font-bold text-blue-900 p-3 text-center'>{item.name}</Text>
+
+                </LinearGradient>
 
             </TouchableOpacity>
 
@@ -23,17 +33,38 @@ export default function ItemExpansion(props: ItemExpansionProps)
 
                     <TouchableOpacity key={exp.code} onPress={() => props.onPressExpansion(exp)}>
                         
-                        <View
+                        <LinearGradient
                             key={exp.code}
-                            className={`my-3 p-3 rounded-md border-2 \
-                                        ${exp.type === 'M' ? 'bg-slate-100' : 'bg-yellow-100'} \
-                                        ${exp.type === 'M' ? 'border-slate-500' : 'border-yellow-500'}`}>
+                            colors={[exp.fromColor + '50', exp.toColor + '50']}
+                            start={{ x: 0, y: 0 }}
+                            end={{ x: 1, y: 0 }}
+                            className={`my-3 p-3 rounded-md border-4 \
+                                        ${exp.type === 'M' ? 'border-slate-500' : 'border-slate-500'}`}
+                        >
 
-                            <Image
-                                source={{ uri: exp.image ?? undefined }}
-                                style={{ width: '100%', height: 100 }}
-                                resizeMode='contain'
-                            />
+                            <View className="flex-row justify-between align-top">
+
+                                <Image
+                                    source={{ uri: (exp.symbol && exp.symbol !== '') ? exp.symbol : undefined }}
+                                    style={{ width: 32, height: 32 }}
+                                    resizeMode='contain'
+                                />
+
+                                <Image
+                                    source={{ uri: (exp.image && exp.image !== '') ? exp.image : undefined }}
+                                    style={{ width: '80%', height: 100 }}
+                                    resizeMode='contain'
+                                />
+
+                                <Image
+                                    source={require('../../assets/icons/solar--star-bold.png')}
+                                    style={{ width: 32, height: 32 }}
+                                    resizeMode='contain'
+                                    tintColor={(exp.type === 'S') ? '#FFA500' : '#00000000'}
+                                />
+                                
+                            </View>
+
 
                             <View className='flex flex-row justify-between items-center border-t-2 pt-2 mt-2'>
 
@@ -73,7 +104,7 @@ export default function ItemExpansion(props: ItemExpansionProps)
 
                             </View>
 
-                        </View>
+                        </LinearGradient>
 
                     </TouchableOpacity>
                     

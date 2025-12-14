@@ -1,0 +1,1058 @@
+[
+    {
+        "id": "001",
+        "name": "Blaine's Moltres",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/BlaineMoltresGymHeroes1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Brock's Rhydon",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/BrockRhydonGymHeroes2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Erika's Clefable",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/ErikaClefableGymHeroes3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Erika's Dragonair",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/ErikaDragonairGymHeroes4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Erika's Vileplume",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/ErikaVileplumeGymHeroes5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Lt. Surge's Electabuzz",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/LtSurgeElectabuzzGymHeroes6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Lt. Surge's Fearow",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/LtSurgeFearowGymHeroes7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Lt. Surge's Magneton",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/LtSurgeMagnetonGymHeroes8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Misty's Seadra",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/84/MistySeadraGymHeroes9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Misty's Tentacruel",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/MistyTentacruelGymHeroes10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Rocket's Hitmonchan",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/RocketHitmonchanGymHeroes11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Rocket's Moltres",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/RocketMoltresGymHeroes12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Rocket's Scyther",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/RocketScytherGymHeroes13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Sabrina's Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/SabrinaGengarGymHeroes14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Brock",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/BrockGymHeroes15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Erika",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/ErikaGymHeroes16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Lt. Surge",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/LtSurgeGymHeroes17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Misty",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/MistyGymHeroes18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "The Rocket's Trap",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/TheRocketTrapGymHeroes19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Brock's Golem",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/BrockGolemGymHeroes20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Brock's Onix",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Benimaru Itoh",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/BrockOnixGymHeroes21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Brock's Rhyhorn",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/BrockRhyhornGymHeroes22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Brock's Sandslash",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/BrockSandslashGymHeroes23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Brock's Zubat",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/BrockZubatGymHeroes24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Erika's Clefairy",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/ErikaClefairyGymHeroes25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Erika's Victreebel",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/ErikaVictreebelGymHeroes26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Lt. Surge's Electabuzz",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/LtSurgeElectabuzzGymHeroes27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Lt. Surge's Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/02/LtSurgeRaichuGymHeroes28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Misty's Cloyster",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/MistyCloysterGymHeroes29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Misty's Goldeen",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/MistyGoldeenGymHeroes30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Misty's Poliwrath",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/MistyPoliwrathGymHeroes31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Misty's Tentacool",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/MistyTentacoolGymHeroes32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Rocket's Snorlax",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/RocketSnorlaxGymHeroes33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Sabrina's Venomoth",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/SabrinaVenomothGymHeroes34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Blaine's Growlithe",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/BlaineGrowlitheGymHeroes35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Blaine's Kangaskhan",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/BlaineKangaskhanGymHeroes36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Blaine's Magmar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/BlaineMagmarGymHeroes37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Brock's Geodude",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/BrockGeodudeGymHeroes38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Brock's Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/BrockGolbatGymHeroes39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Brock's Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/BrockGravelerGymHeroes40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Brock's Lickitung",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/BrockLickitungGymHeroes41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Erika's Dratini",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/ErikaDratiniGymHeroes42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Erika's Exeggcute",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/ErikaExeggcuteGymHeroes43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Erika's Exeggutor",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/ErikaExeggutorGymHeroes44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Erika's Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/ErikaGloomGymHeroes45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Erika's Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/ErikaGloomGymHeroes46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Erika's Oddish",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/28/ErikaOddishGymHeroes47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Erika's Weepinbell",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/ErikaWeepinbellGymHeroes48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Erika's Weepinbell",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/ErikaWeepinbellGymHeroes49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Lt. Surge's Magnemite",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/LtSurgeMagnemiteGymHeroes50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Lt. Surge's Raticate",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/LtSurgeRaticateGymHeroes51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Lt. Surge's Spearow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/LtSurgeSpearowGymHeroes52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Misty's Poliwhirl",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/MistyPoliwhirlGymHeroes53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Misty's Psyduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/MistyPsyduckGymHeroes54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Misty's Seaking",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/MistySeakingGymHeroes55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Misty's Starmie",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/MistyStarmieGymHeroes56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Misty's Tentacool",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/eb/MistyTentacoolGymHeroes57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Sabrina's Haunter",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/SabrinaHaunterGymHeroes58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Sabrina's Jynx",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/SabrinaJynxGymHeroes59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Sabrina's Slowbro",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/SabrinaSlowbroGymHeroes60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Blaine's Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/BlaineCharmanderGymHeroes61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Blaine's Growlithe",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/BlaineGrowlitheGymHeroes62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Blaine's Ponyta",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/BlainePonytaGymHeroes63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Blaine's Tauros",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/BlaineTaurosGymHeroes64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Blaine's Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/61/BlaineVulpixGymHeroes65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Brock's Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/16/BrockGeodudeGymHeroes66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Brock's Mankey",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/BrockMankeyGymHeroes67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Brock's Mankey",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/58/BrockMankeyGymHeroes68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Brock's Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/BrockOnixGymHeroes69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Brock's Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/BrockRhyhornGymHeroes70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Brock's Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/BrockSandshrewGymHeroes71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Brock's Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/BrockSandshrewGymHeroes72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Brock's Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/BrockVulpixGymHeroes73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Brock's Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/BrockZubatGymHeroes74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Erika's Bellsprout",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/ErikaBellsproutGymHeroes75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Erika's Bellsprout",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/ErikaBellsproutGymHeroes76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Erika's Exeggcute",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/ErikaExeggcuteGymHeroes77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Erika's Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/ErikaOddishGymHeroes78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Erika's Tangela",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/ErikaTangelaGymHeroes79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Lt. Surge's Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/LtSurgeMagnemiteGymHeroes80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Lt. Surge's Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/LtSurgePikachuGymHeroes81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Lt. Surge's Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/LtSurgeRattataGymHeroes82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Lt. Surge's Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/LtSurgeSpearowGymHeroes83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Lt. Surge's Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/LtSurgeVoltorbGymHeroes84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Misty's Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/MistyGoldeenGymHeroes85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Misty's Horsea",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/MistyHorseaGymHeroes86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Misty's Poliwag",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/MistyPoliwagGymHeroes87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Misty's Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/MistySeelGymHeroes88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Misty's Shellder",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/MistyShellderGymHeroes89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Misty's Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/MistyStaryuGymHeroes90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Sabrina's Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/SabrinaAbraGymHeroes91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Sabrina's Drowzee",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/SabrinaDrowzeeGymHeroes92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Sabrina's Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/SabrinaGastlyGymHeroes93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Sabrina's Mr. Mime",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/SabrinaMrMimeGymHeroes94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Sabrina's Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/SabrinaSlowpokeGymHeroes95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Sabrina's Venonat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/SabrinaVenonatGymHeroes96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Blaine's Quiz #1",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/BlaineQuiz1GymHeroes97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Brock",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/BrockGymHeroes98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Charity",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/28/CharityGymHeroes99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Erika",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/ErikaGymHeroes100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Lt. Surge",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/LtSurgeGymHeroes101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Misty",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/MistyGymHeroes102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "No Removal Gym",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/NoRemovalGymGymHeroes103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "The Rocket's Training Gym",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/TheRocketTrainingGymGymHeroes104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Blaine's Last Resort",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/BlaineLastResortGymHeroes105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Brock's Training Method",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/BrockTrainingMethodGymHeroes106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Celadon City Gym",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/CeladonCityGymGymHeroes107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Cerulean City Gym",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/CeruleanCityGymGymHeroes108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Erika's Maids",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/ErikaMaidsGymHeroes109.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Erika's Perfume",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/ErikaPerfumeGymHeroes110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Good Manners",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/70/GoodMannersGymHeroes111.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Lt. Surge's Treaty",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/LtSurgeTreatyGymHeroes112.jpg"
+    },
+    {
+        "id": "113",
+        "name": "Minion of Team Rocket",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/MinionTeamRocketGymHeroes113.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Misty's Wrath",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/MistyWrathGymHeroes114.jpg"
+    },
+    {
+        "id": "115",
+        "name": "Pewter City Gym",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/PewterCityGymGymHeroes115.jpg"
+    },
+    {
+        "id": "116",
+        "name": "Recall",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/RecallGymHeroes116.jpg"
+    },
+    {
+        "id": "117",
+        "name": "Sabrina's ESP",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/SabrinaESPGymHeroes117.jpg"
+    },
+    {
+        "id": "118",
+        "name": "Secret Mission",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/SecretMissionGymHeroes118.jpg"
+    },
+    {
+        "id": "119",
+        "name": "Tickling Machine",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/3/3a/TicklingMachineGymHeroes119.jpg"
+    },
+    {
+        "id": "120",
+        "name": "Vermilion City Gym",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/VermilionCityGymGymHeroes120.jpg"
+    },
+    {
+        "id": "121",
+        "name": "Blaine's Gamble",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/BlaineGambleGymHeroes121.jpg"
+    },
+    {
+        "id": "122",
+        "name": "Energy Flow",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/EnergyFlowGymHeroes122.jpg"
+    },
+    {
+        "id": "123",
+        "name": "Misty's Duel",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/MistyDuelGymHeroes123.jpg"
+    },
+    {
+        "id": "124",
+        "name": "Narrow Gym",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/NarrowGymGymHeroes124.jpg"
+    },
+    {
+        "id": "125",
+        "name": "Sabrina's Gaze",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/SabrinaGazeGymHeroes125.jpg"
+    },
+    {
+        "id": "126",
+        "name": "Trash Exchange",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/0/01/TrashExchangeGymHeroes126.jpg"
+    },
+    {
+        "id": "127",
+        "name": "Fighting Energy",
+        "type": "fighting",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/EnergiaCombattimentoSetBase97.png"
+    },
+    {
+        "id": "128",
+        "name": "Fire Energy",
+        "type": "fire",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaFuocoSetBase98.jpg"
+    },
+    {
+        "id": "129",
+        "name": "Grass Energy",
+        "type": "grass",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/EnergiaErbaSetBase99.jpg"
+    },
+    {
+        "id": "130",
+        "name": "Lightning Energy",
+        "type": "electric",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/EnergiaLampoSetBase100.jpg"
+    },
+    {
+        "id": "131",
+        "name": "Psychic Energy",
+        "type": "psychic",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaPsicheSetBase101.jpg"
+    },
+    {
+        "id": "132",
+        "name": "Water Energy",
+        "type": "water",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/EnergiaAcquaSetBase102.jpg"
+    }
+]

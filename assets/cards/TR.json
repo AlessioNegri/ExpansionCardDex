@@ -1,0 +1,666 @@
+[
+    {
+        "id": "001",
+        "name": "Dark Alakazam",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/DarkAlakazamTeamRocket1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Dark Arbok",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/DarkArbokTeamRocket2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Dark Blastoise",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkBlastoiseTeamRocket3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dark Charizard",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/23/DarkCharizardTeamRocket4.png"
+    },
+    {
+        "id": "005",
+        "name": "Dark Dragonite",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/DarkDragoniteTeamRocket5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Dark Dugtrio",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/DarkDugtrioTeamRocket6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Dark Golbat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/22/DarkGolbatTeamRocket7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Dark Gyarados",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/DarkGyaradosTeamRocket8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Dark Hypno",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/DarkHypnoTeamRocket9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Dark Machamp",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/DarkMachampTeamRocket10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Dark Magneton",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/DarkMagnetonTeamRocket11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Dark Slowbro",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/DarkSlowbroTeamRocket12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Dark Vileplume",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/DarkVileplumeTeamRocket13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Dark Weezing",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkWeezingTeamRocket14.png"
+    },
+    {
+        "id": "015",
+        "name": "Arriva il Team Rocket!",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/ArrivaIlTeamRocketTeamRocket15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Attacco a Sorpresa del Team Rocket",
+        "type": "trainer",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/AttaccoASorpresaDelTeamRocketTeamRocket16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Energia Arcobaleno",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/EnergiaArcobalenoTeamRocket17.png"
+    },
+    {
+        "id": "018",
+        "name": "Dark Alakazam",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/DarkAlakazamTeamRocket1.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Dark Arbok",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/DarkArbokTeamRocket2.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Dark Blastoise",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkBlastoiseTeamRocket3.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Dark Charizard",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/23/DarkCharizardTeamRocket4.png"
+    },
+    {
+        "id": "022",
+        "name": "Dark Dragonite",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/DarkDragoniteTeamRocket5.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Dark Dugtrio",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/DarkDugtrioTeamRocket6.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Dark Golbat",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/22/DarkGolbatTeamRocket7.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Dark Gyarados",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/DarkGyaradosTeamRocket8.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Dark Hypno",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/DarkHypnoTeamRocket9.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Dark Machamp",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/DarkMachampTeamRocket10.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Dark Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/DarkMagnetonTeamRocket11.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Dark Slowbro",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/DarkSlowbroTeamRocket12.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Dark Vileplume",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/DarkVileplumeTeamRocket13.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Dark Weezing",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkWeezingTeamRocket14.png"
+    },
+    {
+        "id": "032",
+        "name": "Dark Charmeleon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/DarkCharmeleonTeamRocket32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Dark Dragonair",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/DarkDragonairTeamRocket33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Dark Electrode",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/DarkElectrodeTeamRocket34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Dark Flareon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/DarkFlareonTeamRocket35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Dark Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/DarkGloomTeamRocket36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Dark Golduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/DarkGolduckTeamRocket37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Dark Jolteon",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/DarkJolteonTeamRocket38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Dark Kadabra",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/DarkKadabraTeamRocket39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Dark Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/DarkMachokeTeamRocket40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Dark Muk",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/DarkMukTeamRocket41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Dark Persian",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/DarkPersianTeamRocket42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Dark Primeape",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/DarkPrimeapeTeamRocket43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Dark Rapidash",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/DarkRapidashTeamRocket44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Dark Vaporeon",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/DarkVaporeonTeamRocket45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Dark Wartortle",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/DarkWartortleTeamRocket46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/MagikarpTeamRocket47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Porygon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/PorygonTeamRocket48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/AbraTeamRocket49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/CharmanderTeamRocket50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Dark Raticate",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/DarkRaticateTeamRocket51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Diglett",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/8/84/DiglettTeamRocket52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/DratiniTeamRocket53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Drowzee",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/DrowzeeTeamRocket54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/EeveeTeamRocket55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Ekans",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/EkansTeamRocket56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Grimer",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/GrimerTeamRocket57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Koffing",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/KoffingTeamRocket58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/MachopTeamRocket59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/MagnemiteTeamRocket60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Mankey",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/MankeyTeamRocket61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/1/17/MeowthTeamRocket62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/OddishTeamRocket63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Ponyta",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/PonytaTeamRocket64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/PsyduckTeamRocket65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/RattataTeamRocket66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/SlowpokeTeamRocket67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/SquirtleTeamRocket68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/VoltorbTeamRocket69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/ZubatTeamRocket70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Arriva il Team Rocket!",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/ArrivaIlTeamRocketTeamRocket15.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Attacco a Sorpresa del Team Rocket",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/AttaccoASorpresaDelTeamRocketTeamRocket16.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Alla Maniera del Capo",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/AllaManieradelCapoTeamRocket73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Sfida!",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/SfidaTeamRocket74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Scavatrappole",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/ScavatrappoleTeamRocket75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "La Vendetta del Professor Oak, l'Impostore",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/LaVendettaDelProfessorOakLImpostoreTeamRocket76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Raccolta Notturna della Spazzatura",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/RaccoltaNotturnaDellaSpazzaturaTeamRocket77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Gas stupidifero",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/GasStupidiferoTeamRocket78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Dormi!",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/DormiTeamRocket79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Energia Arcobaleno",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/EnergiaArcobalenoTeamRocket17.png"
+    },
+    {
+        "id": "081",
+        "name": "Energia Recupero Totale",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/EnergiaRecuperoTotaleTeamRocket81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Energia Pozione Magica",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/EnergiaPozioneMagicaTeamRocket82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Dark Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/DarkRaichuTeamRocket83.jpg"
+    }
+]

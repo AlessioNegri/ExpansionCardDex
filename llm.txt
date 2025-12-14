@@ -1,0 +1,45 @@
+Turn the table above in a JSON array with the following structure
+
+{ "id": "001", "name": "Alakazam", "type": "psychic", "rarity": "RH", "illustrator": "", "image": "" }
+
+using the following conversion for type
+
+{
+    "colorless": "Energia Incolore",
+    "grass": "Energia Erba",
+    "water": "Energia Acqua",
+    "fire": "Energia Fuoco",
+    "fighting": "Energia Combattimento",
+    "psychic": "Energia Psiche",
+    "electric": "Energia Lampo",
+    "dark": "Energia Oscurità",
+    "steel": "Energia Metallo",
+    "dragon": "Energia Drago",
+    "fairy": "Energia Fata",
+    "trainer": "Trainer"
+}
+
+and the following for rarity
+
+{
+    "C": "Common",
+    "U": "Uncommon",
+    "R": "Rare",
+    "RH": "Rare Holo",
+    "RR": "Double Rare",
+    "IR": "Illustration Rare",
+    "UR": "Ultra Rare",
+    "SIR": "Special Illustration Rare",
+    "MHR": "Mega Hyper Rare",
+
+    "AR": "Art Rare",
+    "SR": "Super Rare",
+    "SAR": "Special Art Rare",
+    "IM": "Immersive Rare",
+    "URa": "aaCrown Rare",
+    "S": "Shiny",
+    "SSR": "Shiny Super Rare"
+}
+
+for the image use the folowing list
+

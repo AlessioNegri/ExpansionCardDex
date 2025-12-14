@@ -1,4 +1,4 @@
-import { ExpansionData } from "./ItemExpansion.types";
+import { ExpansionData, SeriesData } from "./ItemExpansion.types";
 
 export type StackParamExpansions =
 {
@@ -6,11 +6,13 @@ export type StackParamExpansions =
     
     ScreenExpansion:
     {
+        seriesData: SeriesData;
         data: ExpansionData;
     };
 
     ScreenCards:
     {
+        seriesData: SeriesData;
         data: ExpansionData;
     };
 };

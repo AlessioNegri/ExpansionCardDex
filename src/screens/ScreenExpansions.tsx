@@ -19,7 +19,7 @@ export default function ScreenExpansions( { navigation } : NativeStackScreenProp
                 <ItemExpansion
                     item={item}
                     index={index}
-                    onPressExpansion={ (exp : ExpansionData) => { navigation.navigate('ScreenExpansion', { data: exp }) } }/>}
+                    onPressExpansion={ (exp : ExpansionData) => { navigation.navigate('ScreenExpansion', { seriesData: item, data: exp}) } }/>}
             />
     );
 }

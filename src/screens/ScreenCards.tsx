@@ -7,15 +7,26 @@ import { CardData } from '../interfaces/ItemCard.types';
 
 import ItemCard from "../shared/ItemCard";
 
+import SB from '../../assets/cards/SB.json';
+import JU from '../../assets/cards/JU.json'
+import FO from '../../assets/cards/FO.json'
+import B2 from '../../assets/cards/B2.json'
+import TR from '../../assets/cards/TR.json'
+import G1 from '../../assets/cards/G1.json'
+import G2 from '../../assets/cards/G2.json'
 import MEG from '../../assets/cards/MEG.json';
 import PFL from '../../assets/cards/PFL.json';
 import SVE from '../../assets/cards/SVE.json';
+import { LinearGradient } from "expo-linear-gradient";
+import fetchCardPrice from "../utility/CardPrice";
 
 export default function ScreenCards({ navigation, route } : NativeStackScreenProps<StackParamExpansions, "ScreenCards", undefined>)
 {
     const [selectedCardIndex, setSelectedCardIndex] = React.useState<number | null>(null);
 
     const [selectedCard, setSelectedCard] = React.useState<CardData | null>(null);
+
+    const [cardPrice, setCardPrice] = React.useState<string>('');
 
     const GridCard = React.memo( ( { item, index } : { item : CardData, index : number } ) =>
                         <ItemCard
@@ -25,12 +36,25 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
                             expansion={route.params.data}
                             onSelectCard={(index : number, card : CardData) => { setSelectedCardIndex(index); setSelectedCard(card); }}/>)
 
+    React.useEffect(() =>
+    {
+        const getCardPrice = async () =>
+        {
+            if (selectedCard === null) return;
+
+            setCardPrice(await fetchCardPrice(route.params.data.code, selectedCard));
+        };
+
+        getCardPrice();
+    }, [selectedCard]);
+
     const handlePrev = () =>
     {
         if (selectedCardIndex === null) return;
         
         const prevIndex : number = (selectedCardIndex > 0) ? (selectedCardIndex - 1) : 0;
         
+        setCardPrice('');
         setSelectedCardIndex(prevIndex);
         setSelectedCard(cardList[prevIndex]);
     };
@@ -41,13 +65,21 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
 
         const nextIndex : number = (selectedCardIndex + 1) % cardList.length;
         
+        setCardPrice('');
         setSelectedCardIndex(nextIndex);
         setSelectedCard(cardList[nextIndex]);
     };
 
     var cardList : CardData[] = [];
 
-    if      (route.params.data.code === 'MEG') cardList = MEG;
+    if      (route.params.data.code === 'SB') cardList = SB;
+    else if (route.params.data.code === 'JU') cardList = JU;
+    else if (route.params.data.code === 'FO') cardList = FO;
+    else if (route.params.data.code === 'B2') cardList = B2;
+    else if (route.params.data.code === 'TR') cardList = TR;
+    else if (route.params.data.code === 'G1') cardList = G1;
+    else if (route.params.data.code === 'G2') cardList = G2;
+    else if (route.params.data.code === 'MEG') cardList = MEG;
     else if (route.params.data.code === 'PFL') cardList = PFL;
     else if (route.params.data.code === 'SVE') cardList = SVE;
 
@@ -64,63 +96,85 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
 
             <Modal visible={!!selectedCard} transparent={true}>
 
-                <View className="w-[100%] h-[100%] flex-1 justify-center items-center gap-4 p-4 bg-blue-900/95">
+                <LinearGradient
+                    colors={[route.params.data.fromColor + 'F0', route.params.data.toColor + 'F0']}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}
+                    className='flex-1 justify-center items-center'
+                >
 
-                    <Text className="font-bold text-center text-white text-xl bg-red-800 p-2 rounded-xl">
-                        {selectedCard?.id + '/' + route.params.data.regularCards + ' - ILL. ' + selectedCard?.illustrator}
-                    </Text>
+                    <View className="w-[100%] h-[100%] flex-1 justify-center items-center gap-2 p-4">
 
-                    <Image
-                        source={{ uri: selectedCard?.image ? selectedCard?.image : 'https://media.pokemoncentral.it/wiki/1/17/Cardback.jpg' }}
-                        style={{ width: '100%', height: '70%' }}
-                        resizeMode='contain'
-                    />
+                        <Text className="font-bold text-center text-xl bg-white p-2 rounded-xl">
+                            {selectedCard?.id + '/' + String(route.params.data.regularCards).padStart(3, '0') + ' - ILL. ' + selectedCard?.illustrator}
+                        </Text>
 
-                    <View className="flex-row gap-4 mt-4 justify-center items-center">
+                        <Image
+                            source={{ uri: selectedCard?.image ? selectedCard?.image : 'https://media.pokemoncentral.it/wiki/1/17/Cardback.jpg' }}
+                            style={{ width: '100%', height: '70%' }}
+                            resizeMode='contain'
+                        />
 
-                        <Pressable
-                            onPress={handlePrev}
-                            pointerEvents={(selectedCardIndex! > 0) ? 'auto' : 'none'}
-                            style={{ opacity: (selectedCardIndex! > 0) ? 1 : 0 }}>
+                        <View className="bg-white p-2 rounded-xl flex-row justify-center items-center gap-4">
 
                             <Image
-                                source={require('../../assets/icons/wpf--previous.png')}
-                                style={{ width: 48, height: 48 }}
-                                tintColor={'#FFFFFF'}
+                                source={require('../../assets/icons/game-icons--money-stack.png')}
+                                style={{ width: 32, height: 32 }}
                                 resizeMode='contain'
+                                tintColor={'#000000'}
                             />
                             
-                        </Pressable>
+                            <Text className="font-bold text-center text-xl text-black ">{cardPrice}</Text>
 
-                        <Pressable
-                            onPress={() => { setSelectedCardIndex(null); setSelectedCard(null); }}>
+                        </View>
 
-                            <Image
-                                source={require('../../assets/icons/carbon--close-filled.png')}
-                                style={{ width: 56, height: 56 }}
-                                tintColor={'#FFFFFF'}
-                                resizeMode='contain'
-                            />
+                        <View className="flex-row gap-4 mt-4 justify-center items-center">
 
-                        </Pressable>
+                            <Pressable
+                                onPress={handlePrev}
+                                pointerEvents={(selectedCardIndex! > 0) ? 'auto' : 'none'}
+                                style={{ opacity: (selectedCardIndex! > 0) ? 1 : 0 }}>
 
-                        <Pressable
-                            onPress={handleNext}
-                            pointerEvents={(selectedCardIndex! < (cardList.length - 1)) ? 'auto' : 'none'}
-                            style={{ opacity: (selectedCardIndex! < (cardList.length - 1)) ? 1 : 0 }}>
-                            
-                            <Image
-                                source={require('../../assets/icons/wpf--next.png')}
-                                style={{ width: 48, height: 48 }}
-                                tintColor={'#FFFFFF'}
-                                resizeMode='contain'
-                            />
+                                <Image
+                                    source={require('../../assets/icons/solar--map-arrow-left-bold-duotone.png')}
+                                    style={{ width: 48, height: 48 }}
+                                    tintColor={'#FFFFFF'}
+                                    resizeMode='contain'
+                                />
+                                
+                            </Pressable>
 
-                        </Pressable>
+                            <Pressable
+                                onPress={() => { setCardPrice(''); setSelectedCardIndex(null); setSelectedCard(null); }}>
+
+                                <Image
+                                    source={require('../../assets/icons/carbon--close-filled.png')}
+                                    style={{ width: 48, height: 48 }}
+                                    tintColor={'#FFFFFF'}
+                                    resizeMode='contain'
+                                />
+
+                            </Pressable>
+
+                            <Pressable
+                                onPress={handleNext}
+                                pointerEvents={(selectedCardIndex! < (cardList.length - 1)) ? 'auto' : 'none'}
+                                style={{ opacity: (selectedCardIndex! < (cardList.length - 1)) ? 1 : 0 }}>
+                                
+                                <Image
+                                    source={require('../../assets/icons/solar--map-arrow-right-bold-duotone.png')}
+                                    style={{ width: 48, height: 48 }}
+                                    tintColor={'#FFFFFF'}
+                                    resizeMode='contain'
+                                />
+
+                            </Pressable>
+
+                        </View>
 
                     </View>
-
-                </View>
+                
+                </LinearGradient>
 
             </Modal>
 
