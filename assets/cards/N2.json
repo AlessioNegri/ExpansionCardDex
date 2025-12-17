@@ -1,0 +1,602 @@
+[
+    {
+        "id": "001",
+        "name": "Espeon",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/EspeonNeoDiscovery1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Forretress",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/ForretressNeoDiscovery2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Hitmontop",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/HitmontopNeoDiscovery3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/HoundoomNeoDiscovery4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Houndour",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundourNeoDiscovery5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Kabutops",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/KabutopsNeoDiscovery6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Magnemite",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "K. Hoshiba, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/MagnemiteNeoDiscovery7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Politoed",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/PolitoedNeoDiscovery8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Poliwrath",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/PoliwrathNeoDiscovery9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Scizor",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/ScizorNeoDiscovery10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Smeargle",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/SmeargleNeoDiscovery11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Tyranitar",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/TyranitarNeoDiscovery12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Umbreon",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/UmbreonNeoDiscovery13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Unown A",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/UnownANeoDiscovery14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Ursaring",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/UrsaringNeoDiscovery15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Wobbuffet",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/WobbuffetNeoDiscovery16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Yanma",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/YanmaNeoDiscovery17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Beedrill",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/BeedrillNeoDiscovery18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/ButterfreeNeoDiscovery19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Espeon",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/EspeonNeoDiscovery1.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Forretress",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/ForretressNeoDiscovery2.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Hitmontop",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/HitmontopNeoDiscovery3.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/HoundoomNeoDiscovery4.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Houndour",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundourNeoDiscovery5.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Kabutops",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/KabutopsNeoDiscovery6.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Magnemite",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "K. Hoshiba, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/MagnemiteNeoDiscovery7.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Politoed",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/PolitoedNeoDiscovery8.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Poliwrath",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/PoliwrathNeoDiscovery9.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Scizor",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/ScizorNeoDiscovery10.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Smeargle",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/SmeargleNeoDiscovery11.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Tyranitar",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/TyranitarNeoDiscovery12.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Umbreon",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/UmbreonNeoDiscovery13.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Unown A",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/UnownANeoDiscovery14.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Ursaring",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/UrsaringNeoDiscovery15.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Wobbuffet",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/WobbuffetNeoDiscovery16.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Yanma",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/YanmaNeoDiscovery17.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Corsola",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/CorsolaNeoDiscovery37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/EeveeNeoDiscovery38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Houndour",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/HoundourNeoDiscovery39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Igglybuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/IgglybuffNeoDiscovery40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Kakuna",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/KakunaNeoDiscovery41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Metapod",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/MetapodNeoDiscovery42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Omastar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/OmastarNeoDiscovery43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Poliwhirl",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/PoliwhirlNeoDiscovery44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Pupitar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/PupitarNeoDiscovery45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Scyther",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/ScytherNeoDiscovery46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Unown D",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/UnownDNeoDiscovery47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Unown F",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/UnownFNeoDiscovery48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Unown M",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/UnownMNeoDiscovery49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Unown N",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/UnownNNeoDiscovery50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Unown U",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/UnownUNeoDiscovery51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/XatuNeoDiscovery52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Caterpie",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/CaterpieNeoDiscovery53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Dunsparce",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/DunsparceNeoDiscovery54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Hoppip",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/HoppipNeoDiscovery55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Kabuto",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/KabutoNeoDiscovery56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Larvitar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/LarvitarNeoDiscovery57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/MareepNeoDiscovery58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Natu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/NatuNeoDiscovery59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Omanyte",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/OmanyteNeoDiscovery60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Pineco",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/PinecoNeoDiscovery61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Poliwag",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/PoliwagNeoDiscovery62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Sentret",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/SentretNeoDiscovery63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Spinarak",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/SpinarakNeoDiscovery64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Teddiursa",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/TeddiursaNeoDiscovery65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Tyrogue",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/TyrogueNeoDiscovery66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Unown E",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/UnownENeoDiscovery67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Unown I",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/UnownINeoDiscovery68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Unown O",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/UnownONeoDiscovery69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Weedle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/WeedleNeoDiscovery70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Wooper",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/WooperNeoDiscovery71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Uovo Fossile",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/UovoFossileNeoDiscovery72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Iper Getto d'Involuzione",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/IperGettod%27InvoluzioneNeoDiscovery73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Muro Pericolante",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/8/83/MuroPericolanteNeoDiscovery74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Energia dell'Arca",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/Energiadell%27ArcaNeoDiscovery75.jpg"
+    }
+]

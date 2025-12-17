@@ -154,6 +154,10 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
         case 'TR':  return `${url}/Team-Rocket/${cardName}-V1-TR${card.id.replaceAll('0', '')}`;
         case 'G1':  return `${url}/Gym-Heroes/${cardName}-GH${card.id.replaceAll('0', '')}`;
         case 'G2':  return `${url}/Gym-Challenge/${cardName}-GC${card.id.replaceAll('0', '')}`;
+        case 'N1':  return `${url}/Neo-Genesis/${cardName}-NG${card.id.replaceAll('0', '')}`;
+        case 'N2':  return `${url}/Neo-Discovery/${cardName}-NDI${card.id.replaceAll('0', '')}`;
+        case 'N3':  return `${url}/Neo-Revelation/${cardName}-NR${card.id.replaceAll('0', '')}`;
+        case 'N4':  return `${url}/Neo-Destiny/${cardName}-NDE${card.id.replaceAll('0', '')}`;
         case 'MEG': return `${url}/Mega-Evolution/${cardName}-V1-MEG${card.id}`;
         case 'PFL': return `${url}/Phantasmal-Flames/${cardName}-PFL${card.id}`;
 

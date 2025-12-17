@@ -1,0 +1,530 @@
+[
+    {
+        "id": "001",
+        "name": "Ampharos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/AmpharosNeoRevelation1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Blissey",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/BlisseyNeoRevelation2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Celebi",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/CelebiNeoRevelation3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Crobat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/CrobatNeoRevelation4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Delibird",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/DelibirdNeoRevelation5.png"
+    },
+    {
+        "id": "006",
+        "name": "Entei",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/EnteiNeoRevelation6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Ho-Oh",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/Ho-OhNeoRevelation7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/HoundoomNeoRevelation8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Jumpluff",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/JumpluffNeoRevelation9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Magneton",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Big Mama Togawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/MagnetonNeoRevelation10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Misdreavus",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/MisdreavusNeoRevelation11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Porygon2",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/Porygon2NeoRevelation12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Raikou",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/RaikouNeoRevelation13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Suicune",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/SuicuneNeoRevelation14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Aerodactyl",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/AerodactylNeoRevelation15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Celebi",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/CelebiNeoRevelation16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Entei",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/EnteiNeoRevelation17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Ho-Oh",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/Ho-OhNeoRevelation18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Kingdra",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/KingdraNeoRevelation19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Lugia",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/LugiaNeoRevelation20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/RaichuNeoRevelation21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Raikou",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/RaikouNeoRevelation22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/SkarmoryNeoRevelation23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Sneasel",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/SneaselNeoRevelation24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Starmie",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Keita Komatsuya, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/StarmieNeoRevelation25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Sudowoodo",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/SudowoodoNeoRevelation26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Suicune",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/SuicuneNeoRevelation27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/FlaaffyNeoRevelation28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/GolbatNeoRevelation29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/GravelerNeoRevelation30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Jynx",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/JynxNeoRevelation31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Lanturn",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/LanturnNeoRevelation32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Magcargo",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/MagcargoNeoRevelation33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Octillery",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/OctilleryNeoRevelation34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Parasect",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/ParasectNeoRevelation35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Piloswine",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/PiloswineNeoRevelation36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Seaking",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/SeakingNeoRevelation37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Stantler",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/StantlerNeoRevelation38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Unown B",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/UnownBNeoRevelation39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Unown Y",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/UnownYNeoRevelation40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Aipom",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/AipomNeoRevelation41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Chinchou",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/ChinchouNeoRevelation42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Farfetch'd",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/Farfetch%27dNeoRevelation43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/GeodudeNeoRevelation44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/GoldeenNeoRevelation45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Murkrow",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/MurkrowNeoRevelation46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Paras",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/ParasNeoRevelation47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Quagsire",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/QuagsireNeoRevelation48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Qwilfish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/QwilfishNeoRevelation49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Remoraid",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/RemoraidNeoRevelation50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Shuckle",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/ShuckleNeoRevelation51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Skiploom",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/SkiploomNeoRevelation52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/SlugmaNeoRevelation53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Smoochum",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/61/SmoochumNeoRevelation54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Snubbull",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/SnubbullNeoRevelation55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/StaryuNeoRevelation56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Swinub",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/SwinubNeoRevelation57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Unown K",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/UnownKNeoRevelation58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/ZubatNeoRevelation59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Bacca Pallone",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/BaccaPalloneNeoRevelation60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Campo di Cura",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/CampodiCuraNeoRevelation61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Campi di Allevamento Pokémon",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/CampidiAllevamentoPok%C3%A9monNeoRevelation62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Rifugio Rocket",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/RifugioRocketNeoRevelation63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Amo Vecchio",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/AmoVecchioNeoRevelation64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Shining Gyarados",
+        "type": "water",
+        "rarity": "SRH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/ShiningGyaradosNeoRevelation65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Shining Magikarp",
+        "type": "water",
+        "rarity": "SRH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/ShiningMagikarpNeoRevelation66.jpg"
+    }
+]

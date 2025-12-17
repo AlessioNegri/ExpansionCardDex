@@ -146,6 +146,94 @@
             ]
         },
         {
+            "name": "Serie Neo",
+            "fromColor": "#DAA520",
+            "toColor": "#8E6B15",
+            "expansions":
+            [
+                {
+                    "name": "Neo Genesis",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/neo-genesis-pokemon-set-symbol.png",
+                    "code": "N1",
+                    "type": "M",
+                    "releaseDate": "2001-06-01",
+                    "totalCards": 111,
+                    "regularCards": 111,
+                    "secretCards": 0,
+                    "fromColor": "#DAA520",
+                    "toColor": "#8E6B15",
+                    "image": "https://media.pokemoncentral.it/wiki/thumb/4/47/Logo_Neo_Genesis.png/1024px-Logo_Neo_Genesis.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/7/71/Genesis_Meganium_booster.jpg",
+                        "https://media.pokemoncentral.it/wiki/f/fb/Genesis_Feraligatr_booster.jpg",
+                        "https://media.pokemoncentral.it/wiki/0/03/Genesis_Typhlosion_booster.jpg",
+                        "https://media.pokemoncentral.it/wiki/6/64/Genesis_Lugia_booster.jpg"
+                    ]
+                },
+                {
+                    "name": "Neo Discovery",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/neo-discovery-pokemon-set-symbol.png",
+                    "code": "N2",
+                    "type": "M",
+                    "releaseDate": "2001-06-01",
+                    "totalCards": 75,
+                    "regularCards": 75,
+                    "secretCards": 0,
+                    "fromColor": "#BFB895",
+                    "toColor": "#9E9773",
+                    "image": "https://media.pokemoncentral.it/wiki/5/53/Logo_Neo_Discovery.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/d/d5/Neo_Discovery_Xatu.jpg",
+                        "https://media.pokemoncentral.it/wiki/8/8a/Neo_Discovery_Umbreon.jpg",
+                        "https://media.pokemoncentral.it/wiki/2/2a/Neo_Discovery_Scizor.jpg",
+                        "https://media.pokemoncentral.it/wiki/e/eb/Neo_Discovery_Smeargle.jpg"
+                    ]
+                },
+                {
+                    "name": "Neo Revelation",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/neo-revelation-pokemon-set-symbol-150x97.png",
+                    "code": "N3",
+                    "type": "M",
+                    "releaseDate": "2001-10-15",
+                    "totalCards": 66,
+                    "regularCards": 64,
+                    "secretCards": 2,
+                    "fromColor": "#4B6C8E",
+                    "toColor": "#752C1B",
+                    "image": "https://media.pokemoncentral.it/wiki/3/35/Logo_Neo_Revelation.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/thumb/e/e1/PacchettoNeoRevelationMisdreavusENG.jpg/170px-PacchettoNeoRevelationMisdreavusENG.jpg",
+                        "https://media.pokemoncentral.it/wiki/b/b6/PacchettoNeoRevelationEnteiENG.jpg",
+                        "https://media.pokemoncentral.it/wiki/7/71/PacchettoNeoRevelationRaikouENG.jpg",
+                        "https://media.pokemoncentral.it/wiki/thumb/8/80/PacchettoNeoRevelationSuicuneENG.jpg/170px-PacchettoNeoRevelationSuicuneENG.jpg"
+                    ]
+                },
+                {
+                    "name": "Neo Destiny",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/neo-destiny-pokemon-set-symbol.png",
+                    "code": "N4",
+                    "type": "M",
+                    "releaseDate": "2002-01-01",
+                    "totalCards": 113,
+                    "regularCards": 105,
+                    "secretCards": 8,
+                    "fromColor": "#8F54D8",
+                    "toColor": "#500082",
+                    "image": "https://media.pokemoncentral.it/wiki/d/d9/Logo_Neo_Destiny.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/a/a0/Neo_Destiny_Booster_Noctowl.jpg",
+                        "https://media.pokemoncentral.it/wiki/3/3b/Neo_Destiny_Booster_Togetic.jpg",
+                        "https://media.pokemoncentral.it/wiki/e/e0/Neo_Destiny_Booster_Tyranitar.jpg",
+                        "https://media.pokemoncentral.it/wiki/8/8b/Neo_Destiny_Booster_Celebi.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Scarlatto e Violetto",
             "fromColor": "#D90D19",
             "toColor": "#842F8C",

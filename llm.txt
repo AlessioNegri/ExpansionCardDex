@@ -1,4 +1,4 @@
-Turn the table above in a JSON array with the following structure
+Turn the table above in a JSON array (without creating a file) with the following structure
 
 { "id": "001", "name": "Alakazam", "type": "psychic", "rarity": "RH", "illustrator": "", "image": "" }
 
@@ -26,6 +26,8 @@ and the following for rarity
     "U": "Uncommon",
     "R": "Rare",
     "RH": "Rare Holo",
+    "SRH": "SuperRare Holo",
+    "SH": "Shining Holo",
     "RR": "Double Rare",
     "IR": "Illustration Rare",
     "UR": "Ultra Rare",

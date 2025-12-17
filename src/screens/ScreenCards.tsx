@@ -8,12 +8,18 @@ import { CardData } from '../interfaces/ItemCard.types';
 import ItemCard from "../shared/ItemCard";
 
 import SB from '../../assets/cards/SB.json';
-import JU from '../../assets/cards/JU.json'
-import FO from '../../assets/cards/FO.json'
-import B2 from '../../assets/cards/B2.json'
-import TR from '../../assets/cards/TR.json'
-import G1 from '../../assets/cards/G1.json'
-import G2 from '../../assets/cards/G2.json'
+import JU from '../../assets/cards/JU.json';
+import FO from '../../assets/cards/FO.json';
+import B2 from '../../assets/cards/B2.json';
+import TR from '../../assets/cards/TR.json';
+import G1 from '../../assets/cards/G1.json';
+import G2 from '../../assets/cards/G2.json';
+
+import N1 from '../../assets/cards/N1.json';
+import N2 from '../../assets/cards/N2.json';
+import N3 from '../../assets/cards/N3.json';
+import N4 from '../../assets/cards/N4.json';
+
 import MEG from '../../assets/cards/MEG.json';
 import PFL from '../../assets/cards/PFL.json';
 import SVE from '../../assets/cards/SVE.json';
@@ -79,6 +85,12 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
     else if (route.params.data.code === 'TR') cardList = TR;
     else if (route.params.data.code === 'G1') cardList = G1;
     else if (route.params.data.code === 'G2') cardList = G2;
+
+    else if (route.params.data.code === 'N1') cardList = N1;
+    else if (route.params.data.code === 'N2') cardList = N2;
+    else if (route.params.data.code === 'N3') cardList = N3;
+    else if (route.params.data.code === 'N4') cardList = N4;
+
     else if (route.params.data.code === 'MEG') cardList = MEG;
     else if (route.params.data.code === 'PFL') cardList = PFL;
     else if (route.params.data.code === 'SVE') cardList = SVE;

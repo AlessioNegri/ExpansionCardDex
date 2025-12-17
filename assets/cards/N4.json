@@ -1,0 +1,906 @@
+[
+    {
+        "id": "001",
+        "name": "Dark Ampharos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/DarkAmpharosNeoDestiny1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Dark Crobat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshikawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/DarkCrobatNeoDestiny2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Dark Donphan",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkDonphanNeoDestiny3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dark Espeon",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkEspeonNeoDestiny4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Dark Feraligatr",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/DarkFeraligatrNeoDestiny5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Dark Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/DarkGengarNeoDestiny6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Dark Houndoom",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/DarkHoundoomNeoDestiny7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Dark Porygon2",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshikawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/DarkPorygon2NeoDestiny8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Dark Scizor",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/DarkScizorNeoDestiny9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Dark Typhlosion",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/DarkTyphlosionNeoDestiny10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Dark Tyranitar",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/DarkTyranitarNeoDestiny11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Light Arcanine",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/LightArcanineNeoDestiny12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Light Azumarill",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/LightAzumarillNeoDestiny13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Light Dragonite",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/LightDragoniteNeoDestiny14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Light Togetic",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/LightTogeticNeoDestiny15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Energia Miracolosa",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/EnergiaMiracolosaNeoDestiny16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Dark Ariados",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/1/12/DarkAriadosNeoDestiny17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Dark Magcargo",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/DarkMagcargoNeoDestiny18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Dark Omastar",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/DarkOmastarNeoDestiny19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Dark Slowking",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/DarkSlowkingNeoDestiny20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Dark Ursaring",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/DarkUrsaringNeoDestiny21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Light Dragonair",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/LightDragonairNeoDestiny22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Light Lanturn",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/LightLanturnNeoDestiny23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Light Ledian",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/LightLedianNeoDestiny24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Light Machamp",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/LightMachampNeoDestiny25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Light Piloswine",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/LightPiloswineNeoDestiny26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Unown G",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/UnownGNeoDestiny27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Unown H",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/UnownHNeoDestiny28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Unown W",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/UnownWNeoDestiny29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Unown X",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/UnownXNeoDestiny30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Chansey",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/ChanseyNeoDestiny31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Dark Croconaw",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/DarkCroconawNeoDestiny32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Dark Exeggutor",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/DarkExeggutorNeoDestiny33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Dark Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/DarkFlaaffyNeoDestiny34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Dark Forretress",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/DarkForretressNeoDestiny35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Dark Haunter",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/DarkHaunterNeoDestiny36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Dark Omanyte",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/DarkOmanyteNeoDestiny37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Dark Pupitar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/DarkPupitarNeoDestiny38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Dark Quilava",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/59/DarkQuilavaNeoDestiny39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Dark Wigglytuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/DarkWigglytuffNeoDestiny40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Heracross",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "K. Hoshiba, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/HeracrossNeoDestiny41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Hitmonlee",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/HitmonleeNeoDestiny42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Houndour",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/HoundourNeoDestiny43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/JigglypuffNeoDestiny44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Light Dewgong",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/LightDewgongNeoDestiny45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Light Flareon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/LightFlareonNeoDestiny46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Light Golduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/LightGolduckNeoDestiny47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Light Jolteon",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/LightJolteonNeoDestiny48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Light Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/LightMachokeNeoDestiny49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Light Ninetales",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/LightNinetalesNeoDestiny50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Light Slowbro",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/LightSlowbroNeoDestiny51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Light Vaporeon",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/LightVaporeonNeoDestiny52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Light Venomoth",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/0/01/LightVenomothNeoDestiny53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Light Wigglytuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/LightWigglytuffNeoDestiny54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Scyther",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/ScytherNeoDestiny55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Togepi",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/TogepiNeoDestiny56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Unown C",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/3/36/UnownCNeoDestiny57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Unown P",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/UnownPNeoDestiny58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Unown Q",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/UnownQNeoDestiny59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Unown Z",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/e/eb/UnownZNeoDestiny60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/CyndaquilNeoDestiny61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Dark Octillery",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/DarkOctilleryNeoDestiny62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/DratiniNeoDestiny63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Exeggcute",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/ExeggcuteNeoDestiny64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/GastlyNeoDestiny65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Girafarig",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/23/GirafarigNeoDestiny66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Gligar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/GligarNeoDestiny67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Growlithe",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/GrowlitheNeoDestiny68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Hitmonchan",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/HitmonchanNeoDestiny69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Larvitar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/LarvitarNeoDestiny70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Ledyba",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/LedybaNeoDestiny71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Light Sunflora",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/LightSunfloraNeoDestiny72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/MachopNeoDestiny73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Mantine",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/MantineNeoDestiny74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/MareepNeoDestiny75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Phanpy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/PhanpyNeoDestiny76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Pineco",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/PinecoNeoDestiny77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Porygon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Hiromichi Sugiyama, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/PorygonNeoDestiny78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/PsyduckNeoDestiny79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Remoraid",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Jungo Suzuki, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/RemoraidNeoDestiny80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/SeelNeoDestiny81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/SlugmaNeoDestiny82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Sunkern",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Etsuya Hattori",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/SunkernNeoDestiny83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Swinub",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/SwinubNeoDestiny84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/TotodileNeoDestiny85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Unown L",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/UnownLNeoDestiny86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Unown S",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/UnownSNeoDestiny87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Unown T",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/f/f2/UnownTNeoDestiny88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Unown V",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/a/a0/UnownVNeoDestiny89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Venonat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/VenonatNeoDestiny90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/VulpixNeoDestiny91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Palestra di Terra Spaccata",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/PalestradiTerraSpaccataNeoDestiny92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Distribuzione di Esperienza",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/DistribuzionediEsperienzaNeoDestiny93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Invenzione del Professor Oak, l'Impostore",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/InvenzionedelProfessorOakl%27ImpostoreNeoDestiny94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Torre Radio",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Yousuke Hirata, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/TorreRadioNeoDestiny95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Congegno Onda di Pensiero",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/CongegnoOndadiPensieroNeoDestiny96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Artigli Contrattaccanti",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/ArtigliContrattaccantiNeoDestiny97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Amplifica Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Big Mama Togawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/AmplificaEnergiaNeoDestiny98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Stadio Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/StadioEnergiaNeoDestiny99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Stadio Fortuna",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Imakuni?",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/StadioFortunaNeoDestiny100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Ingrandimento",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/IngrandimentoNeoDestiny101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Test di Personalità Pokémon",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/TestdiPersonalit%C3%A0Pok%C3%A9monNeoDestiny102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Azioni diaboliche del Team Rocket",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/AzionidiabolichedelTeamRocketNeoDestiny103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Polvocura",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ryuta Kusumi, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/PolvocuraNeoDestiny104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Posta da Bill",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/PostadaBillNeoDestiny105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Shining Celebi",
+        "type": "grass",
+        "rarity": "SH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/ShiningCelebiNeoDestiny106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Shining Charizard",
+        "type": "fire",
+        "rarity": "SH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/eb/ShiningCharizardNeoDestiny107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Shining Kabutops",
+        "type": "fighting",
+        "rarity": "SH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/ShiningKabutopsNeoDestiny108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Shining Mewtwo",
+        "type": "psychic",
+        "rarity": "SH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/f/f1/ShiningMewtwoNeoDestiny109.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Shining Noctowl",
+        "type": "colorless",
+        "rarity": "SH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/ShiningNoctowlNeoDestiny110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Shining Raichu",
+        "type": "electric",
+        "rarity": "SH",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/ShiningRaichuNeoDestiny111.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Shining Steelix",
+        "type": "steel",
+        "rarity": "SH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/ShiningSteelixNeoDestiny112.jpg"
+    },
+    {
+        "id": "113",
+        "name": "Shining Tyranitar",
+        "type": "dark",
+        "rarity": "SH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/ShiningTyranitarNeoDestiny113.jpg"
+    }
+]

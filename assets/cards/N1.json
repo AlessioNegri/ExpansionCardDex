@@ -1,0 +1,890 @@
+[
+    {
+        "id": "001",
+        "name": "Ampharos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/AmpharosNeoGenesis1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Azumarill",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/AzumarillNeoGenesis2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Bellossom",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/BellossomNeoGenesis3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Feraligatr",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/FeraligatrNeoGenesis4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Feraligatr",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/FeraligatrNeoGenesis5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Heracross",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/HeracrossNeoGenesis6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Jumpluff",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/JumpluffNeoGenesis7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Kingdra",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/KingdraNeoGenesis8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Lugia",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/LugiaNeoGenesis9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/MeganiumNeoGenesis10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/MeganiumNeoGenesis11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Pichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/PichuNeoGenesis12.png"
+    },
+    {
+        "id": "013",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/SkarmoryNeoGenesis13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Slowking",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/SlowkingNeoGenesis14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/16/SteelixNeoGenesis15.png"
+    },
+    {
+        "id": "016",
+        "name": "Togetic",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/TogeticNeoGenesis16.png"
+    },
+    {
+        "id": "017",
+        "name": "Typhlosion",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/TyphlosionNeoGenesis17.png"
+    },
+    {
+        "id": "018",
+        "name": "Typhlosion",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/TyphlosionNeoGenesis18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Energia Metallo",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/5/5e/EnergiaMetalloNeoGenesis19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Cleffa",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/CleffaNeoGenesis20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Donphan",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/DonphanNeoGenesis21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Elekid",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/ElekidNeoGenesis22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Magby",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/MagbyNeoGenesis23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Murkrow",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/MurkrowNeoGenesis24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Sneasel",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/SneaselNeoGenesis25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Aipom",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/AipomNeoGenesis26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Ariados",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/AriadosNeoGenesis27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Bayleef",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/BayleefNeoGenesis28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Bayleef",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/BayleefNeoGenesis29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Clefairy",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/ClefairyNeoGenesis30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Croconaw",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/CroconawNeoGenesis31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Croconaw",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/CroconawNeoGenesis32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Electabuzz",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/ElectabuzzNeoGenesis33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/FlaaffyNeoGenesis34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Furret",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/FurretNeoGenesis35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/GloomNeoGenesis36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Granbull",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f2/GranbullNeoGenesis37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Lanturn",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/LanturnNeoGenesis38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Ledian",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/da/LedianNeoGenesis39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Magmar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/MagmarNeoGenesis40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Miltank",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/MiltankNeoGenesis41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Noctowl",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/NoctowlNeoGenesis42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Phanpy",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4f/PhanpyNeoGenesis43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Piloswine",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/PiloswineNeoGenesis44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Quagsire",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/QuagsireNeoGenesis45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Quilava",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/QuilavaNeoGenesis46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Quilava",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/QuilavaNeoGenesis47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/SeadraNeoGenesis48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Skiploom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/SkiploomNeoGenesis49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Sunflora",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/SunfloraNeoGenesis50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Togepi",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/TogepiNeoGenesis51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/XatuNeoGenesis52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/ChikoritaNeoGenesis53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/ChikoritaNeoGenesis54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Chinchou",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/ChinchouNeoGenesis55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/CyndaquilNeoGenesis56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/CyndaquilNeoGenesis57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Girafarig",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3a/GirafarigNeoGenesis58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Gligar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/GligarNeoGenesis59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Hoothoot",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/5/58/HoothootNeoGenesis60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Hoppip",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/HoppipNeoGenesis61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Horsea",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/HorseaNeoGenesis62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Ledyba",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/LedybaNeoGenesis63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Mantine",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/MantineNeoGenesis64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/MareepNeoGenesis65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Marill",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/MarillNeoGenesis66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Natu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/NatuNeoGenesis67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/OddishNeoGenesis68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/OnixNeoGenesis69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/PikachuNeoGenesis70.png"
+    },
+    {
+        "id": "071",
+        "name": "Sentret",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/SentretNeoGenesis71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Shuckle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/ShuckleNeoGenesis72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/SlowpokeNeoGenesis73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Snubbull",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/SnubbullNeoGenesis74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Spinarak",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/SpinarakNeoGenesis75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Stantler",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/StantlerNeoGenesis76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Sudowoodo",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/SudowoodoNeoGenesis77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Sunkern",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/SunkernNeoGenesis78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Swinub",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/SwinubNeoGenesis79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/TotodileNeoGenesis80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/TotodileNeoGenesis81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Wooper",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/WooperNeoGenesis82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Gioco Arcade",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "K. Hoshiba, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/GiocoArcadeNeoGenesis83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Ecopalestra",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshikawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/EcopalestraNeoGenesis84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Carica Energia",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/CaricaEnergiaNeoGenesis85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Bandana",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/BandanaNeoGenesis86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Lori",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/LoriNeoGenesis87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "PokéGear",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Katsura Tabata, CR CG Gangs",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/Pok%C3%A9GearNeoGenesis88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Super Recupero di Energia",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/SuperRecuperodiEnergiaNeoGenesis89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Capsula del Tempo",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Big Mama Togawa, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/CapsuladelTempoNeoGenesis90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Teletrasporto di Bill",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/50/TeletrasportodiBillNeoGenesis91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Gioco Scopri-Carta",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/GiocoScopriCartaNeoGenesis92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Bacca Oro",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryuta Kusumi, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/e/ed/BaccaOroNeoGenesis93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Bacca Mirac.",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Yousuke Hirata, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/BaccaMiracolosaNeoGenesis94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Nuovo Pokédex",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/NuovoPok%C3%A9dexNeoGenesis95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Professor Elm",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/ProfessorElmNeoGenesis96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Torre Sprout",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama, CR CG gangs",
+        "image": "https://media.pokemoncentral.it/wiki/4/4f/TorreSproutNeoGenesis97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Super Recupero",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/SuperRecuperoNeoGenesis98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Bacca",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/a/a0/BaccaNeoGenesis99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Doppia Folata",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/DoppiaFolataNeoGenesis100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Latte Mumu",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/LatteMumuNeoGenesis101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Marcia Pokémon",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/MarciaPok%C3%A9monNeoGenesis102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Super Amo",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/SuperAmoNeoGenesis103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Energia Oscurità",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/EnergiaOscurit%C3%A0NeoGenesis104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Energia Riciclo",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hideki Kazama",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/EnergiaRicicloNeoGenesis105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Energia Combattimento",
+        "type": "fighting",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/EnergiaCombattimentoSetBase97.png"
+    },
+    {
+        "id": "107",
+        "name": "Energia Fuoco",
+        "type": "fire",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/EnergiaFuocoSetBase98.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Energia Erba",
+        "type": "grass",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/EnergiaErbaSetBase99.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Energia Lampo",
+        "type": "electric",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/EnergiaLampoSetBase100.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Energia Psiche",
+        "type": "psychic",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaPsicheSetBase101.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Energia Acqua",
+        "type": "water",
+        "rarity": "",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/EnergiaAcquaSetBase102.jpg"
+    }
+]
