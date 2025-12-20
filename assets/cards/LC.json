@@ -1,0 +1,882 @@
+[
+    {
+        "id": "001",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/12/AlakazamSetBase1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Articuno",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/ArticunoFossil2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Charizard",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/CharizardSetBase4.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dark Blastoise",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkBlastoiseTeamRocket3.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Dark Dragonite",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/DarkDragoniteTeamRocket5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Dark Persian",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/DarkPersianTeamRocket42.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Dark Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/DarkRaichuTeamRocket83.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Dark Slowbro",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/DarkSlowbroTeamRocket12.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Dark Vaporeon",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/DarkVaporeonTeamRocket45.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/FlareonJungle3.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/GengarFossil5.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Gyarados",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/GyaradosSetBase6.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Hitmonlee",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/HitmonleeFossil7.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/JolteonJungle4.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/MachampSetBase8.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Muk",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/MukFossil13.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Ninetales",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/NinetalesSetBase12.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Venusaur",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/VenusaurSetBase15.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Zapdos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b0/ZapdosSetBase16.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Beedrill",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/BeedrillSetBase17.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/ButterfreeJungle33.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Electrode",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/ElectrodeJungle2.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Exeggutor",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/ExeggutorJungle35.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Golem",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/GolemFossil36.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Hypno",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/HypnoFossil8.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Jynx",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/JynxSetBase31.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Kabutops",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/KabutopsFossil9.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/MagnetonFossil11.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Mewtwo",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Christopher Rush",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/MewtwoWizardsPromo12.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/MoltresFossil12.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Nidoking",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/NidokingSetBase11.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Nidoqueen",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/NidoqueenJungle7.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/PidgeotJungle8.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Pidgeotto",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/PidgeottoSetBase22.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Rhydon",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/RhydonJungle45.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Arcanine",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/ArcanineSetBase23.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/CharmeleonSetBase24.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Dark Dragonair",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/DarkDragonairTeamRocket33.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Dark Wartortle",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/DarkWartortleTeamRocket46.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/DewgongSetBase25.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Dodrio",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/DodrioJungle34.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/FearowJungle36.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Golduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/GolduckFossil35.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/GravelerFossil37.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Growlithe",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/GrowlitheSetBase28.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/HaunterFossil6.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Ivysaur",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/IvysaurSetBase30.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Kabuto",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/KabutoFossil50.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Kadabra",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/KadabraSetBase32.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Kakuna",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/KakunaSetBase33.png"
+    },
+    {
+        "id": "051",
+        "name": "Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/MachokeSetBase34.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/MagikarpSetBase35.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/MeowthJungle56.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Metapod",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/MetapodSetBase54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Nidorina",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/NidorinaJungle40.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Nidorino",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/NidorinoSetBase37.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Omanyte",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/OmanyteFossil52.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Omastar",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/OmastarFossil40.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Primeape",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/e1/PrimeapeJungle43.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Rapidash",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/RapidashJungle44.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Raticate",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/RaticateSetBase40.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Sandslash",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/SandslashFossil41.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/SeadraFossil42.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Snorlax",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/SnorlaxJungle11.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Tauros",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/TaurosJungle47.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Tentacruel",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/TentacruelFossil44.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/AbraSetBase43.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/BulbasaurSetBase44.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Caterpie",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/CaterpieSetBase45.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/CharmanderSetBase46.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Doduo",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/DoduoSetBase48.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/DratiniSetBase26.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Drowzee",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/DrowzeeTeamRocket54.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/EeveeJungle51.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Exeggcute",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/ExeggcuteJungle52.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/GastlyFossil33.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/57/GeodudeFossil47.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Grimer",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/GrimerFossil48.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/MachopSetBase52.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/MagnemiteSetBase53.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Mankey",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/MankeyTeamRocket61.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Nidoran ♀",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/NidoranJungle57.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Nidoran ♂",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/NidoranSetBase55.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/OnixSetBase56.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Pidgey",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/PidgeySetBase57.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/PikachuJungle60.png"
+    },
+    {
+        "id": "087",
+        "name": "Ponyta",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/PonytaSetBase60.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/PsyduckTeamRocket65.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/RattataSetBase61.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/RhyhornJungle61.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/SandshrewSetBase62.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/SeelSetBase41.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/SlowpokeFossil55.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/SpearowJungle62.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/SquirtleSetBase63.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Tentacool",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/TentacoolFossil56.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/VoltorbSetBase67.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/VulpixSetBase68.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Weedle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/WeedleSetBase69.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Full Heal Energy",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/EnergiaRecuperoTotaleTeamRocket81.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Potion Energy",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/EnergiaPozioneMagicaTeamRocket82.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Pokémon Breeder",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/AllevatoreDiPok%C3%A9monSetBase76.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Pokémon Trader",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/ScambioDiPok%C3%A9monSetBase77.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Scoop Up",
+        "type": "trainer",
+        "rarity": "R",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/RecuperoSetBase78.jpg"
+    },
+    {
+        "id": "105",
+        "name": "The Boss's Way",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/AllaManieradelCapoTeamRocket73.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Challenge!",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/SfidaTeamRocket74.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Energy Retrieval",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/RecuperodiEnergiaSetBase81.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Bill",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/BillSetBase91.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Mysterious Fossil",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/FossileMisteriosoFossil62.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Potion",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/PozioneMagicaSetBase94.jpg"
+    }
+]

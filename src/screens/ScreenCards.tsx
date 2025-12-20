@@ -20,6 +20,8 @@ import N2 from '../../assets/cards/N2.json';
 import N3 from '../../assets/cards/N3.json';
 import N4 from '../../assets/cards/N4.json';
 
+import LC from '../../assets/cards/LC.json';
+
 import MEG from '../../assets/cards/MEG.json';
 import PFL from '../../assets/cards/PFL.json';
 import SVE from '../../assets/cards/SVE.json';
@@ -90,6 +92,8 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
     else if (route.params.data.code === 'N2') cardList = N2;
     else if (route.params.data.code === 'N3') cardList = N3;
     else if (route.params.data.code === 'N4') cardList = N4;
+
+    else if (route.params.data.code === 'LC') cardList = LC;
 
     else if (route.params.data.code === 'MEG') cardList = MEG;
     else if (route.params.data.code === 'PFL') cardList = PFL;

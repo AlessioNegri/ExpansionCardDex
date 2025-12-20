@@ -148,7 +148,7 @@
         {
             "name": "Serie Neo",
             "fromColor": "#DAA520",
-            "toColor": "#8E6B15",
+            "toColor": "#C0C0C0",
             "expansions":
             [
                 {
@@ -229,6 +229,34 @@
                         "https://media.pokemoncentral.it/wiki/3/3b/Neo_Destiny_Booster_Togetic.jpg",
                         "https://media.pokemoncentral.it/wiki/e/e0/Neo_Destiny_Booster_Tyranitar.jpg",
                         "https://media.pokemoncentral.it/wiki/8/8b/Neo_Destiny_Booster_Celebi.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Serie Legendary Collection",
+            "fromColor": "#E62829",
+            "toColor": "#2980EF",
+            "expansions":
+            [
+                {
+                    "name": "Legendary Collection",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/legendary-collection-pokemon-set-symbol.png",
+                    "code": "LC",
+                    "type": "M",
+                    "releaseDate": "0000-00-00",
+                    "totalCards": 110,
+                    "regularCards": 110,
+                    "secretCards": 0,
+                    "fromColor": "#DD494E",
+                    "toColor": "#222D60",
+                    "image": "https://media.pokemoncentral.it/wiki/5/55/Logo_Legendary_Collection.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/5/52/Pacchetto_Legendary_Collection_1.jpg",
+                        "https://media.pokemoncentral.it/wiki/0/05/Pacchetto_Legendary_Collection_2.jpg",
+                        "https://media.pokemoncentral.it/wiki/0/0a/Pacchetto_Legendary_Collection_3.jpg",
+                        "https://media.pokemoncentral.it/wiki/4/49/Pacchetto_Legendary_Collection_4.jpg"
                     ]
                 }
             ]

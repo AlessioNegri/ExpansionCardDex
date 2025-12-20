@@ -147,19 +147,19 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
 
     switch (expansionCode)
     {
-        case 'SB':  return `${url}/Base-Set/${cardName}-V1-BS${card.id.replaceAll('0', '')}`;
-        case 'JU':  return `${url}/Jungle/${cardName}-V1-JU${card.id.replaceAll('0', '')}`;
-        case 'FO':  return `${url}/Fossil/${cardName}-V1-FO${card.id.replaceAll('0', '')}`;
-        case 'B2':  return `${url}/Base-Set-2/${cardName}-B2${card.id.replaceAll('0', '')}`;
-        case 'TR':  return `${url}/Team-Rocket/${cardName}-V1-TR${card.id.replaceAll('0', '')}`;
-        case 'G1':  return `${url}/Gym-Heroes/${cardName}-GH${card.id.replaceAll('0', '')}`;
-        case 'G2':  return `${url}/Gym-Challenge/${cardName}-GC${card.id.replaceAll('0', '')}`;
-        case 'N1':  return `${url}/Neo-Genesis/${cardName}-NG${card.id.replaceAll('0', '')}`;
-        case 'N2':  return `${url}/Neo-Discovery/${cardName}-NDI${card.id.replaceAll('0', '')}`;
-        case 'N3':  return `${url}/Neo-Revelation/${cardName}-NR${card.id.replaceAll('0', '')}`;
-        case 'N4':  return `${url}/Neo-Destiny/${cardName}-NDE${card.id.replaceAll('0', '')}`;
-        case 'MEG': return `${url}/Mega-Evolution/${cardName}-V1-MEG${card.id}`;
-        case 'PFL': return `${url}/Phantasmal-Flames/${cardName}-PFL${card.id}`;
+        case 'SB':  return `${url}/Base-Set/${cardName}-[PH]BS${card.id.replaceAll('0', '')}`;
+        case 'JU':  return `${url}/Jungle/${cardName}-[PH]JU${card.id.replaceAll('0', '')}`;
+        case 'FO':  return `${url}/Fossil/${cardName}-[PH]FO${card.id.replaceAll('0', '')}`;
+        case 'B2':  return `${url}/Base-Set-2/${cardName}-[PH]B2${card.id.replaceAll('0', '')}`;
+        case 'TR':  return `${url}/Team-Rocket/${cardName}-[PH]TR${card.id.replaceAll('0', '')}`;
+        case 'G1':  return `${url}/Gym-Heroes/${cardName}-[PH]GH${card.id.replaceAll('0', '')}`;
+        case 'G2':  return `${url}/Gym-Challenge/${cardName}-[PH]GC${card.id.replaceAll('0', '')}`;
+        case 'N1':  return `${url}/Neo-Genesis/${cardName}-[PH]NG${card.id.replaceAll('0', '')}`;
+        case 'N2':  return `${url}/Neo-Discovery/${cardName}-[PH]NDI${card.id.replaceAll('0', '')}`;
+        case 'N3':  return `${url}/Neo-Revelation/${cardName}-[PH]NR${card.id.replaceAll('0', '')}`;
+        case 'N4':  return `${url}/Neo-Destiny/${cardName}-[PH]NDE${card.id.replaceAll('0', '')}`;
+        case 'MEG': return `${url}/Mega-Evolution/${cardName}-[PH]MEG${card.id}`;
+        case 'PFL': return `${url}/Phantasmal-Flames/${cardName}-[PH]PFL${card.id}`;
 
         default: return '';
     }
@@ -173,7 +173,7 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
  */
 const fetchCardPriceByVersion = async (url: string, version: string): Promise<string | null> =>
 {
-    if (url.includes('V1') && version !== 'V1') url = url.replace('V1', version);
+    if (url.includes('[PH]')) url = url.replace('[PH]', version);
     
     const response = await fetch(url);
 
@@ -207,13 +207,15 @@ const fetchCardPrice = async (expansionCode: string, card: CardData): Promise<st
 
     try
     {
-        let priceTrend: string | null = await fetchCardPriceByVersion(url, 'V1');
+        let priceTrend: string | null = await fetchCardPriceByVersion(url, '');
 
-        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V2');
+        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V1-');
 
-        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V3');
+        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V2-');
 
-        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V4');
+        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V3-');
+
+        if (priceTrend === null) priceTrend = await fetchCardPriceByVersion(url, 'V4-');
 
         return priceTrend ?? '';
     }
