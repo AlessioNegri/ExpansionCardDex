@@ -1,0 +1,1322 @@
+[
+    {
+        "id": "001",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/AlakazamExpedition1.png"
+    },
+    {
+        "id": "002",
+        "name": "Ampharos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/AmpharosExpedition2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Arbok",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/ArbokExpedition3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Blastoise",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/BlastoiseExpedition4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/ButterfreeExpedition5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Charizard",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/CharizardExpedition6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Clefable",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/ClefableExpedition7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Cloyster",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/CloysterExpedition8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Dragonite",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/DragoniteExpedition9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Dugtrio",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/DugtrioExpedition10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/FearowExpedition11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Feraligatr",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/83/FeraligatrExpedition12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/GengarExpedition13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Golem",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/GolemExpedition14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Kingler",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/KinglerExpedition15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/MachampExpedition16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Magby",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/MagbyExpedition17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/MeganiumExpedition18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Mew",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/MewExpedition19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Mewtwo",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/MewtwoExpedition20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Ninetales",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/NinetalesExpedition21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Pichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/PichuExpedition22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/PidgeotExpedition23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Poliwrath",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/PoliwrathExpedition24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/RaichuExpedition25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Rapidash",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/RapidashExpedition26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/SkarmoryExpedition27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Typhlosion",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/TyphlosionExpedition28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Tyranitar",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/TyranitarExpedition29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Venusaur",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/VenusaurExpedition30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Vileplume",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/VileplumeExpedition31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Weezing",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/WeezingExpedition32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/AlakazamExpedition1.png"
+    },
+    {
+        "id": "034",
+        "name": "Ampharos",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/AmpharosExpedition2.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Arbok",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/ArbokExpedition3.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Blastoise",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/BlastoiseExpedition36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Blastoise",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/BlastoiseExpedition4.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/ButterfreeExpedition5.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Charizard",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/CharizardExpedition39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Charizard",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/CharizardExpedition6.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Clefable",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/ClefableExpedition7.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Cloyster",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/CloysterExpedition8.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Dragonite",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/DragoniteExpedition9.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Dugtrio",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/DugtrioExpedition10.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/FearowExpedition11.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Feraligatr",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/FeraligatrExpedition46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Feraligatr",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/83/FeraligatrExpedition12.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/GengarExpedition13.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Golem",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/GolemExpedition14.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Kingler",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/KinglerExpedition15.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/MachampExpedition16.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Magby",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/MagbyExpedition17.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/MeganiumExpedition53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Meganium",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/MeganiumExpedition18.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Mew",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/MewExpedition19.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Mewtwo",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/MewtwoExpedition20.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Ninetales",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/NinetalesExpedition21.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Pichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/PichuExpedition22.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/PidgeotExpedition23.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Poliwrath",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/PoliwrathExpedition24.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/RaichuExpedition25.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Rapidash",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/RapidashExpedition26.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/SkarmoryExpedition27.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Typhlosion",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/TyphlosionExpedition64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Typhlosion",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/TyphlosionExpedition28.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Tyranitar",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/TyranitarExpedition29.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Venusaur",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/VenusaurExpedition67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Venusaur",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/VenusaurExpedition30.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Vileplume",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/VileplumeExpedition31.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Weezing",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/WeezingExpedition32.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Bayleef",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/BayleefExpedition71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Chansey",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/ChanseyExpedition72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/CharmeleonExpedition73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Croconaw",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/CroconawExpedition74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Dragonair",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/DragonairExpedition75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Electabuzz",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Hiroaki Ito",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/ElectabuzzExpedition76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/FlaaffyExpedition77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/GloomExpedition78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/GravelerExpedition79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/HaunterExpedition80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Hitmonlee",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/HitmonleeExpedition81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Ivysaur",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/IvysaurExpedition82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Jynx",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/JynxExpedition83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Kadabra",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/KadabraExpedition84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/MachokeExpedition85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Magmar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/MagmarExpedition86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Metapod",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/MetapodExpedition87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Pidgeotto",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/PidgeottoExpedition88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Poliwhirl",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/8/84/PoliwhirlExpedition89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Pupitar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/PupitarExpedition90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Quilava",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Asuka Iwashita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/QuilavaExpedition91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Wartortle",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/WartortleExpedition92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/AbraExpedition93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sachi Matoba",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/BulbasaurExpedition94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/BulbasaurExpedition95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Caterpie",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/CaterpieExpedition96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/CharmanderExpedition97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/CharmanderExpedition98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/ChikoritaExpedition99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/ChikoritaExpedition100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Clefairy",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/ClefairyExpedition101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Corsola",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/CorsolaExpedition102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Cubone",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/CuboneExpedition103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Sachi Matoba",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/CyndaquilExpedition104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/CyndaquilExpedition105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Diglett",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/DiglettExpedition106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/DratiniExpedition107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Ekans",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/EkansExpedition108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/GastlyExpedition109.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/GeodudeExpedition110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/GoldeenExpedition111.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Hoppip",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/HoppipExpedition112.jpg"
+    },
+    {
+        "id": "113",
+        "name": "Houndour",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/HoundourExpedition113.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Koffing",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime KusaJima",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/KoffingExpedition114.jpg"
+    },
+    {
+        "id": "115",
+        "name": "Krabby",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/KrabbyExpedition115.jpg"
+    },
+    {
+        "id": "116",
+        "name": "Larvitar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/LarvitarExpedition116.jpg"
+    },
+    {
+        "id": "117",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/MachopExpedition117.jpg"
+    },
+    {
+        "id": "118",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/MagikarpExpedition118.jpg"
+    },
+    {
+        "id": "119",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/MareepExpedition119.jpg"
+    },
+    {
+        "id": "120",
+        "name": "Marill",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Satoshi Ohta",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/MarillExpedition120.jpg"
+    },
+    {
+        "id": "121",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/MeowthExpedition121.jpg"
+    },
+    {
+        "id": "122",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/OddishExpedition122.jpg"
+    },
+    {
+        "id": "123",
+        "name": "Pidgey",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/PidgeyExpedition123.jpg"
+    },
+    {
+        "id": "124",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/PikachuExpedition124.jpg"
+    },
+    {
+        "id": "125",
+        "name": "Poliwag",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/PoliwagExpedition125.jpg"
+    },
+    {
+        "id": "126",
+        "name": "Ponyta",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/PonytaExpedition126.jpg"
+    },
+    {
+        "id": "127",
+        "name": "Qwilfish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/1/12/QwilfishExpedition127.jpg"
+    },
+    {
+        "id": "128",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/RattataExpedition128.jpg"
+    },
+    {
+        "id": "129",
+        "name": "Shellder",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/ShellderExpedition129.jpg"
+    },
+    {
+        "id": "130",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/SpearowExpedition130.jpg"
+    },
+    {
+        "id": "131",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/SquirtleExpedition131.jpg"
+    },
+    {
+        "id": "132",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/SquirtleExpedition132.jpg"
+    },
+    {
+        "id": "133",
+        "name": "Tauros",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuichi Sawayama",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/TaurosExpedition133.jpg"
+    },
+    {
+        "id": "134",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/TotodileExpedition134.jpg"
+    },
+    {
+        "id": "135",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Aimi Tomita",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/TotodileExpedition135.jpg"
+    },
+    {
+        "id": "136",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/20/VulpixExpedition136.jpg"
+    },
+    {
+        "id": "137",
+        "name": "Sostegno di Bill",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/SostegnodiBillExpedition137.jpg"
+    },
+    {
+        "id": "138",
+        "name": "Copiona",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/CopionaExpedition138.jpg"
+    },
+    {
+        "id": "139",
+        "name": "Palla Doppia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Big Mama Togawa",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/PallaDoppiaExpedition139.jpg"
+    },
+    {
+        "id": "140",
+        "name": "Distruzione di Energia 2",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/DistruzionediEnergia2Expedition140.jpg"
+    },
+    {
+        "id": "141",
+        "name": "Ripristina Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hideyuki Nakajima",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/RipristinaEnergiaExpedition141.jpg"
+    },
+    {
+        "id": "142",
+        "name": "L'incitamento di Lory",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f1/L%27incitamentodiLoryExpedition142.jpg"
+    },
+    {
+        "id": "143",
+        "name": "Master Ball",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/MasterBallExpedition143.jpg"
+    },
+    {
+        "id": "144",
+        "name": "Macchinario Multi-tecnico 01",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Big Mama Togawa",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/MacchinarioMulti-tecnico01Expedition144.jpg"
+    },
+    {
+        "id": "145",
+        "name": "Pokémon Infermiera",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/Pok%C3%A9monInfermieraExpedition145.jpg"
+    },
+    {
+        "id": "146",
+        "name": "Contropiede Pokémon",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Big Mama Togawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/ContropiedePok%C3%A9monExpedition146.jpg"
+    },
+    {
+        "id": "147",
+        "name": "Carica Energetica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/CaricaEnergeticaExpedition147.jpg"
+    },
+    {
+        "id": "148",
+        "name": "Metodo d'addestramento del Professor Elm",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/Metodod%27addestramentodelProfessorElmExpedition148.jpg"
+    },
+    {
+        "id": "149",
+        "name": "La ricerca del Professor Oak",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/LaricercadelProfessorOakExpedition149.jpg"
+    },
+    {
+        "id": "150",
+        "name": "Frammento della Forza",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/FrammentodellaForzaExpedition150.jpg"
+    },
+    {
+        "id": "151",
+        "name": "Super Recupero",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/SuperRecuperoExpedition98.png"
+    },
+    {
+        "id": "152",
+        "name": "Punto di Curvatura",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/PuntodiCurvaturaExpedition152.png"
+    },
+    {
+        "id": "153",
+        "name": "Ricerca di Energia",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/RicercadiEnergiaExpedition153.png"
+    },
+    {
+        "id": "154",
+        "name": "Recupero Totale",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/RecuperoTotaleExpedition154.jpg"
+    },
+    {
+        "id": "155",
+        "name": "Latte Mumu",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/ed/LatteMumuExpedition155.jpg"
+    },
+    {
+        "id": "156",
+        "name": "Pozione Magica",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/PozioneMagicaExpedition156.jpg"
+    },
+    {
+        "id": "157",
+        "name": "Scambio",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/ScambioExpedition157.jpg"
+    },
+    {
+        "id": "158",
+        "name": "Energia Oscurità",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/EnergiaOscurit%C3%A0Expedition158.png"
+    },
+    {
+        "id": "159",
+        "name": "Energia Metallo",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/EnergiaMetalloExpedition159.png"
+    },
+    {
+        "id": "160",
+        "name": "Energia Combattimento",
+        "type": "fighting",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/EnergiaCombattimentoExpedition160.jpg"
+    },
+    {
+        "id": "161",
+        "name": "Energia Fuoco",
+        "type": "fire",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/EnergiaFuocoExpedition161.png"
+    },
+    {
+        "id": "162",
+        "name": "Energia Erba",
+        "type": "grass",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaErbaExpedition162.png"
+    },
+    {
+        "id": "163",
+        "name": "Energia Lampo",
+        "type": "electric",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/EnergiaLampoExpedition163.jpg"
+    },
+    {
+        "id": "164",
+        "name": "Energia Psiche",
+        "type": "psychic",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/EnergiaPsicheExpedition164.jpg"
+    },
+    {
+        "id": "165",
+        "name": "Energia Acqua",
+        "type": "water",
+        "rarity": "",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/EnergiaAcquaExpedition165.jpg"
+    }
+]

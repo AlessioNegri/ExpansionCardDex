@@ -38,7 +38,7 @@ export default function ScreenExpansion({ navigation, route } : NativeStackScree
 
                 <Image
                     source={{ uri: data.image ?? undefined }}
-                    style={{ width: '100%', height: 100, margin: 10 }}
+                    style={{ width: '95%', height: 100, margin: 10 }}
                     resizeMode='contain'
                 />
 

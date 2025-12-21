@@ -42,7 +42,7 @@ export default function ItemExpansion(props: ItemExpansionProps)
                                         ${exp.type === 'M' ? 'border-slate-500' : 'border-slate-500'}`}
                         >
 
-                            <View className="flex-row justify-between align-top">
+                            <View className="flex-row justify-between align-top gap-4">
 
                                 <Image
                                     source={{ uri: (exp.symbol && exp.symbol !== '') ? exp.symbol : undefined }}
@@ -52,7 +52,7 @@ export default function ItemExpansion(props: ItemExpansionProps)
 
                                 <Image
                                     source={{ uri: (exp.image && exp.image !== '') ? exp.image : undefined }}
-                                    style={{ width: '80%', height: 100 }}
+                                    style={{ width: '70%', height: 100 }}
                                     resizeMode='contain'
                                 />
 

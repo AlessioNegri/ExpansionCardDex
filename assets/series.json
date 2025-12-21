@@ -262,6 +262,74 @@
             ]
         },
         {
+            "name": "Serie e-Card",
+            "fromColor": "#26649C",
+            "toColor": "#4FD9FF",
+            "expansions":
+            [
+                {
+                    "name": "Expedition Set Base",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/expedition-base-set-pokemon-set-symbol.png",
+                    "code": "EX",
+                    "type": "M",
+                    "releaseDate": "2002-01-01",
+                    "totalCards": 165,
+                    "regularCards": 165,
+                    "secretCards": 0,
+                    "fromColor": "#DAA520",
+                    "toColor": "#FF6600",
+                    "image": "https://media.pokemoncentral.it/wiki/c/c7/Logo_Expedition_Set_Base.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/7/7b/Pacchetto_Expedition_Venusaur.jpg",
+                        "https://media.pokemoncentral.it/wiki/3/39/Pacchetto_Expedition_Charizard.jpg",
+                        "https://media.pokemoncentral.it/wiki/2/2c/Pacchetto_Expedition_Blastoise.jpg",
+                        "https://media.pokemoncentral.it/wiki/e/e2/Pacchetto_Expedition_Feraligatr.jpg"
+                    ]
+                },
+                {
+                    "name": "Aquapolis",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/aquapolis-pokemon-set-symbol.png",
+                    "code": "AQ",
+                    "type": "M",
+                    "releaseDate": "2003-01-01",
+                    "totalCards": 186,
+                    "regularCards": 147,
+                    "secretCards": 3,
+                    "fromColor": "#6890F0",
+                    "toColor": "#445E9C",
+                    "image": "https://media.pokemoncentral.it/wiki/3/36/Logo_Aquapolis.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/b/b9/Pacchetto_Aquapolis_Arcanine.jpg",
+                        "https://media.pokemoncentral.it/wiki/b/b4/E2_Booster_Entei.jpg",
+                        "https://media.pokemoncentral.it/wiki/1/13/Pacchetto_Aquapolis_Scizor.jpg",
+                        "https://media.pokemoncentral.it/wiki/6/6c/Pacchetto_Aquapolis_Tyranitar.jpg"
+                    ]
+                },
+                {
+                    "name": "Skyridge",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/skyridge-pokemon-set-symbol.png",
+                    "code": "SK",
+                    "type": "M",
+                    "releaseDate": "2003-01-01",
+                    "totalCards": 182,
+                    "regularCards": 144,
+                    "secretCards": 6,
+                    "fromColor": "#A2E0A3",
+                    "toColor": "#4AA14D",
+                    "image": "https://media.pokemoncentral.it/wiki/a/a4/Logo_Skyridge.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/a/a4/E3_Booster_Poliwrath.jpg",
+                        "https://media.pokemoncentral.it/wiki/9/9b/E3_Booster_Vaporeon.jpg",
+                        "https://media.pokemoncentral.it/wiki/b/b2/E3_Booster_Kabutops.jpg",
+                        "https://media.pokemoncentral.it/wiki/8/87/E3_Booster_Ho-Oh.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Scarlatto e Violetto",
             "fromColor": "#D90D19",
             "toColor": "#842F8C",

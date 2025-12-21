@@ -1,0 +1,1458 @@
+[
+    {
+        "id": "H01",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/AlakazamSkyridge2.jpg"
+    },
+    {
+        "id": "H02",
+        "name": "Arcanine",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/ArcanineSkyridge3.jpg"
+    },
+    {
+        "id": "H03",
+        "name": "Articuno",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/ArticunoSkyridge4.jpg"
+    },
+    {
+        "id": "H04",
+        "name": "Beedrill",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/BeedrillSkyridge5.jpg"
+    },
+    {
+        "id": "H05",
+        "name": "Crobat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/CrobatSkyridge6.jpg"
+    },
+    {
+        "id": "H06",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/DewgongSkyridge7.jpg"
+    },
+    {
+        "id": "H07",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/FlareonSkyridge8.jpg"
+    },
+    {
+        "id": "H08",
+        "name": "Forretress",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/ForretressSkyridge9.png"
+    },
+    {
+        "id": "H09",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/GengarSkyridge10.jpg"
+    },
+    {
+        "id": "H10",
+        "name": "Gyarados",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/GyaradosSkyridge11.jpg"
+    },
+    {
+        "id": "H11",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundoomSkyridge12.jpg"
+    },
+    {
+        "id": "H12",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/JolteonSkyridge13.jpg"
+    },
+    {
+        "id": "H13",
+        "name": "Kabutops",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/KabutopsSkyridge14.jpg"
+    },
+    {
+        "id": "H14",
+        "name": "Ledian",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/LedianSkyridge15.jpg"
+    },
+    {
+        "id": "H15",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/MachampSkyridge16.jpg"
+    },
+    {
+        "id": "H16",
+        "name": "Magcargo",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/MagcargoSkyridge17.jpg"
+    },
+    {
+        "id": "H17",
+        "name": "Magcargo",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/MagcargoSkyridge18.jpg"
+    },
+    {
+        "id": "H18",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/0/02/MagnetonSkyridge19.jpg"
+    },
+    {
+        "id": "H19",
+        "name": "Magneton",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/MagnetonSkyridge20.jpg"
+    },
+    {
+        "id": "H20",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/MoltresSkyridge21.jpg"
+    },
+    {
+        "id": "H21",
+        "name": "Nidoqueen",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/NidoqueenSkyridge22.jpg"
+    },
+    {
+        "id": "H22",
+        "name": "Piloswine",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/PiloswineSkyridge24.jpg"
+    },
+    {
+        "id": "H23",
+        "name": "Politoed",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/PolitoedSkyridge25.jpg"
+    },
+    {
+        "id": "H24",
+        "name": "Poliwrath",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/PoliwrathSkyridge26.png"
+    },
+    {
+        "id": "H25",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/RaichuSkyridge27.jpg"
+    },
+    {
+        "id": "H26",
+        "name": "Raikou",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/RaikouSkyridge28.jpg"
+    },
+    {
+        "id": "H27",
+        "name": "Rhydon",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/RhydonSkyridge29.jpg"
+    },
+    {
+        "id": "H28",
+        "name": "Starmie",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/StarmieSkyridge30.jpg"
+    },
+    {
+        "id": "H29",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/SteelixSkyridge31.jpg"
+    },
+    {
+        "id": "H30",
+        "name": "Umbreon",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/UmbreonSkyridge32.png"
+    },
+    {
+        "id": "H31",
+        "name": "Vaporeon",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/VaporeonSkyridge33.jpg"
+    },
+    {
+        "id": "H32",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/XatuSkyridge35.jpg"
+    },
+    {
+        "id": "001",
+        "name": "Aerodactyl",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/AerodactylSkyridge1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Alakazam",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/AlakazamSkyridge2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Arcanine",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/ArcanineSkyridge3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Articuno",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/ArticunoSkyridge4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Beedrill",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/BeedrillSkyridge5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Crobat",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/CrobatSkyridge6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/DewgongSkyridge7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/FlareonSkyridge8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Forretress",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/ForretressSkyridge9.png"
+    },
+    {
+        "id": "010",
+        "name": "Gengar",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/GengarSkyridge10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Gyarados",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/GyaradosSkyridge11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Kimiya Masago",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/HoundoomSkyridge12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/JolteonSkyridge13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Kabutops",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/KabutopsSkyridge14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Ledian",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/LedianSkyridge15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/MachampSkyridge16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Magcargo",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/MagcargoSkyridge17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Magcargo",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/MagcargoSkyridge18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/0/02/MagnetonSkyridge19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Magneton",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/MagnetonSkyridge20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Moltres",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/MoltresSkyridge21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Nidoqueen",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/NidoqueenSkyridge22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Omastar",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/OmastarSkyridge23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Piloswine",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/PiloswineSkyridge24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Politoed",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/PolitoedSkyridge25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Poliwrath",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/PoliwrathSkyridge26.png"
+    },
+    {
+        "id": "027",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/RaichuSkyridge27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Raikou",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/RaikouSkyridge28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Rhydon",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/RhydonSkyridge29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Starmie",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/StarmieSkyridge30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/SteelixSkyridge31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Umbreon",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/UmbreonSkyridge32.png"
+    },
+    {
+        "id": "033",
+        "name": "Vaporeon",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/VaporeonSkyridge33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hizuki Misono",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/WigglytuffSkyridge34.png"
+    },
+    {
+        "id": "035",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/XatuSkyridge35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Electrode",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/ElectrodeSkyridge36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Kabuto",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/KabutoSkyridge37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/MachokeSkyridge38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Misdreavus",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/MisdreavusSkyridge39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Noctowl",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/NoctowlSkyridge40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Omanyte",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/OmanyteSkyridge41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Persian",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/PersianSkyridge42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Piloswine",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/1/17/PiloswineSkyridge43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Starmie",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/0/01/StarmieSkyridge44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Wobbuffet",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/WobbuffetSkyridge45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Abra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/AbraSkyridge46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Buried Fossil",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/BuriedFossilSkyridge47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Cleffa",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/CleffaSkyridge48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Delibird",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/DelibirdSkyridge49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Diglett",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/DiglettSkyridge50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Ditto",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/DittoSkyridge51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Dugtrio",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/DugtrioSkyridge52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Dunsparce",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/DunsparceSkyridge53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/41/EeveeSkyridge54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Farfetch'd",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/Farfetch%27dSkyridge55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Forretress",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/ForretressSkyridge56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/2/2a/GastlySkyridge57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Girafarig",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/GirafarigSkyridge58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Gligar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/22/GligarSkyridge59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Golbat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/GolbatSkyridge60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Granbull",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/GranbullSkyridge61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Growlithe",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/GrowlitheSkyridge62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/7/70/HaunterSkyridge63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Heracross",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/HeracrossSkyridge64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Hoothoot",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Hizuki Misono",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/HoothootSkyridge65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Houndour",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/HoundourSkyridge66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Igglybuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/IgglybuffSkyridge67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/JigglypuffSkyridge68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Kadabra",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/KadabraSkyridge69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Kakuna",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/KakunaSkyridge70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Lapras",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/a/a8/LaprasSkyridge71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Ledyba",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/LedybaSkyridge72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Ledyba",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/5/5c/LedybaSkyridge73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/MachopSkyridge74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/MagikarpSkyridge75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/MagnemiteSkyridge76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Mantine",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/MantineSkyridge77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/MeowthSkyridge78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Murkrow",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/MurkrowSkyridge79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Natu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/NatuSkyridge80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Nidoran ♀",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/NidoranSkyridge81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Nidoran ♀",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/NidoranSkyridge82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Nidorina",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/NidorinaSkyridge83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/f/f2/PikachuSkyridge84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Pineco",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/PinecoSkyridge85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Pineco",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/PinecoSkyridge86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Poliwag",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/PoliwagSkyridge87.png"
+    },
+    {
+        "id": "088",
+        "name": "Poliwhirl",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/PoliwhirlSkyridge88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Raticate",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/RaticateSkyridge89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Masako Yamashita",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/RattataSkyridge90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/RhyhornSkyridge91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/SandshrewSkyridge92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Sandslash",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/SandslashSkyridge93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/SeelSkyridge94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/SeelSkyridge95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Shuckle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/ShuckleSkyridge96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/SkarmorySkyridge97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/5/58/SlugmaSkyridge98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/SlugmaSkyridge99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Snorlax",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/SnorlaxSkyridge100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Snubbull",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/SnubbullSkyridge101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Stantler",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/StantlerSkyridge102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/StaryuSkyridge103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/StaryuSkyridge104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Sunflora",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/SunfloraSkyridge105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Sunkern",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/2/23/SunkernSkyridge106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Swinub",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/SwinubSkyridge107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Swinub",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/SwinubSkyridge108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Teddiursa",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/2/2a/TeddiursaSkyridge109.jpg"
+    },
+    {
+        "id": "110",
+        "name": "Ursaring",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/UrsaringSkyridge110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Venomoth",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/VenomothSkyridge111.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Venonat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/VenonatSkyridge112.jpg"
+    },
+    {
+        "id": "113",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/VoltorbSkyridge113.png"
+    },
+    {
+        "id": "114",
+        "name": "Weedle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Keiko Fukuyama",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/WeedleSkyridge114.jpg"
+    },
+    {
+        "id": "115",
+        "name": "Weedle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/WeedleSkyridge115.jpg"
+    },
+    {
+        "id": "116",
+        "name": "Yanma",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/YanmaSkyridge116.jpg"
+    },
+    {
+        "id": "117",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/ZubatSkyridge117.jpg"
+    },
+    {
+        "id": "118",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/ZubatSkyridge118.jpg"
+    },
+    {
+        "id": "119",
+        "name": "Rovine Antiche",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/RovineAnticheSkyridge119.jpg"
+    },
+    {
+        "id": "120",
+        "name": "Cacciatore di Reliquie",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/CacciatorediReliquieSkyridge120.jpg"
+    },
+    {
+        "id": "121",
+        "name": "Costruttore di Apricorn",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/CostruttorediApricornSkyridge121.jpg"
+    },
+    {
+        "id": "122",
+        "name": "Frammento Cristallino",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/FrammentoCristallinoSkyridge122.jpg"
+    },
+    {
+        "id": "123",
+        "name": "Shamano del Deserto",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/ShamanodelDesertoSkyridge123.jpg"
+    },
+    {
+        "id": "124",
+        "name": "Palla Rapida",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/PallaRapidaSkyridge124.png"
+    },
+    {
+        "id": "125",
+        "name": "Pescatore",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/PescatoreSkyridge125.jpg"
+    },
+    {
+        "id": "126",
+        "name": "Palla Amica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/PallaAmicaSkyridge126.jpg"
+    },
+    {
+        "id": "127",
+        "name": "Iper Pozione Magica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/f/f4/IperPozioneMagicaSkyridge127.jpg"
+    },
+    {
+        "id": "128",
+        "name": "Palla Esca",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/PallaEscaSkyridge128.jpg"
+    },
+    {
+        "id": "129",
+        "name": "Sfera Miracolosa α",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/1/17/SferaMiracolosa%CE%B1Skyridge129.jpg"
+    },
+    {
+        "id": "130",
+        "name": "Sfera Miracolosa β",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/SferaMiracolosa%CE%B2Skyridge130.jpg"
+    },
+    {
+        "id": "131",
+        "name": "Sfera Miracolosa γ",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/SferaMiracolosa%CE%B3Skyridge131.jpg"
+    },
+    {
+        "id": "132",
+        "name": "Stadio Miraggio",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/StadioMiraggioSkyridge132.jpg"
+    },
+    {
+        "id": "133",
+        "name": "Piatto Misterioso α",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/PiattoMisterioso%CE%B1Skyridge133.jpg"
+    },
+    {
+        "id": "134",
+        "name": "Piatto Misterioso β",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/PiattoMisterioso%CE%B2Skyridge134.jpg"
+    },
+    {
+        "id": "135",
+        "name": "Piatto Misterioso γ",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/PiattoMisterioso%CE%B3Skyridge135.jpg"
+    },
+    {
+        "id": "136",
+        "name": "Piatto Misterioso δ",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/PiattoMisterioso%CE%B4Skyridge136.jpg"
+    },
+    {
+        "id": "137",
+        "name": "Zona del Mistero",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/ZonadelMisteroSkyridge137.jpg"
+    },
+    {
+        "id": "138",
+        "name": "Oracolo",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/OracoloSkyridge138.jpg"
+    },
+    {
+        "id": "139",
+        "name": "Pezzo di Stella",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/21/PezzodiStellaSkyridge139.jpg"
+    },
+    {
+        "id": "140",
+        "name": "Spedizione Sotterranea",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/SpedizioneSotterraneaSkyridge140.jpg"
+    },
+    {
+        "id": "141",
+        "name": "Lago Sotterraneo",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/LagoSotterraneoSkyridge141.jpg"
+    },
+    {
+        "id": "142",
+        "name": "Energia Rimbalzo",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/EnergiaRimbalzoSkyridge142.jpg"
+    },
+    {
+        "id": "143",
+        "name": "Energia Ciclone",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/EnergiaCicloneSkyridge143.jpg"
+    },
+    {
+        "id": "144",
+        "name": "Energia Retro",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/EnergiaRetroSkyridge144.jpg"
+    },
+    {
+        "id": "145",
+        "name": "Celebi",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/CelebiSkyridge145.png"
+    },
+    {
+        "id": "146",
+        "name": "Charizard",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/CharizardSkyridge146.jpg"
+    },
+    {
+        "id": "147",
+        "name": "Crobat",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/CrobatSkyridge147.jpg"
+    },
+    {
+        "id": "148",
+        "name": "Golem",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/GolemSkyridge148.jpg"
+    },
+    {
+        "id": "149",
+        "name": "Ho-Oh",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/Ho-OhSkyridge149.jpg"
+    },
+    {
+        "id": "150",
+        "name": "Kabutops",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/61/KabutopsSkyridge150.jpg"
+    }
+]

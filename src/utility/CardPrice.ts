@@ -158,6 +158,10 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
         case 'N2':  return `${url}/Neo-Discovery/${cardName}-[PH]NDI${card.id.replaceAll('0', '')}`;
         case 'N3':  return `${url}/Neo-Revelation/${cardName}-[PH]NR${card.id.replaceAll('0', '')}`;
         case 'N4':  return `${url}/Neo-Destiny/${cardName}-[PH]NDE${card.id.replaceAll('0', '')}`;
+        case 'LC':  return `${url}/Legendary-Collection/${cardName}-[PH]LC${card.id.replaceAll('0', '')}`;
+        case 'EX':  return `${url}/Expedition-Base-Set/${cardName}-[PH]EX${card.id.replaceAll('0', '')}`;
+        case 'AQ':  return `${url}/Aquapolis/${cardName}-[PH]AQ${card.id.replaceAll('0', '')}`;
+        case 'SK':  return `${url}/Skyridge/${cardName}-[PH]SK${card.id.replaceAll('0', '')}`;
         case 'MEG': return `${url}/Mega-Evolution/${cardName}-[PH]MEG${card.id}`;
         case 'PFL': return `${url}/Phantasmal-Flames/${cardName}-[PH]PFL${card.id}`;
 

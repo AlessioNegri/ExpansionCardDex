@@ -48,7 +48,7 @@ export default function ItemCard(props: ItemCardProps) {
 
             <View
                 className={`m-2 border-2 rounded-xl 
-                    ${(Number(props.item.id) <= props.expansion.regularCards) ?
+                    ${(Number(props.item.id) <= props.expansion.regularCards || /[a-zA-Z]$/.test(props.item.id)) ?
                         'bg-blue-500/40 border-blue-900' :
                         'bg-yellow-400/40 border-yellow-200'}`}>
 
@@ -62,7 +62,15 @@ export default function ItemCard(props: ItemCardProps) {
                             resizeMode='contain'
                         />
 
-                        <Text className="font-robotomono text-white">{props.item.id + '/' + String(props.expansion.regularCards).padStart(3, '0')}</Text>
+                        <Text className="font-robotomono text-white">
+                            {
+                                /^[a-zA-Z]/.test(props.item.id)
+                                ?
+                                props.item.id
+                                :
+                                props.item.id + '/' + String(props.expansion.regularCards).padStart(3, '0')
+                            }
+                        </Text>
 
                         <Image
                             source={{ uri: getTypeImage(props.item.type.toLowerCase()) }}
