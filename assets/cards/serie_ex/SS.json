@@ -1,0 +1,802 @@
+[
+    {
+        "id": "001",
+        "name": "Armaldo",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/ArmaldoEXTempestadiSabbia1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Cacturne",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/CacturneEXTempestadiSabbia2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Cradily",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/CradilyEXTempestadiSabbia3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dusclops",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/DusclopsEXTempestadiSabbia4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Flareon",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/FlareonEXTempestadiSabbia5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Jolteon",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/JolteonEXTempestadiSabbia6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Ludicolo",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/LudicoloEXTempestadiSabbia7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Lunatone",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/LunatoneEXTempestadiSabbia8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Mawile",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/MawileEXTempestadiSabbia9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Sableye",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/SableyeEXTempestadiSabbia10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Seviper",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/10/SeviperEXTempestadiSabbia11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Shiftry",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/57/ShiftryEXTempestadiSabbia12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Solrock",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/SolrockEXTempestadiSabbia13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Zangoose",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/ZangooseEXTempestadiSabbia14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Arcanine",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/ArcanineEXTempestadiSabbia15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Espeon",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/EspeonEXTempestadiSabbia16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Golduck",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/GolduckEXTempestadiSabbia17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Kecleon",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/KecleonEXTempestadiSabbia18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Omastar",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/OmastarEXTempestadiSabbia19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Pichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/PichuEXTempestadiSabbia20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Sandslash",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/SandslashEXTempestadiSabbia21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Shiftry",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/ShiftryEXTempestadiSabbia22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Steelix",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/SteelixEXTempestadiSabbia23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Umbreon",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/UmbreonEXTempestadiSabbia24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Vaporeon",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/VaporeonEXTempestadiSabbia25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Wobbuffet",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/f/f2/WobbuffetEXTempestadiSabbia26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Anorith",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/AnorithEXTempestadiSabbia27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Anorith",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/AnorithEXTempestadiSabbia28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Arbok",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/ArbokEXTempestadiSabbia29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Azumarill",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/AzumarillEXTempestadiSabbia30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Azurill",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/e6/AzurillEXTempestadiSabbia31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Baltoy",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/BaltoyEXTempestadiSabbia32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Breloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/BreloomEXTempestadiSabbia33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Delcatty",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/DelcattyEXTempestadiSabbia34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Electabuzz",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/ElectabuzzEXTempestadiSabbia35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Elekid",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/ElekidEXTempestadiSabbia36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/FearowEXTempestadiSabbia37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Illumise",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/IllumiseEXTempestadiSabbia38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Kabuto",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/KabutoEXTempestadiSabbia39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Kirlia",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/16/KirliaEXTempestadiSabbia40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Lairon",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/LaironEXTempestadiSabbia41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Lileep",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/LileepEXTempestadiSabbia42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Lileep",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/LileepEXTempestadiSabbia43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Linoone",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/LinooneEXTempestadiSabbia44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Lombre",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/LombreEXTempestadiSabbia45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Lombre",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/LombreEXTempestadiSabbia46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Murkrow",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/MurkrowEXTempestadiSabbia47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Nuzleaf",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/NuzleafEXTempestadiSabbia48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Nuzleaf",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/NuzleafEXTempestadiSabbia49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Pelipper",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/PelipperEXTempestadiSabbia50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Quilava",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/QuilavaEXTempestadiSabbia51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Vigoroth",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/VigorothEXTempestadiSabbia52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Volbeat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/VolbeatEXTempestadiSabbia53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Wynaut",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/79/WynautEXTempestadiSabbia54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/XatuEXTempestadiSabbia55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Aron",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/AronEXTempestadiSabbia56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Cacnea",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/CacneaEXTempestadiSabbia57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Cacnea",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/CacneaEXTempestadiSabbia58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/CyndaquilEXTempestadiSabbia59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Dunsparce",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/DunsparceEXTempestadiSabbia60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Duskull",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/DuskullEXTempestadiSabbia61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Duskull",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/3/36/DuskullEXTempestadiSabbia62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Eevee",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/EeveeEXTempestadiSabbia63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Ekans",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/EkansEXTempestadiSabbia64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Growlithe",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/5/5e/GrowlitheEXTempestadiSabbia65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Lotad",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/LotadEXTempestadiSabbia66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Lotad",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/LotadEXTempestadiSabbia67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Marill",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/MarillEXTempestadiSabbia68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Natu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/NatuEXTempestadiSabbia69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Omanyte",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/OmanyteEXTempestadiSabbia70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/OnixEXTempestadiSabbia71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/PikachuEXTempestadiSabbia72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/PsyduckEXTempestadiSabbia73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Ralts",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/RaltsEXTempestadiSabbia74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/SandshrewEXTempestadiSabbia75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Seedot",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/SeedotEXTempestadiSabbia76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Seedot",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/SeedotEXTempestadiSabbia77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Shroomish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/ShroomishEXTempestadiSabbia78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Skitty",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/SkittyEXTempestadiSabbia79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Slakoth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/SlakothEXTempestadiSabbia80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/SpearowEXTempestadiSabbia81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Trapinch",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/TrapinchEXTempestadiSabbia82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Wailmer",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/WailmerEXTempestadiSabbia83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Wingull",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/WingullEXTempestadiSabbia84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Zigzagoon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/ZigzagoonEXTempestadiSabbia85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Doppio Recupero Totale",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/2/20/DoppioRecuperoTotaleEXTempestadiSabbia86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Ricerca in Rete di Lanette",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/RicercainRetediLanetteEXTempestadiSabbia87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Caramella Rara",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/CaramellaRaraEXTempestadiSabbia88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Addestramento di Lino",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/AddestramentodiLinoEXTempestadiSabbia89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Artiglio Fossile",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/ArtiglioFossileEXTempestadiSabbia90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Fossile Misterioso",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/FossileMisteriosoEXTempestadiSabbia91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Radice Fossile",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/RadiceFossileEXTempestadiSabbia92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Multienergia",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Takumi Akabane",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/MultienergiaEXTempestadiSabbia93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Aerodactyl ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/AerodactylexEXTempestadiSabbia94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Aggron ex",
+        "type": "steel",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/AggronexEXTempestadiSabbia95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Gardevoir ex",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/GardevoirexEXTempestadiSabbia96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Kabutops ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/KabutopsexEXTempestadiSabbia97.png"
+    },
+    {
+        "id": "098",
+        "name": "Raichu ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/f/fb/RaichuexEXTempestadiSabbia98.png"
+    },
+    {
+        "id": "099",
+        "name": "Typhlosion ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/TyphlosionexEXTempestadiSabbia99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Wailord ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/WailordexEXTempestadiSabbia100.jpg"
+    }
+]

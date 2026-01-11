@@ -1,0 +1,866 @@
+[
+    {
+        "id": "001",
+        "name": "Altaria",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/AltariaEXDeoxys1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Beautifly",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/BeautiflyEXDeoxys2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Breloom",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/BreloomEXDeoxys3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Camerupt",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/CameruptEXDeoxys4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Claydol",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/ClaydolEXDeoxys5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Crawdaunt",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Tomoko Wakai",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/CrawdauntEXDeoxys6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Dusclops",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Tomoko Wakai",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/DusclopsEXDeoxys7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Gyarados",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/GyaradosEXDeoxys8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Jirachi",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/JirachiEXDeoxys9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Ludicolo",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/59/LudicoloEXDeoxys10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Metagross",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/MetagrossEXDeoxys11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Mightyena",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/MightyenaEXDeoxys12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Ninjask",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/NinjaskEXDeoxys13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Shedinja",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/ShedinjaEXDeoxys14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Slaking",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/SlakingEXDeoxys15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Deoxys [Normale]",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/DeoxysEXDeoxys16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Deoxys [Attacco]",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/DeoxysEXDeoxys17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Deoxys [Difesa]",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/DeoxysEXDeoxys18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Ludicolo",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/LudicoloEXDeoxys19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Magcargo",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/MagcargoEXDeoxys20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Pelipper",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/PelipperEXDeoxys21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Rayquaza",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/RayquazaEXDeoxys22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Sableye",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/SableyeEXDeoxys23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Seaking",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/SeakingEXDeoxys24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Shiftry",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/ShiftryEXDeoxys25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/f/f2/SkarmoryEXDeoxys26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Tropius",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/TropiusEXDeoxys27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Whiscash",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/WhiscashEXDeoxys28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Xatu",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/XatuEXDeoxys29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Donphan",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/DonphanEXDeoxys30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Sochiko Adachi",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/GolbatEXDeoxys31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Grumpig",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/GrumpigEXDeoxys32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Lombre",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/LombreEXDeoxys33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Lombre",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/LombreEXDeoxys34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Lotad",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/LotadEXDeoxys35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Lunatone",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/LunatoneEXDeoxys36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Magcargo",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/2/23/MagcargoEXDeoxys37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Manectric",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/ManectricEXDeoxys38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Masquerain",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/MasquerainEXDeoxys39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Metang",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/MetangEXDeoxys40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Minun",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/MinunEXDeoxys41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Nosepass",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/NosepassEXDeoxys42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Nuzleaf",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/NuzleafEXDeoxys43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Plusle",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/PlusleEXDeoxys44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Shelgon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/ShelgonEXDeoxys45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Silcoon",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/SilcoonEXDeoxys46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Solrock",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/SolrockEXDeoxys47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Starmie",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/StarmieEXDeoxys48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Swellow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/SwellowEXDeoxys49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Vigoroth",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/83/VigorothEXDeoxys50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Weezing",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/WeezingEXDeoxys51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Bagon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Takao Unno",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/BagonEXDeoxys52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Baltoy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kenkichi Toyama",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/BaltoyEXDeoxys53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Barboach",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/BarboachEXDeoxys54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Beldum",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/BeldumEXDeoxys55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Carvanha",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/CarvanhaEXDeoxys56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Takao Unno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/CorphishEXDeoxys57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Duskull",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Tomoko Wakai",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/DuskullEXDeoxys58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/ElectrikeEXDeoxys59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Hiroki Fuchino",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/ElectrikeEXDeoxys60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/GoldeenEXDeoxys61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Koffing",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/KoffingEXDeoxys62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Lotad",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/LotadEXDeoxys63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/MagikarpEXDeoxys64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Makuhita",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Asuka Iwashita",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/MakuhitaEXDeoxys65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Natu",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/NatuEXDeoxys66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Nincada",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/NincadaEXDeoxys67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/0/02/NumelEXDeoxys68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Phanpy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/PhanpyEXDeoxys69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/PoochyenaEXDeoxys70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Seedot",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/SeedotEXDeoxys71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Shroomish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kanako Eo",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/ShroomishEXDeoxys72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Slakoth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Takao Unno",
+        "image": "https://media.pokemoncentral.it/wiki/0/0b/SlakothEXDeoxys73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/SlugmaEXDeoxys74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/SlugmaEXDeoxys75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Spoink",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/SpoinkEXDeoxys76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/StaryuEXDeoxys77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Surskit",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/2a/SurskitEXDeoxys78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Swablu",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/8/84/SwabluEXDeoxys79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Taillow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/TaillowEXDeoxys80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Wingull",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/WingullEXDeoxys81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Wurmple",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/WurmpleEXDeoxys82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Sochiko Adachi",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/ZubatEXDeoxys83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Bacca Pallone",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/BaccaPalloneEXDeoxys84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Frammento Cristallino",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/FrammentoCristallinoEXDeoxys85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Carica Energetica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/2/2d/CaricaEnergeticaEXDeoxys86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Lady Outing",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/LadyOutingEXDeoxys87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Master Ball",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/1/17/MasterBallEXDeoxys88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Cascate Meteora",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/CascateMeteoraEXDeoxys89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Scoperta del Professor Cosmi",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/ScopertadelProfessorCosmiEXDeoxys90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Centro Spaziale",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/CentroSpazialeEXDeoxys91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Malia della Forza",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/MaliadellaForzaEXDeoxys92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Energia Extra",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/EnergiaExtraEXDeoxys93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Energia Recupero",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Takumi Akabane",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/EnergiaRecuperoEXDeoxys94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Energia Caotica",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Takumi Akabane",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/EnergiaCaoticaEXDeoxys95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Crobat ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/b/b0/CrobatexEXDeoxys96.png"
+    },
+    {
+        "id": "097",
+        "name": "Deoxys ex [Normale]",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7a/DeoxysexEXDeoxys97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Deoxys ex [Attacco]",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/DeoxysexEXDeoxys98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Deoxys ex [Difesa]",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/DeoxysexEXDeoxys99.png"
+    },
+    {
+        "id": "100",
+        "name": "Hariyama ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/HariyamaexEXDeoxys100.png"
+    },
+    {
+        "id": "101",
+        "name": "Manectric ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/ManectricexEXDeoxys101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Rayquaza ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/4/49/RayquazaexEXDeoxys102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Salamence ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/SalamenceexEXDeoxys103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Sharpedo ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/5/5e/SharpedoexEXDeoxys104.png"
+    },
+    {
+        "id": "105",
+        "name": "Latias",
+        "type": "colorless",
+        "rarity": "URR",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/LatiasEXDeoxys105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Latios",
+        "type": "colorless",
+        "rarity": "URR",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/LatiosEXDeoxys106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Rayquaza",
+        "type": "colorless",
+        "rarity": "URR",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/RayquazaEXDeoxys107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Rocket Raikou ex",
+        "type": "dark",
+        "rarity": "RS",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/RocketRaikouexEXDeoxys108.jpg"
+    }
+]

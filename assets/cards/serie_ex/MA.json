@@ -1,0 +1,778 @@
+[
+    {
+        "id": "001",
+        "name": "Team Idro Cacturne",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/TeamIdroCacturneEXTeamMagmavsTeamIdro1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Team Idro Crawdaunt",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/TeamIdroCrawdauntEXTeamMagmavsTeamIdro2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Team Idro Kyogre",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/TeamIdroKyogreEXTeamMagmavsTeamIdro3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Team Idro Manectric",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/TeamIdroManectricEXTeamMagmavsTeamIdro4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Team Idro Sharpedo",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/TeamIdroSharpedoEXTeamMagmavsTeamIdro5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Team Idro Walrein",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/TeamIdroWalreinEXTeamMagmavsTeamIdro6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Team Magma Aggron",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/TeamMagmaAggronEXTeamMagmavsTeamIdro7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Team Magma Claydol",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/TeamMagmaClaydolEXTeamMagmavsTeamIdro8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Team Magma Groudon",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/TeamMagmaGroudonEXTeamMagmavsTeamIdro9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Team Magma Houndoom",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamMagmaHoundoomEXTeamMagmavsTeamIdro10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Team Magma Rhydon",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/TeamMagmaRhydonEXTeamMagmavsTeamIdro11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Team Magma Torkoal",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/TeamMagmaTorkoalEXTeamMagmavsTeamIdro12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/RaichuEXTeamMagmavsTeamIdro13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Team Idro Crawdaunt",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/TeamIdroCrawdauntEXTeamMagmavsTeamIdro14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Team Idro Mightyena",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/TeamIdroMightyenaEXTeamMagmavsTeamIdro15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Team Idro Sealeo",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "T. Honda",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/TeamIdroSealeoEXTeamMagmavsTeamIdro16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Team Idro Seviper",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/TeamIdroSeviperEXTeamMagmavsTeamIdro17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Team Idro Sharpedo",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/TeamIdroSharpedoEXTeamMagmavsTeamIdro18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Team Magma Camerupt",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/TeamMagmaCameruptEXTeamMagmavsTeamIdro19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Team Magma Lairon",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/TeamMagmaLaironEXTeamMagmavsTeamIdro20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Team Magma Mightyena",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/e/ee/TeamMagmaMightyenaEXTeamMagmavsTeamIdro21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Team Magma Rhydon",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "T. Honda",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamMagmaRhydonEXTeamMagmavsTeamIdro22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Team Magma Zangoose",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Zu-ka",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/TeamMagmaZangooseEXTeamMagmavsTeamIdro23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Team Idro Cacnea",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/f/f6/TeamIdroCacneaEXTeamMagmavsTeamIdro24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Team Idro Carvanha",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/TeamIdroCarvanhaEXTeamMagmavsTeamIdro25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Team Idro Corphish",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/TeamIdroCorphishEXTeamMagmavsTeamIdro26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Team Idro Electrike",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "M. Akiyama",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/TeamIdroElectrikeEXTeamMagmavsTeamIdro27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Team Idro Lanturn",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/TeamIdroLanturnEXTeamMagmavsTeamIdro28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Team Idro Manectric",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/TeamIdroManectricEXTeamMagmavsTeamIdro29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Team Idro Mightyena",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/TeamIdroMightyenaEXTeamMagmavsTeamIdro30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Team Idro Sealeo",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "T. Honda",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/TeamIdroSealeoEXTeamMagmavsTeamIdro31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Team Magma Baltoy",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/a/a4/TeamMagmaBaltoyEXTeamMagmavsTeamIdro32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Team Magma Claydol",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Zu-ka",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/TeamMagmaClaydolEXTeamMagmavsTeamIdro33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Team Magma Houndoom",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/TeamMagmaHoundoomEXTeamMagmavsTeamIdro34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Team Magma Houndour",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/TeamMagmaHoundourEXTeamMagmavsTeamIdro35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Team Magma Lairon",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/TeamMagmaLaironEXTeamMagmavsTeamIdro36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Team Magma Mightyena",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/TeamMagmaMightyenaEXTeamMagmavsTeamIdro37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Team Magma Rhyhorn",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Mt. TBT",
+        "image": "https://media.pokemoncentral.it/wiki/8/8e/TeamMagmaRhyhornEXTeamMagmavsTeamIdro38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/BulbasaurEXTeamMagmavsTeamIdro39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Cubone",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/CuboneEXTeamMagmavsTeamIdro40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/JigglypuffEXTeamMagmavsTeamIdro41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/MeowthEXTeamMagmavsTeamIdro42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/PikachuEXTeamMagmavsTeamIdro43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/PsyduckEXTeamMagmavsTeamIdro44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fa/SlowpokeEXTeamMagmavsTeamIdro45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/58/SquirtleEXTeamMagmavsTeamIdro46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Team Idro Carvanha",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/TeamIdroCarvanhaEXTeamMagmavsTeamIdro47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Team Idro Carvanha",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/TeamIdroCarvanhaEXTeamMagmavsTeamIdro48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Team Idro Chinchou",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/TeamIdroChinchouEXTeamMagmavsTeamIdro49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Team Idro Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/TeamIdroCorphishEXTeamMagmavsTeamIdro50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Team Idro Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Jungo Suzuki",
+        "image": "https://media.pokemoncentral.it/wiki/1/12/TeamIdroCorphishEXTeamMagmavsTeamIdro51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Team Idro Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "M. Akiyama",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/TeamIdroElectrikeEXTeamMagmavsTeamIdro52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Team Idro Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "M. Akiyama",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/TeamIdroElectrikeEXTeamMagmavsTeamIdro53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Team Idro Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/TeamIdroPoochyenaEXTeamMagmavsTeamIdro54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Team Idro Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/8/80/TeamIdroPoochyenaEXTeamMagmavsTeamIdro55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Team Idro Spheal",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/2/25/TeamIdroSphealEXTeamMagmavsTeamIdro56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Team Idro Spheal",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/TeamIdroSphealEXTeamMagmavsTeamIdro57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Team Magma Aron",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/TeamMagmaAronEXTeamMagmavsTeamIdro58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Team Magma Aron",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/TeamMagmaAronEXTeamMagmavsTeamIdro59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Team Magma Baltoy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/TeamMagmaBaltoyEXTeamMagmavsTeamIdro60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Team Magma Baltoy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/TeamMagmaBaltoyEXTeamMagmavsTeamIdro61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Team Magma Houndour",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/TeamMagmaHoundourEXTeamMagmavsTeamIdro62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Team Magma Houndour",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Atsuko Ujiie",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/TeamMagmaHoundourEXTeamMagmavsTeamIdro63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Team Magma Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/TeamMagmaNumelEXTeamMagmavsTeamIdro64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Team Magma Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/TeamMagmaPoochyenaEXTeamMagmavsTeamIdro65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Team Magma Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/TeamMagmaPoochyenaEXTeamMagmavsTeamIdro66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Team Magma Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/TeamMagmaRhyhornEXTeamMagmavsTeamIdro67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Team Magma Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yosuke Da Silva",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/TeamMagmaRhyhornEXTeamMagmavsTeamIdro68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Pianificatore del Team Idro",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/PianificatoredelTeamIdroEXTeamMagmavsTeamIdro69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Pianificatore del Team Magma",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/PianificatoredelTeamMagmaEXTeamMagmavsTeamIdro70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Ivan",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1c/IvanEXTeamMagmavsTeamIdro71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Palla Doppia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Big Mama Studios",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/PallaDoppiaEXTeamMagmavsTeamIdro72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Max",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/MaxEXTeamMagmavsTeamIdro73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Malia della Forza",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/MaliadellaForzaEXTeamMagmavsTeamIdro74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Sfera del Team Idro",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/SferadelTeamIdroEXTeamMagmavsTeamIdro75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Cintura Team Idro",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/CinturaTeamIdroEXTeamMagmavsTeamIdro76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Cospiratore del Team Idro",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/CospiratoredelTeamIdroEXTeamMagmavsTeamIdro77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Nascondiglio del Team Idro",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/NascondigliodelTeamIdroEXTeamMagmavsTeamIdro78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Macchinario Tecnico del Team Idro 01",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/MacchinarioTecnicodelTeamIdro01EXTeamMagmavsTeamIdro79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Sfera del Team Magma",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/SferadelTeamMagmaEXTeamMagmavsTeamIdro80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Cintura Team Magma",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/CinturaTeamMagmaEXTeamMagmavsTeamIdro81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Cospiratore del Team Magma",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/CospiratoredelTeamMagmaEXTeamMagmavsTeamIdro82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Nascondiglio del Team Magma",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/NascondigliodelTeamMagmaEXTeamMagmavsTeamIdro83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Macchinario Tecnico del Team Magma 01",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/ad/MacchinarioTecnicodelTeamMagma01EXTeamMagmavsTeamIdro84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Punto di Curvatura",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/PuntodiCurvaturaEXTeamMagmavsTeamIdro85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Idro Energia",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/IdroEnergiaEXTeamMagmavsTeamIdro86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Magma Energia",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/MagmaEnergiaEXTeamMagmavsTeamIdro87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Duplice Energia Arcobaleno",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/DupliceEnergiaArcobalenoEXTeamMagmavsTeamIdro88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Blaziken ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/BlazikenexEXTeamMagmavsTeamIdro89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Cradily ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/CradilyexEXTeamMagmavsTeamIdro90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Entei ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/EnteiexEXTeamMagmavsTeamIdro91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Raikou ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/c/cf/RaikouexEXTeamMagmavsTeamIdro92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Sceptile ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/9/9b/SceptileexEXTeamMagmavsTeamIdro93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Suicune ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/SuicuneexEXTeamMagmavsTeamIdro94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Swampert ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/SwampertexEXTeamMagmavsTeamIdro95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Absol",
+        "type": "dark",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/AbsolEXTeamMagmavsTeamIdro96.png"
+    },
+    {
+        "id": "097",
+        "name": "Jirachi",
+        "type": "psychic",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/JirachiEXTeamMagmavsTeamIdro97.jpg"
+    }
+]

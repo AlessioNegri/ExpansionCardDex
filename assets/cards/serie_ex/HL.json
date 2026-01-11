@@ -1,0 +1,818 @@
+[
+    {
+        "id": "001",
+        "name": "Banette",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/BanetteEXLeggendeNascoste1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Claydol",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/7/76/ClaydolEXLeggendeNascoste2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Crobat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/CrobatEXLeggendeNascoste3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Dark Celebi",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/DarkCelebiEXLeggendeNascoste4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Electrode",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/ElectrodeEXLeggendeNascoste5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Exploud",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/ExploudEXLeggendeNascoste6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Heracross",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/HeracrossEXLeggendeNascoste7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Jirachi",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/JirachiEXLeggendeNascoste8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Machamp",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/d/dd/MachampEXLeggendeNascoste9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Medicham",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/MedichamEXLeggendeNascoste10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Metagross",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/MetagrossEXLeggendeNascoste11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Milotic",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/MiloticEXLeggendeNascoste12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Pinsir",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/PinsirEXLeggendeNascoste13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Shiftry",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/ShiftryEXLeggendeNascoste14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Walrein",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/WalreinEXLeggendeNascoste15.png"
+    },
+    {
+        "id": "016",
+        "name": "Bellossom",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/BellossomEXLeggendeNascoste16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Chimecho",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/ChimechoEXLeggendeNascoste17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Gorebyss",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/GorebyssEXLeggendeNascoste18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Huntail",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/HuntailEXLeggendeNascoste19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Masquerain",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/MasquerainEXLeggendeNascoste20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Metang",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/MetangEXLeggendeNascoste21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Ninetales",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/NinetalesEXLeggendeNascoste22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Castform Pioggia",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/CastformPioggiaEXLeggendeNascoste23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Relicanth",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/RelicanthEXLeggendeNascoste24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Castform Neve",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/CastformNeveEXLeggendeNascoste25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Castform Sole",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/0/06/CastformSoleEXLeggendeNascoste26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Tropius",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/TropiusEXLeggendeNascoste27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Beldum",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/BeldumEXLeggendeNascoste28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Beldum",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/BeldumEXLeggendeNascoste29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Castform",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/CastformEXLeggendeNascoste30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Claydol",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/ClaydolEXLeggendeNascoste31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Corsola",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/CorsolaEXLeggendeNascoste32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Dodrio",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/DodrioEXLeggendeNascoste33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Glalie",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/GlalieEXLeggendeNascoste34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Gloom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/GloomEXLeggendeNascoste35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/GolbatEXLeggendeNascoste36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Igglybuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/IgglybuffEXLeggendeNascoste37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Lanturn",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/LanturnEXLeggendeNascoste38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Loudred",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/LoudredEXLeggendeNascoste39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Luvdisc",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/LuvdiscEXLeggendeNascoste40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Machoke",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/MachokeEXLeggendeNascoste41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Medicham",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/MedichamEXLeggendeNascoste42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Metang",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/MetangEXLeggendeNascoste43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Metang",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/MetangEXLeggendeNascoste44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Nuzleaf",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/NuzleafEXLeggendeNascoste45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Rhydon",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/RhydonEXLeggendeNascoste46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Sealeo",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/SealeoEXLeggendeNascoste47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Spinda",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/67/SpindaEXLeggendeNascoste48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Starmie",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/StarmieEXLeggendeNascoste49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Swalot",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/SwalotEXLeggendeNascoste50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Tentacruel",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/TentacruelEXLeggendeNascoste51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Baltoy",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/BaltoyEXLeggendeNascoste52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Baltoy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/BaltoyEXLeggendeNascoste53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Beldum",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/BeldumEXLeggendeNascoste54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Chikorita",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/ChikoritaEXLeggendeNascoste55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Chinchou",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/a/a8/ChinchouEXLeggendeNascoste56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Chinchou",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/ChinchouEXLeggendeNascoste57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Clamperl",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/ClamperlEXLeggendeNascoste58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Cyndaquil",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/c/c8/CyndaquilEXLeggendeNascoste59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Doduo",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/05/DoduoEXLeggendeNascoste60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Feebas",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/FeebasEXLeggendeNascoste61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Gulpin",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/GulpinEXLeggendeNascoste62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/JigglypuffEXLeggendeNascoste63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Machop",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/MachopEXLeggendeNascoste64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Meditite",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/MedititeEXLeggendeNascoste65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Meditite",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e0/MedititeEXLeggendeNascoste66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Minun",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/4f/MinunEXLeggendeNascoste67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Oddish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/OddishEXLeggendeNascoste68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Plusle",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/PlusleEXLeggendeNascoste69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Rhyhorn",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/RhyhornEXLeggendeNascoste70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Seedot",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/SeedotEXLeggendeNascoste71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Shuppet",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/ShuppetEXLeggendeNascoste72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Snorunt",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/SnoruntEXLeggendeNascoste73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Spheal",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/SphealEXLeggendeNascoste74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Staryu",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/StaryuEXLeggendeNascoste75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Surskit",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/e/eb/SurskitEXLeggendeNascoste76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Tentacool",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/TentacoolEXLeggendeNascoste77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Togepi",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/5/57/TogepiEXLeggendeNascoste78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Totodile",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/5/54/TotodileEXLeggendeNascoste79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/VoltorbEXLeggendeNascoste80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Vulpix",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/3/36/VulpixEXLeggendeNascoste81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Whismur",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e5/WhismurEXLeggendeNascoste82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/ZubatEXLeggendeNascoste83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Antico Macchinario Tecnico [Ghiaccio]",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/AnticoMacchinarioTecnicoGhiaccioEXLeggendeNascoste84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Antico Macchinario Tecnico [Roccia]",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/AnticoMacchinarioTecnicoRocciaEXLeggendeNascoste85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Antico Macchinario Tecnico [Acciaio]",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/AnticoMacchinarioTecnicoAcciaioEXLeggendeNascoste86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Tomba Antica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/TombaAnticaEXLeggendeNascoste87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Rovine Desertiche",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/RovineDeserticheEXLeggendeNascoste88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Isola Caverna",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/IsolaCavernaEXLeggendeNascoste89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Erba Vita",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/ErbaVitaEXLeggendeNascoste90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Tempesta Magnetica",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/TempestaMagneticaEXLeggendeNascoste91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Consiglio di Rocco",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/ConsigliodiRoccoEXLeggendeNascoste92.png"
+    },
+    {
+        "id": "093",
+        "name": "Groudon ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/GroudonexEXLeggendeNascoste93.png"
+    },
+    {
+        "id": "094",
+        "name": "Kyogre ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/KyogreexEXLeggendeNascoste94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Metagross ex",
+        "type": "steel",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/MetagrossexEXLeggendeNascoste95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Ninetales ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/NinetalesexEXLeggendeNascoste96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Regice ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a9/RegiceexEXLeggendeNascoste97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Regirock ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/RegirockexEXLeggendeNascoste98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Registeel ex",
+        "type": "steel",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/RegisteelexEXLeggendeNascoste99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Vileplume ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/VileplumeexEXLeggendeNascoste100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Wigglytuff ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/6/69/WigglytuffexEXLeggendeNascoste101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Groudon",
+        "type": "fighting",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/GroudonEXLeggendeNascoste102.jpg"
+    }
+]

@@ -1,0 +1,874 @@
+[
+    {
+        "id": "001",
+        "name": "Aggron",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/AggronEXRubino%26Zaffiro1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Beautifly",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/BeautiflyEXRubino%26Zaffiro2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Blaziken",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/d2/BlazikenEXRubino%26Zaffiro3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Camerupt",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/CameruptEXRubino%26Zaffiro4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Delcatty",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/7f/DelcattyEXRubino%26Zaffiro5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Dustox",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/DustoxEXRubino%26Zaffiro6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Gardevoir",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/GardevoirEXRubino%26Zaffiro7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Hariyama",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/HariyamaEXRubino%26Zaffiro8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Manectric",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/ManectricEXRubino%26Zaffiro9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Mightyena",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/2/28/MightyenaEXRubino%26Zaffiro10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Sceptile",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/1/1f/SceptileEXRubino%26Zaffiro11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Slaking",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/68/SlakingEXRubino%26Zaffiro12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Swampert",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/SwampertEXRubino%26Zaffiro13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Wailord",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c0/WailordEXRubino%26Zaffiro14.png"
+    },
+    {
+        "id": "015",
+        "name": "Blaziken",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/BlazikenEXRubino%26Zaffiro15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Breloom",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/BreloomEXRubino%26Zaffiro16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Donphan",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/DonphanEXRubino%26Zaffiro17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Nosepass",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/NosepassEXRubino%26Zaffiro18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Pelipper",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/PelipperEXRubino%26Zaffiro19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Sceptile",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/SceptileEXRubino%26Zaffiro20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Seaking",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/SeakingEXRubino%26Zaffiro21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Sharpedo",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/SharpedoEXRubino%26Zaffiro22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Swampert",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/SwampertEXRubino%26Zaffiro23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Weezing",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/1/11/WeezingEXRubino%26Zaffiro24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Aron",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/94/AronEXRubino%26Zaffiro25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Cascoon",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/CascoonEXRubino%26Zaffiro26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Combusken",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/CombuskenEXRubino%26Zaffiro27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Combusken",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/CombuskenEXRubino%26Zaffiro28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Delcatty",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/DelcattyEXRubino%26Zaffiro29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/ElectrikeEXRubino%26Zaffiro30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Grovyle",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/GrovyleEXRubino%26Zaffiro31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Grovyle",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/GrovyleEXRubino%26Zaffiro32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Hariyama",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b0/HariyamaEXRubino%26Zaffiro33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Kirlia",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/KirliaEXRubino%26Zaffiro34.png"
+    },
+    {
+        "id": "035",
+        "name": "Kirlia",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/KirliaEXRubino%26Zaffiro35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Lairon",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/LaironEXRubino%26Zaffiro36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Lairon",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/LaironEXRubino%26Zaffiro37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Linoone",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/LinooneEXRubino%26Zaffiro38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Manectric",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/ManectricEXRubino%26Zaffiro39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Marshtomp",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/MarshtompEXRubino%26Zaffiro40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Marshtomp",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/MarshtompEXRubino%26Zaffiro41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Mightyena",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/MightyenaEXRubino%26Zaffiro42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Silcoon",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/SilcoonEXRubino%26Zaffiro43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Skitty",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/SkittyEXRubino%26Zaffiro44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Slakoth",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/SlakothEXRubino%26Zaffiro45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Swellow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/SwellowEXRubino%26Zaffiro46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Vigoroth",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/VigorothEXRubino%26Zaffiro47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Wailmer",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/WailmerEXRubino%26Zaffiro48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Aron",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/AronEXRubino%26Zaffiro49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Aron",
+        "type": "steel",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f8/AronEXRubino%26Zaffiro50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Carvanha",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/2/28/CarvanhaEXRubino%26Zaffiro51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/0/01/ElectrikeEXRubino%26Zaffiro52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Electrike",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/0/0c/ElectrikeEXRubino%26Zaffiro53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Koffing",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/KoffingEXRubino%26Zaffiro54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Goldeen",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/GoldeenEXRubino%26Zaffiro55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Makuhita",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/MakuhitaEXRubino%26Zaffiro56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Makuhita",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/MakuhitaEXRubino%26Zaffiro57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Makuhita",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/MakuhitaEXRubino%26Zaffiro58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Mudkip",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/MudkipEXRubino%26Zaffiro59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Mudkip",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/MudkipEXRubino%26Zaffiro60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/NumelEXRubino%26Zaffiro61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Phanpy",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/PhanpyEXRubino%26Zaffiro62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/PoochyenaEXRubino%26Zaffiro63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/e3/PoochyenaEXRubino%26Zaffiro64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Poochyena",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/7/79/PoochyenaEXRubino%26Zaffiro65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Ralts",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/RaltsEXRubino%26Zaffiro66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Ralts",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/RaltsEXRubino%26Zaffiro67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Ralts",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/0/07/RaltsEXRubino%26Zaffiro68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Shroomish",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/ShroomishEXRubino%26Zaffiro69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Skitty",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e6/SkittyEXRubino%26Zaffiro70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Skitty",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/dc/SkittyEXRubino%26Zaffiro71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Taillow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/TaillowEXRubino%26Zaffiro72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Torchic",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/TorchicEXRubino%26Zaffiro73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Torchic",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/TorchicEXRubino%26Zaffiro74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Treecko",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Horada",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/TreeckoEXRubino%26Zaffiro75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Treecko",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c5/TreeckoEXRubino%26Zaffiro76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Wingull",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/WingullEXRubino%26Zaffiro77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Wurmple",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/WurmpleEXRubino%26Zaffiro78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Zigzagoon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/ZigzagoonEXRubino%26Zaffiro79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Rimozione di Energia 2",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/RimozionediEnergia2EXRubino%26Zaffiro80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Ripristina Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hideyuki Nakajima",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/RipristinaEnergiaEXRubino%26Zaffiro81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Scambio di Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/ScambiodiEnergiaEXRubino%26Zaffiro82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Lady Outing",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/LadyOutingEXRubino%26Zaffiro83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Baccaprugna",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/BaccaprugnaEXRubino%26Zaffiro84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Baccarancia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Kazuo Yazawa",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/BaccaranciaEXRubino%26Zaffiro85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Poké Ball",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/7/79/Pok%C3%A9BallEXRubino%26Zaffiro86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Contropiede Pokémon",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/ContropiedePok%C3%A9monEXRubino%26Zaffiro87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "PokéNav",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/b/bf/Pok%C3%A9NavEXRubino%26Zaffiro88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Prof. Birch",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/c1/ProfBirchEXRubino%26Zaffiro89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Ricerca di Energia",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Kai Ishikawa",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/RicercadiEnergiaEXRubino%26Zaffiro90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Pozione Magica",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/PozioneMagicaEXRubino%26Zaffiro91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Scambio",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/ScambioEXRubino%26Zaffiro92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Energia Oscurità",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/8/82/EnergiaOscurit%C3%A0EXRubino%26Zaffiro93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Energia Metallo",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Milky Isobe",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/EnergiaMetalloEXRubino%26Zaffiro94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Energia Arcobaleno",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Takumi Akabane",
+        "image": "https://media.pokemoncentral.it/wiki/a/ac/EnergiaArcobalenoEXRubino%26Zaffiro95.png"
+    },
+    {
+        "id": "096",
+        "name": "Chansey ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Ryu Uead",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/ChanseyexEXRubino%26Zaffiro96.png"
+    },
+    {
+        "id": "097",
+        "name": "Electabuzz ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/ElectabuzzexEXRubino%26Zaffiro97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Hitmonchan ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/HitmonchanexEXRubino%26Zaffiro98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Lapras ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/LaprasexEXRubino%26Zaffiro99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Magmar ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/MagmarexEXRubino%26Zaffiro100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Mewtwo ex",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/d/d1/MewtwoexEXRubino%26Zaffiro101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Scyther ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/ScytherexEXRubino%26Zaffiro102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Sneasel ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/d/df/SneaselexEXRubino%26Zaffiro103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Energia Erba",
+        "type": "grass",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/6/6a/EnergiaErbaEXRubino%26Zaffiro104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Energia Combattimento",
+        "type": "fighting",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/9c/EnergiaCombattimentoEXRubino%26Zaffiro105.jpg"
+    },
+    {
+        "id": "106",
+        "name": "Energia Acqua",
+        "type": "water",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/EnergiaAcquaEXRubino%26Zaffiro106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Energia Psiche",
+        "type": "psychic",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/58/EnergiaPsicheEXRubino%26Zaffiro107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Energia Fuoco",
+        "type": "fire",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/EnergiaFuocoEXRubino%26Zaffiro108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Energia Lampo",
+        "type": "electric",
+        "rarity": "",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/EnergiaLampoEXRubino%26Zaffiro109.jpg"
+    }
+]

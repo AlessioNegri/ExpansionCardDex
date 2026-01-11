@@ -1,0 +1,802 @@
+[
+    {
+        "id": "001",
+        "name": "Absol",
+        "type": "dark",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/5/52/AbsolEXDrago1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Altaria",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/AltariaEXDrago2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Crawdaunt",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/CrawdauntEXDrago3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Flygon",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/FlygonEXDrago4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Golem",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/GolemEXDrago5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Grumpig",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/GrumpigEXDrago6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Minun",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/MinunEXDrago7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Plusle",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/PlusleEXDrago8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Roselia",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/RoseliaEXDrago9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Salamence",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/SalamenceEXDrago10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Shedinja",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/5e/ShedinjaEXDrago11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Torkoal",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/77/TorkoalEXDrago12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Crawdaunt",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/44/CrawdauntEXDrago13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Dragonair",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/9/96/DragonairEXDrago14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Flygon",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/FlygonEXDrago15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Girafarig",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/GirafarigEXDrago16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/MagnetonEXDrago17.png"
+    },
+    {
+        "id": "018",
+        "name": "Ninjask",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/4/4e/NinjaskEXDrago18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Salamence",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/SalamenceEXDrago19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Shelgon",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/83/ShelgonEXDrago20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Skarmory",
+        "type": "steel",
+        "rarity": "R",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/SkarmoryEXDrago21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Vibrava",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/VibravaEXDrago22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Bagon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/6f/BagonEXDrago23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Camerupt",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/CameruptEXDrago24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Combusken",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/CombuskenEXDrago25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/DratiniEXDrago26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/FlaaffyEXDrago27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Forretress",
+        "type": "steel",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/ForretressEXDrago28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/c/c2/GravelerEXDrago29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Graveler",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/GravelerEXDrago30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Grovyle",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/5d/GrovyleEXDrago31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Gyarados",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/GyaradosEXDrago32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Horsea",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/a/af/HorseaEXDrago33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Houndoom",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/HoundoomEXDrago34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/a/a0/MagnetonEXDrago35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Marshtomp",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b5/MarshtompEXDrago36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Meditite",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/7/7c/MedititeEXDrago37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Ninjask",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/NinjaskEXDrago38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/b/b0/SeadraEXDrago39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/SeadraEXDrago40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Shelgon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/ShelgonEXDrago41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Shelgon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/ShelgonEXDrago42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Shuppet",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Aya Kasube",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/ShuppetEXDrago43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Snorunt",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/SnoruntEXDrago44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Swellow",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4b/SwellowEXDrago45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Vibrava",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/VibravaEXDrago46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Vibrava",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/VibravaEXDrago47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Whiscash",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/WhiscashEXDrago48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Bagon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/BagonEXDrago49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Bagon",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/c/cb/BagonEXDrago50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Barboach",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/e/e8/BarboachEXDrago51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/f9/CorphishEXDrago52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/2/2a/CorphishEXDrago53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Corphish",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/9/98/CorphishEXDrago54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/GeodudeEXDrago55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Geodude",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/GeodudeEXDrago56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Grimer",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/GrimerEXDrago57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Horsea",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/HorseaEXDrago58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Houndour",
+        "type": "dark",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/HoundourEXDrago59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/MagikarpEXDrago60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/MagnemiteEXDrago61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/b2/MagnemiteEXDrago62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/7/71/MagnemiteEXDrago63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/2/20/MareepEXDrago64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Mudkip",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/e/ed/MudkipEXDrago65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Nincada",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/NincadaEXDrago66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Nincada",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/NincadaEXDrago67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Nincada",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/NincadaEXDrago68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/NumelEXDrago69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Numel",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/8/8c/NumelEXDrago70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Pineco",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/18/PinecoEXDrago71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/7/74/SlugmaEXDrago72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Spoink",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/SpoinkEXDrago73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Spoink",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/SpoinkEXDrago74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Swablu",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/50/SwabluEXDrago75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Taillow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/TaillowEXDrago76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Torchic",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Hironobu Yoshida",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/TorchicEXDrago77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Trapinch",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/8/8f/TrapinchEXDrago78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Trapinch",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/TrapinchEXDrago79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Treecko",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/TreeckoEXDrago80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Wurmple",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/WurmpleEXDrago81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Bacca Pallone",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/BaccaPalloneEXDrago82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Paracolpi",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/ParacolpiEXDrago83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Sistema di Riciclo dell'Energia",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Zu-Ka",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/SistemadiRiciclodell%27EnergiaEXDrago84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Sistema di Alta Pressione",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/SistemadiAltaPressioneEXDrago85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Sistema di Bassa Pressione",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Shin-ichi Yoshikawa",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/SistemadiBassaPressioneEXDrago86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Compassione del Sig. Marino",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/CompassionedelSigMarinoEXDrago87.jpg"
+    },
+    {
+        "id": "088",
+        "name": "Reporter Televisivo",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/2/20/ReporterTelevisivoEXDrago88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Ampharos ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/0/03/AmpharosexEXDrago89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Dragonite ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/DragoniteexEXDrago90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Golem ex",
+        "type": "fighting",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/GolemexEXDrago91.png"
+    },
+    {
+        "id": "092",
+        "name": "Kingdra ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/KingdraexEXDrago92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Latias ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/LatiasexEXDrago93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Latios ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/LatiosexEXDrago94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Magcargo ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/MagcargoexEXDrago95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "Muk ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/1/1b/MukexEXDrago96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Rayquaza ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Hiraku Koike",
+        "image": "https://media.pokemoncentral.it/wiki/6/6c/RayquazaexEXDrago97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/CharmanderEXDrago98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/7/78/CharmeleonEXDrago99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Charizard",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/CharizardEXDrago100.jpg"
+    }
+]

@@ -330,6 +330,174 @@
             ]
         },
         {
+            "name": "Serie EX",
+            "fromColor": "#A00000",
+            "toColor": "#0000A0",
+            "expansions":
+            [
+                {
+                    "name": "EX Rubino & Zaffiro",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-ruby-and-sapphire-pokemon-set-symbol.png",
+                    "code": "RS",
+                    "type": "M",
+                    "releaseDate": "2003-01-01",
+                    "totalCards": 109,
+                    "regularCards": 109,
+                    "secretCards": 0,
+                    "fromColor": "#A00000",
+                    "toColor": "#680000",
+                    "image": "https://media.pokemoncentral.it/wiki/9/94/Logo_EX_Rubino_%26_Zaffiro.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/thumb/4/48/Pacchetto_EX_Rubino_%26_Zaffiro_Sceptile.jpg/800px-Pacchetto_EX_Rubino_%26_Zaffiro_Sceptile.jpg",
+                        "https://media.pokemoncentral.it/wiki/thumb/7/74/Pacchetto_EX_Rubino_%26_Zaffiro_Mightyena.jpg/800px-Pacchetto_EX_Rubino_%26_Zaffiro_Mightyena.jpg",
+                        "https://media.pokemoncentral.it/wiki/thumb/1/18/Pacchetto_EX_Rubino_%26_Zaffiro_Lairon.jpg/800px-Pacchetto_EX_Rubino_%26_Zaffiro_Lairon.jpg",
+                        "https://media.pokemoncentral.it/wiki/thumb/8/82/Pacchetto_EX_Rubino_%26_Zaffiro_Manectric.jpg/800px-Pacchetto_EX_Rubino_%26_Zaffiro_Manectric.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Tempesta di Sabbia",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-sandstorm-pokemon-set-symbol.png",
+                    "code": "SS",
+                    "type": "M",
+                    "releaseDate": "2004-01-01",
+                    "totalCards": 100,
+                    "regularCards": 100,
+                    "secretCards": 0,
+                    "fromColor": "#D6BD7C",
+                    "toColor": "#B59B59",
+                    "image": "https://media.pokemoncentral.it/wiki/f/f7/Logo_EX_Tempesta_di_Sabbia.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/6/65/Pacchetto_EX_Tempesta_di_Sabbia_Dusclops.jpg",
+                        "https://media.pokemoncentral.it/wiki/9/98/Pacchetto_EX_Tempesta_di_Sabbia_Seviper.jpg",
+                        "https://media.pokemoncentral.it/wiki/a/a4/Pacchetto_EX_Tempesta_di_Sabbia_Shiftry.jpg",
+                        "https://media.pokemoncentral.it/wiki/b/bc/Pacchetto_EX_Tempesta_di_Sabbia_Zangoose.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Drago",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-dragon-pokemon-set-symbol.png",
+                    "code": "DR",
+                    "type": "M",
+                    "releaseDate": "2004-01-01",
+                    "totalCards": 100,
+                    "regularCards": 97,
+                    "secretCards": 3,
+                    "fromColor": "#BEDEE3",
+                    "toColor": "#05B7E3",
+                    "image": "https://media.pokemoncentral.it/wiki/8/80/Logo_EX_Drago.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/6/60/EX3_Booster_Absol.jpg",
+                        "https://media.pokemoncentral.it/wiki/thumb/4/4d/Pacchetto_EX_Drago_Latias.jpg/800px-Pacchetto_EX_Drago_Latias.jpg",
+                        "https://media.pokemoncentral.it/wiki/e/e2/EX3_Booster_Latios.jpg",
+                        "https://media.pokemoncentral.it/wiki/6/62/EX3_Booster_Rayquaza.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Team Magma vs Team Idro",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-team-magma-vs-team-aqua-pokemon-set-symbol.png",
+                    "code": "MA",
+                    "type": "M",
+                    "releaseDate": "2005-01-01",
+                    "totalCards": 97,
+                    "regularCards": 95,
+                    "secretCards": 2,
+                    "fromColor": "#E24242",
+                    "toColor": "#932B2B",
+                    "image": "https://media.pokemoncentral.it/wiki/d/d8/Logo_EX_Team_Magma_vs_Team_Idro_EN.gif",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/d/d4/EX4_Booster_Houndoom.jpg",
+                        "https://media.pokemoncentral.it/wiki/4/47/EX4_Booster_Aggron.jpg",
+                        "https://media.pokemoncentral.it/wiki/c/c4/EX4_Booster_Sharpedo.jpg",
+                        "https://media.pokemoncentral.it/wiki/f/f9/EX4_Booster_Walrein.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Leggende Nascoste",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-hidden-legends-pokemon-set-symbol.png",
+                    "code": "HL",
+                    "type": "M",
+                    "releaseDate": "2005-01-01",
+                    "totalCards": 102,
+                    "regularCards": 101,
+                    "secretCards": 1,
+                    "fromColor": "#949391",
+                    "toColor": "#555555",
+                    "image": "https://media.pokemoncentral.it/wiki/2/20/Logo_EX_Leggende_Nascoste.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/8/89/EX5_Booster_Metagross.jpg",
+                        "https://media.pokemoncentral.it/wiki/f/f3/EX5_Booster_Regirock.jpg",
+                        "https://media.pokemoncentral.it/wiki/c/c5/EX5_Booster_Regice.jpg",
+                        "https://media.pokemoncentral.it/wiki/a/a6/EX5_Booster_Registeel.jpg"
+                    ]
+                },
+                {
+                    "name": "EX RossoFuoco e VerdeFoglia",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-fire-red-and-leaf-green-pokemon-set-symbol.png",
+                    "code": "FG",
+                    "type": "M",
+                    "releaseDate": "2005-01-01",
+                    "totalCards": 116,
+                    "regularCards": 112,
+                    "secretCards": 4,
+                    "fromColor": "#FF7327",
+                    "toColor": "#A64B19",
+                    "image": "https://media.pokemoncentral.it/wiki/c/c6/Logo_EX_RossoFuoco_e_VerdeFoglia.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/f/fc/EX6_Booster_Venusaur.jpg",
+                        "https://media.pokemoncentral.it/wiki/3/3f/EX6_Booster_Charizard.jpg",
+                        "https://media.pokemoncentral.it/wiki/4/4a/EX6_Booster_Blastoise.jpg",
+                        "https://media.pokemoncentral.it/wiki/a/a1/EX6_Booster_Pikachu.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Team Rocket Returns",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-team-rocket-returns-pokemon-set-symbol.png",
+                    "code": "TRR",
+                    "type": "M",
+                    "releaseDate": "0000-00-00",
+                    "totalCards": 111,
+                    "regularCards": 109,
+                    "secretCards": 2,
+                    "fromColor": "#EF7E42",
+                    "toColor": "#8A4639",
+                    "image": "https://media.pokemoncentral.it/wiki/0/0b/Logo_EX_Team_Rocket_Returns.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/0/05/Ex_Team_Rocket_Returns_-_Booster_Pack_-_Gyarados.jpg",
+                        "https://media.pokemoncentral.it/wiki/d/d7/Ex_Team_Rocket_Returns_-_Booster_Pack_-_Mewtwo.jpg",
+                        "https://media.pokemoncentral.it/wiki/3/30/Ex_Team_Rocket_Returns_-_Booster_Pack_-_Scyther.jpg",
+                        "https://media.pokemoncentral.it/wiki/c/cc/Ex_Team_Rocket_Returns_-_Booster_Pack_-_Tyranitar.jpg"
+                    ]
+                },
+                {
+                    "name": "EX Deoxys",
+                    "symbol": "https://cdn-cardmavin.mavin.io/wp-content/uploads/2017/03/ex-deoxys-pokemon-set-symbol-150x150.png",
+                    "code": "DX",
+                    "type": "M",
+                    "releaseDate": "2005-01-01",
+                    "totalCards": 108,
+                    "regularCards": 107,
+                    "secretCards": 1,
+                    "fromColor": "#FF734A",
+                    "toColor": "#9D5353",
+                    "image": "https://media.pokemoncentral.it/wiki/0/05/Logo_EX_Deoxys.png",
+                    "packImages":
+                    [
+                        "https://media.pokemoncentral.it/wiki/0/0f/EX8_Booster_Deoxys_Normal.jpg",
+                        "https://media.pokemoncentral.it/wiki/1/1d/EX8_Booster_Deoxys_Attack.jpg",
+                        "https://media.pokemoncentral.it/wiki/1/15/EX8_Booster_Deoxys_Defense.jpg",
+                        "https://media.pokemoncentral.it/wiki/2/25/EX8_Booster_Rayquaza.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Scarlatto e Violetto",
             "fromColor": "#D90D19",
             "toColor": "#842F8C",

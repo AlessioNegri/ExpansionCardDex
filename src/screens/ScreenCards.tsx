@@ -7,28 +7,39 @@ import { CardData } from '../interfaces/ItemCard.types';
 
 import ItemCard from "../shared/ItemCard";
 
-import SB from '../../assets/cards/SB.json';
-import JU from '../../assets/cards/JU.json';
-import FO from '../../assets/cards/FO.json';
-import B2 from '../../assets/cards/B2.json';
-import TR from '../../assets/cards/TR.json';
-import G1 from '../../assets/cards/G1.json';
-import G2 from '../../assets/cards/G2.json';
+import SB from '../../assets/cards/serie_originale/SB.json';
+import JU from '../../assets/cards/serie_originale/JU.json';
+import FO from '../../assets/cards/serie_originale/FO.json';
+import B2 from '../../assets/cards/serie_originale/B2.json';
+import TR from '../../assets/cards/serie_originale/TR.json';
+import G1 from '../../assets/cards/serie_originale/G1.json';
+import G2 from '../../assets/cards/serie_originale/G2.json';
 
-import N1 from '../../assets/cards/N1.json';
-import N2 from '../../assets/cards/N2.json';
-import N3 from '../../assets/cards/N3.json';
-import N4 from '../../assets/cards/N4.json';
+import N1 from '../../assets/cards/serie_neo/N1.json';
+import N2 from '../../assets/cards/serie_neo/N2.json';
+import N3 from '../../assets/cards/serie_neo/N3.json';
+import N4 from '../../assets/cards/serie_neo/N4.json';
 
-import LC from '../../assets/cards/LC.json';
+import LC from '../../assets/cards/serie_legendary_collection/LC.json';
 
-import EX from '../../assets/cards/EX.json';
-import AQ from '../../assets/cards/AQ.json';
-import SK from '../../assets/cards/SK.json';
+import EX from '../../assets/cards/serie_e_card/EX.json';
+import AQ from '../../assets/cards/serie_e_card/AQ.json';
+import SK from '../../assets/cards/serie_e_card/SK.json';
 
-import MEG from '../../assets/cards/MEG.json';
-import PFL from '../../assets/cards/PFL.json';
-import SVE from '../../assets/cards/SVE.json';
+import RS from '../../assets/cards/serie_ex/RS.json';
+import SS from '../../assets/cards/serie_ex/SS.json';
+import DR from '../../assets/cards/serie_ex/DR.json';
+import MA from '../../assets/cards/serie_ex/MA.json';
+import HL from '../../assets/cards/serie_ex/HL.json';
+import FG from '../../assets/cards/serie_ex/FG.json';
+import TRR from '../../assets/cards/serie_ex/TRR.json';
+import DX from '../../assets/cards/serie_ex/DX.json';
+
+import MEG from '../../assets/cards/megaevoluzione/MEG.json';
+import PFL from '../../assets/cards/megaevoluzione/PFL.json';
+
+import SVE from '../../assets/cards/energie/SVE.json';
+
 import { LinearGradient } from "expo-linear-gradient";
 import fetchCardPrice from "../utility/CardPrice";
 
@@ -102,6 +113,15 @@ export default function ScreenCards({ navigation, route } : NativeStackScreenPro
     else if (route.params.data.code === 'EX') cardList = EX;
     else if (route.params.data.code === 'AQ') cardList = AQ;
     else if (route.params.data.code === 'SK') cardList = SK;
+
+    else if (route.params.data.code === 'RS') cardList = RS;
+    else if (route.params.data.code === 'SS') cardList = SS;
+    else if (route.params.data.code === 'DR') cardList = DR;
+    else if (route.params.data.code === 'MA') cardList = MA;
+    else if (route.params.data.code === 'HL') cardList = HL;
+    else if (route.params.data.code === 'FG') cardList = FG;
+    else if (route.params.data.code === 'TRR') cardList = TRR;
+    else if (route.params.data.code === 'DX') cardList = DX;
 
     else if (route.params.data.code === 'MEG') cardList = MEG;
     else if (route.params.data.code === 'PFL') cardList = PFL;

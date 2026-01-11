@@ -1,0 +1,930 @@
+[
+    {
+        "id": "001",
+        "name": "Beedrill",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/1/1e/BeedrillEXRossoFuocoeVerdeFoglia1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Butterfree",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/ButterfreeEXRossoFuocoeVerdeFoglia2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Dewgong",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/1/15/DewgongEXRossoFuocoeVerdeFoglia3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Ditto",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/DittoEXRossoFuocoeVerdeFoglia4.png"
+    },
+    {
+        "id": "005",
+        "name": "Exeggutor",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/ExeggutorEXRossoFuocoeVerdeFoglia5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Kangaskhan",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/KangaskhanEXRossoFuocoeVerdeFoglia6.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Marowak",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/MarowakEXRossoFuocoeVerdeFoglia7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Nidoking",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/2/22/NidokingEXRossoFuocoeVerdeFoglia8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Nidoqueen",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/2/24/NidoqueenEXRossoFuocoeVerdeFoglia9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Pidgeot",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/9/9a/PidgeotEXRossoFuocoeVerdeFoglia10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Poliwrath",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fe/PoliwrathEXRossoFuocoeVerdeFoglia11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Raichu",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/RaichuEXRossoFuocoeVerdeFoglia12.jpg"
+    },
+    {
+        "id": "013",
+        "name": "Rapidash",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/RapidashEXRossoFuocoeVerdeFoglia13.jpg"
+    },
+    {
+        "id": "014",
+        "name": "Slowbro",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/3/3f/SlowbroEXRossoFuocoeVerdeFoglia14.jpg"
+    },
+    {
+        "id": "015",
+        "name": "Snorlax",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/5/53/SnorlaxEXRossoFuocoeVerdeFoglia15.jpg"
+    },
+    {
+        "id": "016",
+        "name": "Tauros",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/TaurosEXRossoFuocoeVerdeFoglia16.jpg"
+    },
+    {
+        "id": "017",
+        "name": "Victreebel",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/9e/VictreebelEXRossoFuocoeVerdeFoglia17.jpg"
+    },
+    {
+        "id": "018",
+        "name": "Arcanine",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/ArcanineEXRossoFuocoeVerdeFoglia18.jpg"
+    },
+    {
+        "id": "019",
+        "name": "Chansey",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/1/13/ChanseyEXRossoFuocoeVerdeFoglia19.jpg"
+    },
+    {
+        "id": "020",
+        "name": "Cloyster",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/CloysterEXRossoFuocoeVerdeFoglia20.jpg"
+    },
+    {
+        "id": "021",
+        "name": "Dodrio",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/f0/DodrioEXRossoFuocoeVerdeFoglia21.jpg"
+    },
+    {
+        "id": "022",
+        "name": "Dugtrio",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/DugtrioEXRossoFuocoeVerdeFoglia22.jpg"
+    },
+    {
+        "id": "023",
+        "name": "Farfetch'd",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/FarfetchdEXRossoFuocoeVerdeFoglia23.jpg"
+    },
+    {
+        "id": "024",
+        "name": "Fearow",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/FearowEXRossoFuocoeVerdeFoglia24.jpg"
+    },
+    {
+        "id": "025",
+        "name": "Hypno",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/b/b6/HypnoEXRossoFuocoeVerdeFoglia25.jpg"
+    },
+    {
+        "id": "026",
+        "name": "Kingler",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/b/bd/KinglerEXRossoFuocoeVerdeFoglia26.jpg"
+    },
+    {
+        "id": "027",
+        "name": "Magneton",
+        "type": "electric",
+        "rarity": "R",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/6e/MagnetonEXRossoFuocoeVerdeFoglia27.jpg"
+    },
+    {
+        "id": "028",
+        "name": "Primeape",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/PrimeapeEXRossoFuocoeVerdeFoglia28.jpg"
+    },
+    {
+        "id": "029",
+        "name": "Scyther",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/5/5a/ScytherEXRossoFuocoeVerdeFoglia29.jpg"
+    },
+    {
+        "id": "030",
+        "name": "Tangela",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/f/f3/TangelaEXRossoFuocoeVerdeFoglia30.jpg"
+    },
+    {
+        "id": "031",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/3/37/CharmeleonEXRossoFuocoeVerdeFoglia31.jpg"
+    },
+    {
+        "id": "032",
+        "name": "Drowzee",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/0/09/DrowzeeEXRossoFuocoeVerdeFoglia32.jpg"
+    },
+    {
+        "id": "033",
+        "name": "Exeggcute",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/a/ab/ExeggcuteEXRossoFuocoeVerdeFoglia33.jpg"
+    },
+    {
+        "id": "034",
+        "name": "Haunter",
+        "type": "psychic",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/HaunterEXRossoFuocoeVerdeFoglia34.jpg"
+    },
+    {
+        "id": "035",
+        "name": "Ivysaur",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/a/a0/IvysaurEXRossoFuocoeVerdeFoglia35.jpg"
+    },
+    {
+        "id": "036",
+        "name": "Kakuna",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/KakunaEXRossoFuocoeVerdeFoglia36.jpg"
+    },
+    {
+        "id": "037",
+        "name": "Lickitung",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/LickitungEXRossoFuocoeVerdeFoglia37.jpg"
+    },
+    {
+        "id": "038",
+        "name": "Mankey",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/5/5b/MankeyEXRossoFuocoeVerdeFoglia38.jpg"
+    },
+    {
+        "id": "039",
+        "name": "Metapod",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/b/b9/MetapodEXRossoFuocoeVerdeFoglia39.jpg"
+    },
+    {
+        "id": "040",
+        "name": "Nidorina",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/4/48/NidorinaEXRossoFuocoeVerdeFoglia40.jpg"
+    },
+    {
+        "id": "041",
+        "name": "Nidorino",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/1/1d/NidorinoEXRossoFuocoeVerdeFoglia41.jpg"
+    },
+    {
+        "id": "042",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/de/OnixEXRossoFuocoeVerdeFoglia42.jpg"
+    },
+    {
+        "id": "043",
+        "name": "Parasect",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/e/e7/ParasectEXRossoFuocoeVerdeFoglia43.jpg"
+    },
+    {
+        "id": "044",
+        "name": "Persian",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/c/cd/PersianEXRossoFuocoeVerdeFoglia44.jpg"
+    },
+    {
+        "id": "045",
+        "name": "Pidgeotto",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/6/6d/PidgeottoEXRossoFuocoeVerdeFoglia45.jpg"
+    },
+    {
+        "id": "046",
+        "name": "Poliwhirl",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/PoliwhirlEXRossoFuocoeVerdeFoglia46.jpg"
+    },
+    {
+        "id": "047",
+        "name": "Porygon",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Tomoaki Imakuni",
+        "image": "https://media.pokemoncentral.it/wiki/8/8b/PorygonEXRossoFuocoeVerdeFoglia47.jpg"
+    },
+    {
+        "id": "048",
+        "name": "Raticate",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/1/14/RaticateEXRossoFuocoeVerdeFoglia48.jpg"
+    },
+    {
+        "id": "049",
+        "name": "Venomoth",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/4/42/VenomothEXRossoFuocoeVerdeFoglia49.jpg"
+    },
+    {
+        "id": "050",
+        "name": "Wartortle",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4f/WartortleEXRossoFuocoeVerdeFoglia50.jpg"
+    },
+    {
+        "id": "051",
+        "name": "Weepinbell",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/WeepinbellEXRossoFuocoeVerdeFoglia51.jpg"
+    },
+    {
+        "id": "052",
+        "name": "Wigglytuff",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/a/aa/WigglytuffEXRossoFuocoeVerdeFoglia52.jpg"
+    },
+    {
+        "id": "053",
+        "name": "Bellsprout",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/BellsproutEXRossoFuocoeVerdeFoglia53.jpg"
+    },
+    {
+        "id": "054",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/BulbasaurEXRossoFuocoeVerdeFoglia54.jpg"
+    },
+    {
+        "id": "055",
+        "name": "Bulbasaur",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/BulbasaurEXRossoFuocoeVerdeFoglia55.jpg"
+    },
+    {
+        "id": "056",
+        "name": "Caterpie",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/3/31/CaterpieEXRossoFuocoeVerdeFoglia56.jpg"
+    },
+    {
+        "id": "057",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/c/c9/CharmanderEXRossoFuocoeVerdeFoglia57.jpg"
+    },
+    {
+        "id": "058",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/CharmanderEXRossoFuocoeVerdeFoglia58.jpg"
+    },
+    {
+        "id": "059",
+        "name": "Clefairy",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/ClefairyEXRossoFuocoeVerdeFoglia59.jpg"
+    },
+    {
+        "id": "060",
+        "name": "Cubone",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/CuboneEXRossoFuocoeVerdeFoglia60.jpg"
+    },
+    {
+        "id": "061",
+        "name": "Diglett",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/DiglettEXRossoFuocoeVerdeFoglia61.jpg"
+    },
+    {
+        "id": "062",
+        "name": "Doduo",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/DoduoEXRossoFuocoeVerdeFoglia62.jpg"
+    },
+    {
+        "id": "063",
+        "name": "Gastly",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/50/GastlyEXRossoFuocoeVerdeFoglia63.jpg"
+    },
+    {
+        "id": "064",
+        "name": "Growlithe",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/GrowlitheEXRossoFuocoeVerdeFoglia64.jpg"
+    },
+    {
+        "id": "065",
+        "name": "Jigglypuff",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/f/f7/JigglypuffEXRossoFuocoeVerdeFoglia65.jpg"
+    },
+    {
+        "id": "066",
+        "name": "Krabby",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/KrabbyEXRossoFuocoeVerdeFoglia66.jpg"
+    },
+    {
+        "id": "067",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/MagikarpEXRossoFuocoeVerdeFoglia67.jpg"
+    },
+    {
+        "id": "068",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/MagnemiteEXRossoFuocoeVerdeFoglia68.jpg"
+    },
+    {
+        "id": "069",
+        "name": "Meowth",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Masakazu Fukuda",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/MeowthEXRossoFuocoeVerdeFoglia69.jpg"
+    },
+    {
+        "id": "070",
+        "name": "Nidoran ♀",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Naoyo Kimura",
+        "image": "https://media.pokemoncentral.it/wiki/4/46/NidoranEXRossoFuocoeVerdeFoglia70.jpg"
+    },
+    {
+        "id": "071",
+        "name": "Nidoran♂",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/NidoranEXRossoFuocoeVerdeFoglia71.jpg"
+    },
+    {
+        "id": "072",
+        "name": "Paras",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/d/d5/ParasEXRossoFuocoeVerdeFoglia72.jpg"
+    },
+    {
+        "id": "073",
+        "name": "Pidgey",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/PidgeyEXRossoFuocoeVerdeFoglia73.jpg"
+    },
+    {
+        "id": "074",
+        "name": "Pikachu",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/e/ef/PikachuEXRossoFuocoeVerdeFoglia74.jpg"
+    },
+    {
+        "id": "075",
+        "name": "Poliwag",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/PoliwagEXRossoFuocoeVerdeFoglia75.jpg"
+    },
+    {
+        "id": "076",
+        "name": "Ponyta",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/3a/PonytaEXRossoFuocoeVerdeFoglia76.jpg"
+    },
+    {
+        "id": "077",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/b/b8/RattataEXRossoFuocoeVerdeFoglia77.jpg"
+    },
+    {
+        "id": "078",
+        "name": "Seel",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/3/3d/SeelEXRossoFuocoeVerdeFoglia78.jpg"
+    },
+    {
+        "id": "079",
+        "name": "Shellder",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/ShellderEXRossoFuocoeVerdeFoglia79.jpg"
+    },
+    {
+        "id": "080",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/d/d0/SlowpokeEXRossoFuocoeVerdeFoglia80.jpg"
+    },
+    {
+        "id": "081",
+        "name": "Spearow",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Hisao Nakamura",
+        "image": "https://media.pokemoncentral.it/wiki/e/e9/SpearowEXRossoFuocoeVerdeFoglia81.jpg"
+    },
+    {
+        "id": "082",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Toshinao Aoki",
+        "image": "https://media.pokemoncentral.it/wiki/9/97/SquirtleEXRossoFuocoeVerdeFoglia82.jpg"
+    },
+    {
+        "id": "083",
+        "name": "Squirtle",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/SquirtleEXRossoFuocoeVerdeFoglia83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Venonat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/73/VenonatEXRossoFuocoeVerdeFoglia84.jpg"
+    },
+    {
+        "id": "085",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/VoltorbEXRossoFuocoeVerdeFoglia85.jpg"
+    },
+    {
+        "id": "086",
+        "name": "Weedle",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Hajime Kusajima",
+        "image": "https://media.pokemoncentral.it/wiki/6/61/WeedleEXRossoFuocoeVerdeFoglia86.jpg"
+    },
+    {
+        "id": "087",
+        "name": "Sostegno di Bill",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8d/SostegnodiBillEXRossoFuocoeVerdeFoglia87.png"
+    },
+    {
+        "id": "088",
+        "name": "Network di Celio",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/NetworkdiCelioEXRossoFuocoeVerdeFoglia88.jpg"
+    },
+    {
+        "id": "089",
+        "name": "Rimozione di Energia 2",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/RimozionediEnergia2EXRossoFuocoeVerdeFoglia89.jpg"
+    },
+    {
+        "id": "090",
+        "name": "Scambio di Energia",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Ikuji",
+        "image": "https://media.pokemoncentral.it/wiki/c/ce/ScambiodiEnergiaEXRossoFuocoeVerdeFoglia90.jpg"
+    },
+    {
+        "id": "091",
+        "name": "Distribuzione di Esperienza",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/c/ca/DistribuzionediEsperienzaEXRossoFuocoeVerdeFoglia91.jpg"
+    },
+    {
+        "id": "092",
+        "name": "Grande Palla",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/GrandePallaEXRossoFuocoeVerdeFoglia92.jpg"
+    },
+    {
+        "id": "093",
+        "name": "Erba Vita",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/ErbaVitaEXRossoFuocoeVerdeFoglia93.jpg"
+    },
+    {
+        "id": "094",
+        "name": "Monte Luna",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/MonteLunaEXRossoFuocoeVerdeFoglia94.jpg"
+    },
+    {
+        "id": "095",
+        "name": "Poké Ball",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "K. Hoshiba",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/Pok%C3%A9BallEXRossoFuocoeVerdeFoglia95.jpg"
+    },
+    {
+        "id": "096",
+        "name": "PokéDex HANDY909",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/8/88/Pok%C3%A9DexHANDY909EXRossoFuocoeVerdeFoglia96.jpg"
+    },
+    {
+        "id": "097",
+        "name": "Contropiede Pokémon",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/ContropiedePok%C3%A9monEXRossoFuocoeVerdeFoglia97.jpg"
+    },
+    {
+        "id": "098",
+        "name": "La Ricerca del Professor Oak",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/3/32/LaRicercadelProfessorOakEXRossoFuocoeVerdeFoglia98.jpg"
+    },
+    {
+        "id": "099",
+        "name": "Super Recupero",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d7/SuperRecuperoEXRossoFuocoeVerdeFoglia99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "Cercasfide",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "K. Utsunomiya",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/CercasfideEXRossoFuocoeVerdeFoglia100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "Pozione Magica",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Keiji Kinebuchi",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/PozioneMagicaEXRossoFuocoeVerdeFoglia101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "Scambio",
+        "type": "trainer",
+        "rarity": "C",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/f/f5/ScambioEXRossoFuocoeVerdeFoglia102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "Multienergia",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Takumi Akabane",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/MultienergiaEXRossoFuocoeVerdeFoglia103.jpg"
+    },
+    {
+        "id": "104",
+        "name": "Blastoise ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/4/43/BlastoiseexEXRossoFuocoeVerdeFoglia104.jpg"
+    },
+    {
+        "id": "105",
+        "name": "Charizard ex",
+        "type": "fire",
+        "rarity": "RHEX",
+        "illustrator": "Hiromichi Sugiyama",
+        "image": "https://media.pokemoncentral.it/wiki/6/6b/CharizardexEXRossoFuocoeVerdeFoglia105.png"
+    },
+    {
+        "id": "106",
+        "name": "Clefable ex",
+        "type": "colorless",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/ClefableexEXRossoFuocoeVerdeFoglia106.jpg"
+    },
+    {
+        "id": "107",
+        "name": "Electrode ex",
+        "type": "electric",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/c/c3/ElectrodeexEXRossoFuocoeVerdeFoglia107.jpg"
+    },
+    {
+        "id": "108",
+        "name": "Gengar ex",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/c/c6/GengarexEXRossoFuocoeVerdeFoglia108.jpg"
+    },
+    {
+        "id": "109",
+        "name": "Gyarados ex",
+        "type": "water",
+        "rarity": "RHEX",
+        "illustrator": "Hikaru Koike",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/GyaradosexEXRossoFuocoeVerdeFoglia109.png"
+    },
+    {
+        "id": "110",
+        "name": "Mr. Mime ex",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/b/ba/MrMimeexEXRossoFuocoeVerdeFoglia110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Mr. Mime ex",
+        "type": "psychic",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/b/b3/MrMimeexEXRossoFuocoeVerdeFoglia111.jpg"
+    },
+    {
+        "id": "112",
+        "name": "Venusaur ex",
+        "type": "grass",
+        "rarity": "RHEX",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/6/63/VenusaurexEXRossoFuocoeVerdeFoglia112.png"
+    },
+    {
+        "id": "113",
+        "name": "Charmander",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/CharmanderEXRossoFuocoeVerdeFoglia113.jpg"
+    },
+    {
+        "id": "114",
+        "name": "Articuno ex",
+        "type": "water",
+        "rarity": "RS",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/57/ArticunoexEXRossoFuocoeVerdeFoglia114.jpg"
+    },
+    {
+        "id": "115",
+        "name": "Moltres ex",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/0/0a/MoltresexEXRossoFuocoeVerdeFoglia115.jpg"
+    },
+    {
+        "id": "116",
+        "name": "Zapdos ex",
+        "type": "electric",
+        "rarity": "RS",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/ZapdosexEXRossoFuocoeVerdeFoglia116.jpg"
+    }
+]

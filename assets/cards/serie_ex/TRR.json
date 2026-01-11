@@ -1,0 +1,890 @@
+[
+    {
+        "id": "001",
+        "name": "Azumarill",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/b/b4/AzumarillEXTeamRocketReturns1.png"
+    },
+    {
+        "id": "002",
+        "name": "Dark Ampharos",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/4a/DarkAmpharosEXTeamRocketReturns2.png"
+    },
+    {
+        "id": "003",
+        "name": "Dark Crobat",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/08/DarkCrobatEXTeamRocketReturns3.png"
+    },
+    {
+        "id": "004",
+        "name": "Dark Electrode",
+        "type": "electric",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/a/a7/DarkElectrodeEXTeamRocketReturns4.png"
+    },
+    {
+        "id": "005",
+        "name": "Dark Houndoom",
+        "type": "fire",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/DarkHoundoomEXTeamRocketReturns5.png"
+    },
+    {
+        "id": "006",
+        "name": "Dark Hypno",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/3/33/DarkHypnoEXTeamRocketReturns6.png"
+    },
+    {
+        "id": "007",
+        "name": "Dark Marowak",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/a/a3/DarkMarowakEXTeamRocketReturns7.png"
+    },
+    {
+        "id": "008",
+        "name": "Dark Octillery",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/DarkOctilleryEXTeamRocketReturns8.png"
+    },
+    {
+        "id": "009",
+        "name": "Dark Slowking",
+        "type": "psychic",
+        "rarity": "RH",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/8/8a/DarkSlowkingEXTeamRocketReturns9.png"
+    },
+    {
+        "id": "010",
+        "name": "Dark Steelix",
+        "type": "steel",
+        "rarity": "RH",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/DarkSteelixEXTeamRocketReturns10.png"
+    },
+    {
+        "id": "011",
+        "name": "Jumpluff",
+        "type": "grass",
+        "rarity": "RH",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/e/ec/JumpluffEXTeamRocketReturns11.png"
+    },
+    {
+        "id": "012",
+        "name": "Kingdra",
+        "type": "water",
+        "rarity": "RH",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/8/89/KingdraEXTeamRocketReturns12.png"
+    },
+    {
+        "id": "013",
+        "name": "Piloswine",
+        "type": "fighting",
+        "rarity": "RH",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/9/90/PiloswineEXTeamRocketReturns13.png"
+    },
+    {
+        "id": "014",
+        "name": "Togetic",
+        "type": "colorless",
+        "rarity": "RH",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/TogeticEXTeamRocketReturns14.png"
+    },
+    {
+        "id": "015",
+        "name": "Dark Dragonite",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/9/9f/DarkDragoniteEXTeamRocketReturns15.png"
+    },
+    {
+        "id": "016",
+        "name": "Dark Muk",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/DarkMukEXTeamRocketReturns16.png"
+    },
+    {
+        "id": "017",
+        "name": "Dark Raticate",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/b/b7/DarkRaticateEXTeamRocketReturns17.png"
+    },
+    {
+        "id": "018",
+        "name": "Dark Sandslash",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/b/bc/DarkSandslashEXTeamRocketReturns18.png"
+    },
+    {
+        "id": "019",
+        "name": "Dark Tyranitar",
+        "type": "dark",
+        "rarity": "R",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/0/0f/DarkTyranitarEXTeamRocketReturns19.png"
+    },
+    {
+        "id": "020",
+        "name": "Dark Tyranitar",
+        "type": "fighting",
+        "rarity": "R",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/0d/DarkTyranitarEXTeamRocketReturns20.png"
+    },
+    {
+        "id": "021",
+        "name": "Delibird",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/DelibirdEXTeamRocketReturns21.png"
+    },
+    {
+        "id": "022",
+        "name": "Furret",
+        "type": "colorless",
+        "rarity": "R",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/FurretEXTeamRocketReturns22.png"
+    },
+    {
+        "id": "023",
+        "name": "Ledian",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/7e/LedianEXTeamRocketReturns23.png"
+    },
+    {
+        "id": "024",
+        "name": "Magby",
+        "type": "fire",
+        "rarity": "R",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/2/2c/MagbyEXTeamRocketReturns24.png"
+    },
+    {
+        "id": "025",
+        "name": "Misdreavus",
+        "type": "psychic",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/6/60/MisdreavusEXTeamRocketReturns25.png"
+    },
+    {
+        "id": "026",
+        "name": "Quagsire",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/0/04/QuagsireEXTeamRocketReturns26.png"
+    },
+    {
+        "id": "027",
+        "name": "Qwilfish",
+        "type": "water",
+        "rarity": "R",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/be/QwilfishEXTeamRocketReturns27.png"
+    },
+    {
+        "id": "028",
+        "name": "Yanma",
+        "type": "grass",
+        "rarity": "R",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/d/d9/YanmaEXTeamRocketReturns28.png"
+    },
+    {
+        "id": "029",
+        "name": "Dark Arbok",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/9/99/DarkArbokEXTeamRocketReturns29.png"
+    },
+    {
+        "id": "030",
+        "name": "Dark Ariados",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/5f/DarkAriadosEXTeamRocketReturns30.png"
+    },
+    {
+        "id": "031",
+        "name": "Dark Dragonair",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/36/DarkDragonairEXTeamRocketReturns31.png"
+    },
+    {
+        "id": "032",
+        "name": "Dark Dragonair",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/30/DarkDragonairEXTeamRocketReturns32.png"
+    },
+    {
+        "id": "033",
+        "name": "Dark Flaaffy",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d3/DarkFlaaffyEXTeamRocketReturns33.png"
+    },
+    {
+        "id": "034",
+        "name": "Dark Golbat",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/8/86/DarkGolbatEXTeamRocketReturns34.png"
+    },
+    {
+        "id": "035",
+        "name": "Dark Golduck",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/d/db/DarkGolduckEXTeamRocketReturns35.png"
+    },
+    {
+        "id": "036",
+        "name": "Dark Gyarados",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/e/ea/DarkGyaradosEXTeamRocketReturns36.png"
+    },
+    {
+        "id": "037",
+        "name": "Dark Houndoom",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/DarkHoundoomEXTeamRocketReturns37.png"
+    },
+    {
+        "id": "038",
+        "name": "Dark Magcargo",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Nakooka",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/DarkMagcargoEXTeamRocketReturns38.png"
+    },
+    {
+        "id": "039",
+        "name": "Dark Magneton",
+        "type": "electric",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/47/DarkMagnetonEXTeamRocketReturns39.png"
+    },
+    {
+        "id": "040",
+        "name": "Dark Pupitar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/2/29/DarkPupitarEXTeamRocketReturns40.png"
+    },
+    {
+        "id": "041",
+        "name": "Dark Pupitar",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/51/DarkPupitarEXTeamRocketReturns41.png"
+    },
+    {
+        "id": "042",
+        "name": "Dark Weezing",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Mitsuhiro Arita",
+        "image": "https://media.pokemoncentral.it/wiki/8/84/DarkWeezingEXTeamRocketReturns42.png"
+    },
+    {
+        "id": "043",
+        "name": "Heracross",
+        "type": "fighting",
+        "rarity": "U",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/HeracrossEXTeamRocketReturns43.png"
+    },
+    {
+        "id": "044",
+        "name": "Magmar",
+        "type": "fire",
+        "rarity": "U",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/9/9d/MagmarEXTeamRocketReturns44.png"
+    },
+    {
+        "id": "045",
+        "name": "Mantine",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/1/19/MantineEXTeamRocketReturns45.png"
+    },
+    {
+        "id": "046",
+        "name": "Rocket's Meowth",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/a/a5/RocketMeowthEXTeamRocketReturns46.png"
+    },
+    {
+        "id": "047",
+        "name": "Rocket's Wobbuffet",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/RocketWobbuffetEXTeamRocketReturns47.png"
+    },
+    {
+        "id": "048",
+        "name": "Seadra",
+        "type": "water",
+        "rarity": "U",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/SeadraEXTeamRocketReturns48.png"
+    },
+    {
+        "id": "049",
+        "name": "Skiploom",
+        "type": "grass",
+        "rarity": "U",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/6/64/SkiploomEXTeamRocketReturns49.png"
+    },
+    {
+        "id": "050",
+        "name": "Togepi",
+        "type": "colorless",
+        "rarity": "U",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/3/38/TogepiEXTeamRocketReturns50.png"
+    },
+    {
+        "id": "051",
+        "name": "Cubone",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/CuboneEXTeamRocketReturns51.png"
+    },
+    {
+        "id": "052",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/3c/DratiniEXTeamRocketReturns52.png"
+    },
+    {
+        "id": "053",
+        "name": "Dratini",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/c/c7/DratiniEXTeamRocketReturns53.png"
+    },
+    {
+        "id": "054",
+        "name": "Drowzee",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/d/d6/DrowzeeEXTeamRocketReturns54.png"
+    },
+    {
+        "id": "055",
+        "name": "Ekans",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/5/56/EkansEXTeamRocketReturns55.png"
+    },
+    {
+        "id": "056",
+        "name": "Grimer",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/b/b1/GrimerEXTeamRocketReturns56.png"
+    },
+    {
+        "id": "057",
+        "name": "Hoppip",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kyoko Umemoto",
+        "image": "https://media.pokemoncentral.it/wiki/b/bb/HoppipEXTeamRocketReturns57.png"
+    },
+    {
+        "id": "058",
+        "name": "Horsea",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/HorseaEXTeamRocketReturns58.png"
+    },
+    {
+        "id": "059",
+        "name": "Houndour",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/HoundourEXTeamRocketReturns59.png"
+    },
+    {
+        "id": "060",
+        "name": "Houndour",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/3b/HoundourEXTeamRocketReturns60.png"
+    },
+    {
+        "id": "061",
+        "name": "Koffing",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/0/0e/KoffingEXTeamRocketReturns61.png"
+    },
+    {
+        "id": "062",
+        "name": "Larvitar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/3/35/LarvitarEXTeamRocketReturns62.png"
+    },
+    {
+        "id": "063",
+        "name": "Larvitar",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Midori Harada",
+        "image": "https://media.pokemoncentral.it/wiki/a/ae/LarvitarEXTeamRocketReturns63.png"
+    },
+    {
+        "id": "064",
+        "name": "Ledyba",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Kagemaru Himeno",
+        "image": "https://media.pokemoncentral.it/wiki/7/7b/LedybaEXTeamRocketReturns64.png"
+    },
+    {
+        "id": "065",
+        "name": "Magikarp",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Yukiko Baba",
+        "image": "https://media.pokemoncentral.it/wiki/f/fd/MagikarpEXTeamRocketReturns65.png"
+    },
+    {
+        "id": "066",
+        "name": "Magnemite",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/95/MagnemiteEXTeamRocketReturns66.png"
+    },
+    {
+        "id": "067",
+        "name": "Mareep",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/39/MareepEXTeamRocketReturns67.png"
+    },
+    {
+        "id": "068",
+        "name": "Marill",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Sumiyoshi Kizuki",
+        "image": "https://media.pokemoncentral.it/wiki/2/2e/MarillEXTeamRocketReturns68.png"
+    },
+    {
+        "id": "069",
+        "name": "Onix",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/65/OnixEXTeamRocketReturns69.png"
+    },
+    {
+        "id": "070",
+        "name": "Psyduck",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/9/92/PsyduckEXTeamRocketReturns70.png"
+    },
+    {
+        "id": "071",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Aya Kusube",
+        "image": "https://media.pokemoncentral.it/wiki/8/85/RattataEXTeamRocketReturns71.png"
+    },
+    {
+        "id": "072",
+        "name": "Rattata",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/RattataEXTeamRocketReturns72.png"
+    },
+    {
+        "id": "073",
+        "name": "Remoraid",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/9/91/RemoraidEXTeamRocketReturns73.png"
+    },
+    {
+        "id": "074",
+        "name": "Sandshrew",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/d/d4/SandshrewEXTeamRocketReturns74.png"
+    },
+    {
+        "id": "075",
+        "name": "Sentret",
+        "type": "colorless",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/6/62/SentretEXTeamRocketReturns75.png"
+    },
+    {
+        "id": "076",
+        "name": "Slowpoke",
+        "type": "psychic",
+        "rarity": "C",
+        "illustrator": "Atsuko Nishida",
+        "image": "https://media.pokemoncentral.it/wiki/6/66/SlowpokeEXTeamRocketReturns76.png"
+    },
+    {
+        "id": "077",
+        "name": "Slugma",
+        "type": "fire",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/a/a2/SlugmaEXTeamRocketReturns77.png"
+    },
+    {
+        "id": "078",
+        "name": "Spinarak",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Yuka Morii",
+        "image": "https://media.pokemoncentral.it/wiki/c/c4/SpinarakEXTeamRocketReturns78.png"
+    },
+    {
+        "id": "079",
+        "name": "Swinub",
+        "type": "fighting",
+        "rarity": "C",
+        "illustrator": "Tomokazu Komiya",
+        "image": "https://media.pokemoncentral.it/wiki/7/7d/SwinubEXTeamRocketReturns79.png"
+    },
+    {
+        "id": "080",
+        "name": "Voltorb",
+        "type": "electric",
+        "rarity": "C",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/5/55/VoltorbEXTeamRocketReturns80.png"
+    },
+    {
+        "id": "081",
+        "name": "Wooper",
+        "type": "water",
+        "rarity": "C",
+        "illustrator": "Kouki Saitou",
+        "image": "https://media.pokemoncentral.it/wiki/4/4d/WooperEXTeamRocketReturns81.png"
+    },
+    {
+        "id": "082",
+        "name": "Zubat",
+        "type": "grass",
+        "rarity": "C",
+        "illustrator": "Miki Tanaka",
+        "image": "https://media.pokemoncentral.it/wiki/3/3e/ZubatEXTeamRocketReturns82.png"
+    },
+    {
+        "id": "083",
+        "name": "Copycat",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/CopycatEXTeamRocketReturns83.jpg"
+    },
+    {
+        "id": "084",
+        "name": "Pokémon Retriever",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/Pok%C3%A9monRetrieverEXTeamRocketReturns84.png"
+    },
+    {
+        "id": "085",
+        "name": "Pow! Hand Extension",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/a/a8/PowHandExtensionEXTeamRocketReturns85.png"
+    },
+    {
+        "id": "086",
+        "name": "Rocket's Admin.",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/f/fc/RocketAdminEXTeamRocketReturns86.png"
+    },
+    {
+        "id": "087",
+        "name": "Rocket's Hideout",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/2/2b/RocketHideoutEXTeamRocketReturns87.png"
+    },
+    {
+        "id": "088",
+        "name": "Rocket's Mission",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/4/45/RocketMissionEXTeamRocketReturns88.png"
+    },
+    {
+        "id": "089",
+        "name": "Rocket's Poké Ball",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/5/50/RocketPkballEXTeamRocketReturns89.png"
+    },
+    {
+        "id": "090",
+        "name": "Rocket's Tricky Gym",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Ryo Ueda",
+        "image": "https://media.pokemoncentral.it/wiki/9/93/RocketTrickyGymEXTeamRocketReturns90.png"
+    },
+    {
+        "id": "091",
+        "name": "Surprise! Time Machine",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/d/d8/SurpriseTimeMachineEXTeamRocketReturns91.png"
+    },
+    {
+        "id": "092",
+        "name": "Swoop! Teleporter",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/e/eb/SwoopTeleporterEXTeamRocketReturns92.png"
+    },
+    {
+        "id": "093",
+        "name": "Venture Bomb",
+        "type": "trainer",
+        "rarity": "U",
+        "illustrator": "Katsura Tabata",
+        "image": "https://media.pokemoncentral.it/wiki/f/ff/VentureBombEXTeamRocketReturns93.png"
+    },
+    {
+        "id": "094",
+        "name": "Dark Metal Energy",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/a/a6/DarkMetalEnergyEXTeamRocketReturns94.png"
+    },
+    {
+        "id": "095",
+        "name": "R Energy",
+        "type": "dark",
+        "rarity": "U",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/2/27/REnergyEXTeamRocketReturns95.png"
+    },
+    {
+        "id": "096",
+        "name": "Rocket's Articuno ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/c/cc/RocketArticunoexEXTeamRocketReturns96.png"
+    },
+    {
+        "id": "097",
+        "name": "Rocket's Entei ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/e4/RocketEnteiexEXTeamRocketReturns97.png"
+    },
+    {
+        "id": "098",
+        "name": "Rocket's Hitmonchan ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/8/87/RocketHitmonchanexEXTeamRocketReturns98.png"
+    },
+    {
+        "id": "099",
+        "name": "Rocket's Mewtwo ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/2/2f/RocketMewtwoexEXTeamRocketReturns99.png"
+    },
+    {
+        "id": "100",
+        "name": "Rocket's Moltres ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/7/72/RocketMoltresexEXTeamRocketReturns100.png"
+    },
+    {
+        "id": "101",
+        "name": "Rocket's Scizor ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/40/RocketScizorexEXTeamRocketReturns101.png"
+    },
+    {
+        "id": "102",
+        "name": "Rocket's Scyther ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/2/26/RocketScytherexEXTeamRocketReturns102.png"
+    },
+    {
+        "id": "103",
+        "name": "Rocket's Sneasel ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/4/4c/RocketSneaselexEXTeamRocketReturns103.png"
+    },
+    {
+        "id": "104",
+        "name": "Rocket's Snorlax ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/7/75/RocketSnorlaxexEXTeamRocketReturns104.png"
+    },
+    {
+        "id": "105",
+        "name": "Rocket's Suicune ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/8/81/RocketSuicuneexEXTeamRocketReturns105.png"
+    },
+    {
+        "id": "106",
+        "name": "Rocket's Zapdos ex",
+        "type": "dark",
+        "rarity": "RHEX",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/e/e2/RocketZapdosexEXTeamRocketReturns106.png"
+    },
+    {
+        "id": "107",
+        "name": "Mudkip",
+        "type": "water",
+        "rarity": "URR",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/0/00/MudkipEXTeamRocketReturns107.png"
+    },
+    {
+        "id": "108",
+        "name": "Torchic",
+        "type": "fire",
+        "rarity": "URR",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/3/34/TorchicEXTeamRocketReturns108.png"
+    },
+    {
+        "id": "109",
+        "name": "Treecko",
+        "type": "grass",
+        "rarity": "URR",
+        "illustrator": "",
+        "image": "https://media.pokemoncentral.it/wiki/1/1a/TreeckoEXTeamRocketReturns109.png"
+    },
+    {
+        "id": "110",
+        "name": "Charmeleon",
+        "type": "fire",
+        "rarity": "RS",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/5/5e/CharmeleonEXTeamRocketReturns110.jpg"
+    },
+    {
+        "id": "111",
+        "name": "Here Comes Team Rocket!",
+        "type": "trainer",
+        "rarity": "RS",
+        "illustrator": "Ken Sugimori",
+        "image": "https://media.pokemoncentral.it/wiki/a/a1/HereComesTeamRocketEXTeamRocketReturns111.jpg"
+    }
+]

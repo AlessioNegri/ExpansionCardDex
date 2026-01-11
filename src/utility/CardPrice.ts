@@ -162,6 +162,14 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
         case 'EX':  return `${url}/Expedition-Base-Set/${cardName}-[PH]EX${card.id.replaceAll('0', '')}`;
         case 'AQ':  return `${url}/Aquapolis/${cardName}-[PH]AQ${card.id.replaceAll('0', '')}`;
         case 'SK':  return `${url}/Skyridge/${cardName}-[PH]SK${card.id.replaceAll('0', '')}`;
+        case 'RS':  return `${url}/EX-Ruby-Sapphire/${cardName}-[PH]RS${card.id.replaceAll('0', '')}`;
+        case 'SS':  return `${url}/EX-Sandstorm/${cardName}-[PH]SS${card.id.replaceAll('0', '')}`;
+        case 'DR':  return `${url}/EX-Dragon/${cardName}-[PH]DR${card.id.replaceAll('0', '')}`;
+        case 'MA':  return `${url}/EX-Team-Magma-vs-Team-Aqua/${cardName}-[PH]MA${card.id.replaceAll('0', '')}`;
+        case 'HL':  return `${url}/EX-Hidden-Legends/${cardName}-[PH]HL${card.id.replaceAll('0', '')}`;
+        case 'FG':  return `${url}/EX-FireRed-LeafGreen/${cardName}-[PH]FG${card.id.replaceAll('0', '')}`;
+        case 'TRR':  return `${url}/EX-Team-Rocket-Returns/${cardName}-[PH]TRR${card.id.replaceAll('0', '')}`;
+        case 'DX':  return `${url}/EX-Deoxys/${cardName}-[PH]DX${card.id.replaceAll('0', '')}`;
         case 'MEG': return `${url}/Mega-Evolution/${cardName}-[PH]MEG${card.id}`;
         case 'PFL': return `${url}/Phantasmal-Flames/${cardName}-[PH]PFL${card.id}`;
 
@@ -177,6 +185,8 @@ const getCardUrl = (expansionCode: string, card: CardData): string =>
  */
 const fetchCardPriceByVersion = async (url: string, version: string): Promise<string | null> =>
 {
+    // * Replace placeholder 'PH' with version
+    
     if (url.includes('[PH]')) url = url.replace('[PH]', version);
     
     const response = await fetch(url);

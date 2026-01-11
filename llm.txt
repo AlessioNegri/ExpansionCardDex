@@ -28,6 +28,10 @@ and the following for rarity
     "RH": "Rare Holo",
     "SRH": "SuperRare Holo",
     "SH": "Shining Holo",
+    "RHEX": "Rare Holo ex",
+    "RS": "Rare Secret",
+    "URR": "Ultra-Rare Rare",
+
     "RR": "Double Rare",
     "IR": "Illustration Rare",
     "UR": "Ultra Rare",
